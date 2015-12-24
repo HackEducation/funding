@@ -1,0 +1,66 @@
+---
+---
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <!-- content start -->
+
+    <div class="page-content">
+      <div class="wrapper">
+      	
+		<div class="teaserimage">
+		    <div class="teaserimage-image" {% if site.cover %}style="background-image: url({{ site.cover }})"{% endif %}>
+		        Teaser Image
+		    </div>
+		</div>
+		
+		<header class="blog-header">
+		    {% if site.logo %}
+		      <a class="blog-logo" href="{{site.url}}" style="background-image: url('{{ site.logo }}')">{{ site.title }}</a>
+		    {% endif %}
+		    <h1 class="blog-title">{{ site.title }}</h1>
+		    <h2 class="blog-description">{{ site.description }}</h2>
+		    <div class="custom-links">
+		      {% for social in site.social %}
+		        {% if social.url %}
+		            <a class="icon-{{ social.icon }}" href="{{ social.url }}">
+		              <i class="fa fa-{{ social.icon }}"></i>
+		            </a>
+		            &nbsp;&nbsp;·&nbsp;&nbsp;
+		        {% endif %}
+		      {% endfor %}
+		      
+		      <!--edit your nav here-->
+		      <a href="http://audreywatters.com">About</a> 
+		      <!--edit your nav here-->
+		      
+		    </div>
+		</header>
+		
+		<main class="content" role="main">      	
+         	<article class="post"> 
+             	<section class="post-content">
+          		<a name="topofpage"></a>  	
+        	{{ content }}
+        		</section>
+        	</article>
+        	
+       </main>
+       
+      </div>
+    </div>
+
+    <!-- content end -->
+
+    {% include footer.html %}
+    {% include javascripts.html %}
+
+  </body>
+
+</html>
