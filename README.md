@@ -1,3 +1,3 @@
-Top Ed-Tech Trends of 2016
+Ed-Tech Industry Funding
 ========
 
