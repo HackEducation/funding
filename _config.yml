@@ -1,6 +1,6 @@
 # Build settings
 markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 
 # Site settings
 title: "Ed-Tech Funding"
