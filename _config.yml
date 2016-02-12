@@ -32,8 +32,8 @@ social:
     share_link: "&url="
 
   - icon:	facebook
-    url:	
-    desc: 
+    url:	https://facebook.com/history.future.education
+    desc: Like me on facebook
     share_url: http://www.facebook.com/sharer.php
     share_title: ?t=
     share_link: "&amp;u="
