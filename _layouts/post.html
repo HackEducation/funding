@@ -9,7 +9,7 @@
       <article class="post">
         {% if page.image %}
         <div class="article-image">
-          <div class="post-image-image" {% if site.cover %}style="background-image: url({{ site.cover }})"{% endif %}>
+          <div class="post-image-image" style="background-image: url({% if page.image %}{{ page.image }}{% endif %})">
             Article Image
           </div>
           <div class="post-meta">
@@ -92,7 +92,7 @@
       <div class="inner">
         <h1 class="blog-title">{{ site.title }}</h1>
         <h2 class="blog-description">{{ site.description }}</h2>
-        <a href="/" class="btn">Back</a>
+        <a href="/blog/" class="btn">Back to Blog</a>
       </div>
     </div>
     {% include javascripts.html %}

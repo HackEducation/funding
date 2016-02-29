@@ -22,38 +22,43 @@ paginate:	5
 paginate_path: "/blog/page:num"
 permalink: /:categories/:year/:month/:day/:title 
 
+url: "http://funding.hackeducation.com" # the base hostname & protocol for your site
+baseurl: ""
+#used to display twitter cards
+twitter_handle: '@hackeducation'
+
 # social icons and sharing options
 social:
-  - icon:	twitter
-    url:	https://twitter.com/audreywatters
+  - icon:   twitter
+    url:    https://twitter.com/hackeducation
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&url="
 
-  - icon:	facebook
-    url:	https://facebook.com/history.future.education
+  - icon:   facebook
+    url:    https://facebook.com/history.future.education
     desc: Like me on facebook
-    share_url: http://www.facebook.com/sharer.php
-    share_title: ?t=
-    share_link: "&amp;u="
+    share_url: http://www.facebook.com/sharer/sharer.php
+    share_title: ?title=
+    share_link: "?u="
 
-  - icon:	github
-    url:	https://github.com/audreywatters
-    desc:	Fork me on github
-    share_url:
+  - icon:   github
+    url:    https://github.com/audreywatters
+    desc:   Fork me on github
+    share_url: 
     share_title:
     share_link:
 
-  - icon:	google-plus
-    url:	
-    desc:	
-    share_url:
-    share_title:
-    share_link:
+ # - icon:  google-plus
+ #   url:   
+ #   desc:  
+ #   share_url:
+ #   share_title:
+ #   share_link:
 
   - icon: rss
-    url:  http://hackeducation.com/feed.xml
+    url:  http://funding.hackeducation.com/feed.xml
     desc: Subscribe
     share_url:
     share_title:
