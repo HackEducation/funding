@@ -196,6 +196,10 @@
 {"Investor":"Bee Partners","Startup":"Magoosh"},
 {"Investor":"NewSchools Venture Fund","Startup":"MasteryConnect"},
 {"Investor":"Learn Capital","Startup":"MasteryConnect"},
+{"Investor":"Alex Khein","Startup":"Medacore"},
+{"Investor":"Andrew Wilkinson","Startup":"Medacore"},
+{"Investor":"Jesse Ma","Startup":"Medacore"},
+{"Investor":"Rasool Rayani","Startup":"Medacore"},
 {"Investor":"Techstars","Startup":"Memrise"},
 {"Investor":"Ken Baumann","Startup":"Memrise"},
 {"Investor":"Techammer","Startup":"Memrise"},
@@ -337,8 +341,4 @@
 {"Investor":"Legend Capital","Startup":"Wanxue Education"},
 {"Investor":"Sequoia Capital","Startup":"Wanxue Education"},
 {"Investor":"500 Startups","Startup":"YongoPal"},
-{"Investor":"Artesian Capital Management","Startup":"Zookal"},
-{"Investor":"Alex Khein","Startup":"Medacore"},
-{"Investor":"Andrew Wilkinson","Startup":"Medacore"},
-{"Investor":"Jesse Ma","Startup":"Medacore"},
-{"Investor":"Rasool Rayani","Startup":"Medacore"}]
+{"Investor":"Artesian Capital Management","Startup":"Zookal"}]

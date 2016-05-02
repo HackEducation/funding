@@ -233,6 +233,8 @@
 {"Investor":"NewSchools Venture Fund","Startup":"Learnzillion"},
 {"Investor":"Social Venture Fund","Startup":"Learnzillion"},
 {"Investor":"Ulu Ventures","Startup":"Learnzillion"},
+{"Investor":"Runa Capital","Startup":"Lingualeo"},
+{"Investor":"Prototron","Startup":"Lingvist"},
 {"Investor":"True Ventures","Startup":"littleBits"},
 {"Investor":"Khosla Ventures","Startup":"littleBits"},
 {"Investor":"Lerer Hippeau Ventures","Startup":"littleBits"},
@@ -423,6 +425,4 @@
 {"Investor":"Weld North","Startup":"Voxy"},
 {"Investor":"DN Capital","Startup":"YogiPlay"},
 {"Investor":"Richmond Park Partners","Startup":"YogiPlay"},
-{"Investor":"IDG Capital Partners","Startup":"Yuantiku"},
-{"Investor":"Runa Capital","Startup":"Lingualeo"},
-{"Investor":"Prototron","Startup":"Lingvist"}]
+{"Investor":"IDG Capital Partners","Startup":"Yuantiku"}]

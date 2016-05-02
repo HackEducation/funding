@@ -11,7 +11,7 @@
 {"Investor":"Maveron","Startup":"Altius Education"},
 {"Investor":"Spark Capital","Startup":"Altius Education"},
 {"Investor":"Lightbank","Startup":"BenchPrep"},
-{"Investor":"Johann (Hansi) Hansmann","Startup":"Busuu"},
+{"Investor":"Johann Hansi Hansmann","Startup":"Busuu"},
 {"Investor":"Ace Limited","Startup":"Chegg"},
 {"Investor":"Allen & Company","Startup":"ConnectEdu"},
 {"Investor":"Andrew Boszhardt Jr.","Startup":"Course Hero"},
@@ -71,6 +71,7 @@
 {"Investor":"Naval Ravikant","Startup":"LearnBoost"},
 {"Investor":"Othman Laraki","Startup":"LearnBoost"},
 {"Investor":"RRE Ventures","Startup":"LearnBoost"},
+{"Investor":"AltaIR Capital","Startup":"Lingualeo"},
 {"Investor":"Balderton Capital","Startup":"Memrise"},
 {"Investor":"Founder Collective","Startup":"MightyBell"},
 {"Investor":"Kaplan Ventures","Startup":"MoodleRooms"},
@@ -124,5 +125,4 @@
 {"Investor":"Tony Broglio","Startup":"Voxy"},
 {"Investor":"NAV.VC","Startup":"Wiggio"},
 {"Investor":"500 Startups","Startup":"YongoPal"},
-{"Investor":"Dave McClure","Startup":"YongoPal"},
-{"Investor":"AltaIR Capital","Startup":"Lingualeo"}]
+{"Investor":"Dave McClure","Startup":"YongoPal"}]
