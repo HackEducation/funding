@@ -16,7 +16,7 @@
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="{{ site.twitter_handle }}" />
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-    <meta name="twitter:image" content="{{ site.cover | prepend: site.url }}" />
+    <meta name="twitter:image" content="{{ site.logo2 | prepend: site.url }}" />
     {% if page.excerpt %}
     <meta name="twitter:description"  content="{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}" />
     {% elsif site.description %}
