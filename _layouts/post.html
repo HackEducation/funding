@@ -78,7 +78,7 @@
             <footer class="site-footer">
                 <section class="copyright"><i class="fa fa-creative-commons"></i><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"> Attribution-NonCommercial-ShareAlike 4.0</a></section>
                 <hr>
-                <a href="http://audreywatters.com">About the Author</a>&nbsp;&nbsp;·&nbsp;&nbsp; {% if post.imagecredits != null %}<a href="{{ post.imagecredits }}">Image credits</a>{% else %}<a href="{{ site.covercredits }}">Image credits</a>{% endif %}
+                <a href="http://audreywatters.com">About the Author</a>&nbsp;&nbsp;·&nbsp;&nbsp; {% if page.imagecredits != null %}<a href="{{ page.imagecredits }}">Image credits</a>{% else %}<a href="{{ site.covercredits }}">Image credits</a>{% endif %}
               </div>
             </footer>
           </div>
