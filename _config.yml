@@ -19,7 +19,7 @@ name: 'Audrey Watters'
 author: 'Audrey Watters'
 author_image: "/assets/images/author.jpg"
 
-paginate:	5
+paginate:	10
 paginate_path: "/blog/page:num"
 permalink: /:categories/:year/:month/:day/:title 
 
