@@ -1,16 +1,10 @@
-DATA:
+## CONTENT
 
-The data in this research project is licensed CC-BY.
+The content on this site is licensed CC-BY-NC-SA by Audrey Watters
 
-CONTENT:
+Copyright (c) 2017 Audrey Watters
 
-The written content in this research project, including all the articles posted here, is licensed CC-BY-SA-NC.
-
-CONTACT: 
-
-For more information on this repository's data or written content, contact mail@audreywatters.com
-
-THEME:
+## CODE
 
 The mediator Jekyll theme is licenced under MIT License (MIT)
 
@@ -33,3 +27,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+
+
