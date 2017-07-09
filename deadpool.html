@@ -43,6 +43,10 @@ title: The Ed-Tech Startup Deadpool
 <p>Type of company: {{ deadpool.Keyword }}</p>
 <p>Amount of funding raise: {{ deadpool.Investment }}</p>
 
+<hr >
+
+{% endfor %}
+
 <!-- Deadpool2015 -->
 {% assign deadpools2015 = site.data.deadpool.2015 %}
 {% assign deadpools2015 = deadpools2015 | sort:"Name" %}
@@ -57,6 +61,10 @@ title: The Ed-Tech Startup Deadpool
 
 <p>Type of company: {{ deadpool.Keyword }}</p>
 <p>Amount of funding raise: {{ deadpool.Investment }}</p>
+
+<hr >
+
+{% endfor %}
 
 <!-- Deadpool2014 -->
 {% assign deadpools2015 = site.data.deadpool.2014 %}
@@ -73,6 +81,10 @@ title: The Ed-Tech Startup Deadpool
 <p>Type of company: {{ deadpool.Keyword }}</p>
 <p>Amount of funding raise: {{ deadpool.Investment }}</p>
 
+<hr >
+
+{% endfor %}
+
 <!-- Deadpool2013 -->
 {% assign deadpools2013 = site.data.deadpool.2013 %}
 {% assign deadpools2013 = deadpools2013 | sort:"Name" %}
@@ -87,6 +99,10 @@ title: The Ed-Tech Startup Deadpool
 
 <p>Type of company: {{ deadpool.Keyword }}</p>
 <p>Amount of funding raise: {{ deadpool.Investment }}</p>
+
+<hr >
+
+{% endfor %}
 
 
 <p><em>This data is powered by a GitHub repository: <a href="https://github.com/Hack-Education-Data/deadpool">Hack-Education-Data/deadpool</a></em></p>
