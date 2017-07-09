@@ -20,7 +20,7 @@ title: The Ed-Tech Startup Deadpool
 
 {% for deadpool in deadpools %}
 
-<p><strong><u>{{ deadpool.Name }}</u></strong>: 
+<p><strong>{{ deadpool.Name }}</strong>: 
 
 <p>Type of company: {{ deadpool.Keyword }}</p>
 <p>Amount of funding raise: {{ deadpool.Investment }}</p>
@@ -40,7 +40,67 @@ title: The Ed-Tech Startup Deadpool
 
 {% for deadpool in deadpools %}
 
-<p><strong><u>{{ deadpool.Name }}</u></strong>: 
+<p><strong>{{ deadpool.Name }}</strong>: 
+
+<p>Type of company: {{ deadpool.Keyword }}</p>
+<p>Amount of funding raise: {{ deadpool.Investment }}</p>
+
+<hr >
+
+{% endfor %}
+
+<!-- Deadpool2015 -->
+
+<p><strong>2015</strong></p>
+
+{% assign deadpools = site.data.deadpool.2015 %}
+{% assign deadpools = deadpools | sort:"Name" %}
+
+<!-- Document -->
+
+{% for deadpool in deadpools %}
+
+<p><strong>{{ deadpool.Name }}</strong>: 
+
+<p>Type of company: {{ deadpool.Keyword }}</p>
+<p>Amount of funding raise: {{ deadpool.Investment }}</p>
+
+<hr >
+
+{% endfor %}
+
+<!-- Deadpool2014 -->
+
+<p><strong>2014</strong></p>
+
+{% assign deadpools = site.data.deadpool.2014 %}
+{% assign deadpools = deadpools | sort:"Name" %}
+
+<!-- Document -->
+
+{% for deadpool in deadpools %}
+
+<p><strong>{{ deadpool.Name }}</strong>: 
+
+<p>Type of company: {{ deadpool.Keyword }}</p>
+<p>Amount of funding raise: {{ deadpool.Investment }}</p>
+
+<hr >
+
+{% endfor %}
+
+<!-- Deadpool2013 -->
+
+<p><strong>2013</strong></p>
+
+{% assign deadpools = site.data.deadpool.2013 %}
+{% assign deadpools = deadpools | sort:"Name" %}
+
+<!-- Document -->
+
+{% for deadpool in deadpools %}
+
+<p><strong>{{ deadpool.Name }}</strong>: 
 
 <p>Type of company: {{ deadpool.Keyword }}</p>
 <p>Amount of funding raise: {{ deadpool.Investment }}</p>
