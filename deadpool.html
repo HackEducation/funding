@@ -1,0 +1,95 @@
+---
+layout: default
+title: The Ed-Tech Startup Deadpool
+---
+<h3>The Ed-Tech Startup Deadpool <img src="https://s3.amazonaws.com/hackedu/template_death.png" height="42" width="42" align="right" style="margin:10px"></h3>
+
+<br />
+
+<p><em>These are the ed-tech companies that have closed their doors since 2013. (Some of these were later acquired and revived.)</p></em>
+<hr >
+
+<!-- Deadpool2017 -->
+{% assign deadpools2017 = site.data.deadpool.2017 %}
+{% assign deadpools2017 = deadpools2017 | sort:"Name" %}
+
+<!-- Document -->
+
+{% for deadpool in deadpools2017 %}
+
+<p><strong>2017</strong></p>
+
+<p><strong><u>{{ deadpool.Name }}</u></strong>: 
+
+<p>Type of company: {{ deadpool.Keyword }}</p>
+<p>Amount of funding raise: {{ deadpool.Investment }}</p>
+
+<hr >
+
+{% endfor %}
+
+<!-- Deadpool2016 -->
+{% assign deadpools2016 = site.data.deadpool.2016 %}
+{% assign deadpools2016 = deadpools2016 | sort:"Name" %}
+
+<!-- Document -->
+
+{% for deadpool in deadpools2016 %}
+
+<p><strong>2016</strong></p>
+
+<p><strong><u>{{ deadpool.Name }}</u></strong>: 
+
+<p>Type of company: {{ deadpool.Keyword }}</p>
+<p>Amount of funding raise: {{ deadpool.Investment }}</p>
+
+<!-- Deadpool2015 -->
+{% assign deadpools2015 = site.data.deadpool.2015 %}
+{% assign deadpools2015 = deadpools2015 | sort:"Name" %}
+
+<!-- Document -->
+
+{% for deadpool in deadpools2015 %}
+
+<p><strong>2015</strong></p>
+
+<p><strong><u>{{ deadpool.Name }}</u></strong>: 
+
+<p>Type of company: {{ deadpool.Keyword }}</p>
+<p>Amount of funding raise: {{ deadpool.Investment }}</p>
+
+<!-- Deadpool2014 -->
+{% assign deadpools2015 = site.data.deadpool.2014 %}
+{% assign deadpools2014 = deadpools2014 | sort:"Name" %}
+
+<!-- Document -->
+
+{% for deadpool in deadpools2014 %}
+
+<p><strong>2014</strong></p>
+
+<p><strong><u>{{ deadpool.Name }}</u></strong>: 
+
+<p>Type of company: {{ deadpool.Keyword }}</p>
+<p>Amount of funding raise: {{ deadpool.Investment }}</p>
+
+<!-- Deadpool2013 -->
+{% assign deadpools2013 = site.data.deadpool.2013 %}
+{% assign deadpools2013 = deadpools2013 | sort:"Name" %}
+
+<!-- Document -->
+
+{% for deadpool in deadpools2013 %}
+
+<p><strong>2013</strong></p>
+
+<p><strong><u>{{ deadpool.Name }}</u></strong>: 
+
+<p>Type of company: {{ deadpool.Keyword }}</p>
+<p>Amount of funding raise: {{ deadpool.Investment }}</p>
+
+
+<p><em>This data is powered by a GitHub repository: <a href="https://github.com/Hack-Education-Data/deadpool">Hack-Education-Data/deadpool</a></em></p>
+
+
+
