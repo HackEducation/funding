@@ -10,14 +10,35 @@ title: The Ed-Tech Startup Deadpool
 <hr >
 
 <!-- Deadpool2017 -->
-{% assign deadpool2017 = site.data.deadpool.2017 %}
-{% assign deadpool2017 = deadpool2017 | sort:"Name" %}
+
+<p><strong>2017</strong></p>
+
+{% assign deadpools = site.data.deadpool.2017 %}
+{% assign deadpools = deadpools | sort:"Name" %}
 
 <!-- Document -->
 
-{% for deadpool in deadpool2017 %}
+{% for deadpool in deadpools %}
 
-<p><strong>2017</strong></p>
+<p><strong><u>{{ deadpool.Name }}</u></strong>: 
+
+<p>Type of company: {{ deadpool.Keyword }}</p>
+<p>Amount of funding raise: {{ deadpool.Investment }}</p>
+
+<hr >
+
+{% endfor %}
+
+<!-- Deadpool2016 -->
+
+<p><strong>2016</strong></p>
+
+{% assign deadpools = site.data.deadpool.2016 %}
+{% assign deadpools = deadpools | sort:"Name" %}
+
+<!-- Document -->
+
+{% for deadpool in deadpools %}
 
 <p><strong><u>{{ deadpool.Name }}</u></strong>: 
 
