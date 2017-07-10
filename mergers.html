@@ -1,0 +1,68 @@
+---
+layout: default
+title: Education Mergers
+---
+<h3>Education IPOs <img src="https://s3.amazonaws.com/hackedu/template_mergers.png" height="42" width="42" align="right" style="margin:10px"></h3>
+
+<br />
+
+<p><em>These are the education companies that have merged since 2015.</p></em>
+<hr >
+
+<!-- Mergers2017 -->
+
+<p><strong>2017</strong></p>
+
+{% assign mergers = site.data.mergers.2017 %}
+{% assign mergers = mergers | sort:"Name1" %}
+
+<!-- Document -->
+
+{% for merger in mergers %}
+
+<ul>
+<li><strong>{{ merger.Name1 }}</strong> and <strong>{{ merger.Name2 }}</strong> (<a href="{{ merger.URL }}">News Link</a>)</li>
+</ul>
+
+{% endfor %}
+
+<hr >
+
+<!-- Mergers2016 -->
+
+<p><strong>2016</strong></p>
+
+{% assign mergers = site.data.mergers.2016 %}
+{% assign mergers = mergers | sort:"Name1" %}
+
+<!-- Document -->
+
+{% for merger in mergers %}
+
+<ul>
+<li><strong>{{ merger.Name1 }}</strong> and <strong>{{ merger.Name2 }}</strong> (<a href="{{ merger.URL }}">News Link</a>)</li>
+</ul>
+
+{% endfor %}
+
+<hr >
+
+<!-- Mergers2015 -->
+
+<p><strong>2015</strong></p>
+
+{% assign mergers = site.data.mergers.2015 %}
+{% assign mergers = mergers | sort:"Name1" %}
+
+<!-- Document -->
+
+{% for merger in mergers %}
+
+<ul>
+<li><strong>{{ merger.Name1 }}</strong> and <strong>{{ merger.Name2 }}</strong> (<a href="{{ merger.URL }}">News Link</a>)</li>
+</ul>
+
+{% endfor %}
+
+
+<p><em>This data is powered by a GitHub repository: <a href="https://github.com/Hack-Education-Data/ipos">Hack-Education-Data/ipos</a>.</em></p>
