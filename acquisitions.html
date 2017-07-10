@@ -1,0 +1,69 @@
+---
+layout: default
+title: Education Acquisitions
+---
+<h3>Education Technology Acquisitions <img src="https://s3.amazonaws.com/hackedu/template_acquisitions.png" height="42" width="42" align="right" style="margin:10px"></h3>
+
+<br />
+
+<p><em>These are the education companies that have been acquired since 2015.</p></em>
+<hr >
+
+<!-- Acquisitions2017 -->
+
+<p><strong>2017</strong></p>
+
+{% assign acquisitions = site.data.acquisition.2017 %}
+{% assign acquisitions = acquisitions | sort:"Name" %}
+
+<!-- Document -->
+
+{% for acquisition in acquisitions %}
+
+<ul>
+<li><strong>{{ acquisition.Name }}</strong> was acquired by {{ acquisition.Acquirer }} (Amount Paid: {{ acquisition.Amount }}; <a href="{{ acquisition.URL }}">News Link</a>)</li>
+</ul>
+
+{% endfor %}
+
+<hr >
+
+<!-- Acquisitions2016 -->
+
+<p><strong>2016</strong></p>
+
+{% assign acquisitions = site.data.acquisitions.2016 %}
+{% assign acquisitions = acquisitions | sort:"Name" %}
+
+<!-- Document -->
+
+{% for acquisition in acquisitions %}
+
+<li><strong>{{ acquisition.Name }}</strong> was acquired by {{ acquisition.Acquirer }} (Amount Paid: {{ acquisition.Amount }}; <a href="{{ acquisition.URL }}">News Link</a>)</li>
+</ul>
+
+{% endfor %}
+
+<hr >
+
+<!-- Acquisitions2015 -->
+
+<p><strong>2015</strong></p>
+
+{% assign acquisitions = site.data.acquisitions.2015 %}
+{% assign acquisitions = acquisitions | sort:"Name" %}
+
+<!-- Document -->
+
+{% for acquisition in acquisitions %}
+
+<ul>
+<li><strong>{{ acquisition.Name }}</strong> was acquired by {{ acquisition.Acquirer }} (Amount Paid: {{ acquisition.Amount }}; <a href="{{ acquisition.URL }}">News Link</a>)</li>
+</ul>
+
+{% endfor %}
+
+<hr >
+
+
+<p><em>This data is powered by a GitHub repository: <a href="https://github.com/Hack-Education-Data/acquisitions">Hack-Education-Data/acquisitions</a>.</em></p>
