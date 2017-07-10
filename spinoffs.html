@@ -1,0 +1,51 @@
+---
+layout: default
+title: Education Spinoffs
+---
+<h3>Education Technology Spinoffs <img src="https://s3.amazonaws.com/hackedu/template_spinoff.png" height="42" width="42" align="right" style="margin:10px"></h3>
+
+<br />
+
+<p><em>These are the education companies that have been spun out of other companies (since 2016).</p></em>
+<hr >
+
+<!-- Spinoffs2017 -->
+
+<p><strong>2017</strong></p>
+
+{% assign spinoffs = site.data.spinoffs.2017 %}
+{% assign spinoffs = spinoffs | sort:"Name" %}
+
+<!-- Document -->
+
+{% for spinoff in spinoffs %}
+
+<ul>
+<li><strong>{{ spinoff.Name }}</strong> (Parent company: {{ spinoff.Parent }}; <a href="{{ spinoff.URL }}">News Link</a>)</li>
+</ul>
+
+{% endfor %}
+
+<hr >
+
+<!-- Spinoffs2016 -->
+
+<p><strong>2016</strong></p>
+
+{% assign spinoffs = site.data.spinoffs.2016 %}
+{% assign spinoffs = spinoffs | sort:"Name" %}
+
+<!-- Document -->
+
+{% for spinoff in spinoffs %}
+
+<ul>
+<li><strong>{{ spinoff.Name }}</strong> (Parent company: {{ spinoff.Parent }}; <a href="{{ spinoff.URL }}">News Link</a>)</li>
+</ul>
+
+{% endfor %}
+
+<hr >
+
+
+<p><em>This data is powered by a GitHub repository: <a href="https://github.com/Hack-Education-Data/mergers">Hack-Education-Data/mergers</a>.</em></p>
