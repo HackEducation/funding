@@ -1,0 +1,70 @@
+---
+layout: default
+title: Ed-Tech Investments
+---
+<h3>Education Technology Investments <img src="https://s3.amazonaws.com/hackedu/icon_vc.png" height="42" width="42" align="right" style="margin:10px"></h3>
+
+<br />
+
+<p><em>These are the education technologies companies that have raised venture capital (since 2015).</p></em>
+<hr >
+
+<!-- Investments2017 -->
+
+<p><strong>2017</strong></p>
+
+{% assign investments = site.data.investments.2017 %}
+{% assign investments = investments | sort:"Name" %}
+
+<!-- Document -->
+
+{% for investment in investments %}
+
+<ul>
+<li><strong>{{ investment.Name }}</strong> (Amount raised: {{ investment.Amount }}; Investors: {{ investment.Investors }})</li>
+</ul>
+
+{% endfor %}
+
+<hr >
+
+<!-- Investments2016 -->
+
+<p><strong>2016</strong></p>
+
+{% assign investments = site.data.investments.2016 %}
+{% assign investments = investments | sort:"Name" %}
+
+<!-- Document -->
+
+{% for investment in investments %}
+
+<ul>
+<li><strong>{{ investment.Name }}</strong> (Amount raised: {{ investment.Amount }}; Investors: {{ investment.Investors }})</li>
+</ul>
+
+{% endfor %}
+
+<hr >
+
+<!-- Investments2015 -->
+
+<p><strong>2015</strong></p>
+
+{% assign investments = site.data.investments.2015 %}
+{% assign investments = investments | sort:"Name" %}
+
+<!-- Document -->
+
+{% for acquisition in acquisitions %}
+
+<ul>
+<li><strong>{{ investment.Name }}</strong> (Amount raised: {{ investment.Amount }}; Investors: {{ investment.Investors }})</li>
+</ul>
+
+{% endfor %}
+
+<hr >
+
+
+<p><em>This data is powered by a GitHub repository: <a href="https://github.com/Hack-Education-Data/investments">Hack-Education-Data/investments</a>.</em></p>
