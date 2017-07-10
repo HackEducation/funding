@@ -39,6 +39,7 @@ title: Education Acquisitions
 
 {% for acquisition in acquisitions %}
 
+<ul>
 <li><strong>{{ acquisition.Name }}</strong> was acquired by {{ acquisition.Acquirer }} (Amount Paid: {{ acquisition.Amount }}; <a href="{{ acquisition.URL }}">News Link</a>)</li>
 </ul>
 
