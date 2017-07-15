@@ -33,8 +33,22 @@ title: Gates Foundation Grants
 <li><a href="#1998">1998</a></li>
 </ul>
 
-<h3><a name="2017"></a>2017</h3>
-<div>
+<script type="text/javascript">
+  function showhide($divid)
+    {
+    if(document.getElementById($divid).style.display=='none')
+      {
+      document.getElementById($divid).style.display = '';
+      }
+     else
+     {
+      document.getElementById($divid).style.display = 'none';
+     }
+    }
+</script>
+
+<h3 onclick="showhide('funding-2017'); return false;"><a name="2017"></a>2017</h3>
+<div style="display: none" id="funding-2017">
   <p>Title</p>
   <p>Description</p>
   <p>Amount:</p>
@@ -51,7 +65,21 @@ title: Gates Foundation Grants
 
 <p><a href="#top">Back to Top</a></p>
 
-<h3><a name="2016"></a>2016</h3>
+<h3 onclick="showhide('funding-2016'); return false;"><a name="2016"></a>2016</h3>
+<div style="display: none" id="funding-2016">
+  <p>Title</p>
+  <p>Description</p>
+  <p>Amount:</p>
+  <hr />
+  <p>Title</p>
+  <p>Description</p>
+  <p>Amount:</p>
+  <hr />
+  <p>Title</p>
+  <p>Description</p>
+  <p>Amount:</p>
+  <hr />  
+</div>
 
 <p><a href="#top">Back to Top</a></p>
 
