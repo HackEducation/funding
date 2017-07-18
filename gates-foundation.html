@@ -63,23 +63,7 @@ title: Gates Foundation Grants
 <div style="display: none;" id="funding-2017">
 <br />
 
-<!-- Grants -->
-{% assign grants = site.data.gates.2017 %}
-{% assign grants = grants | sort:"Name" %}
 
-<!-- Document -->
-
-{% for grant in grants %}
-
-<p><strong>{{ grant.Name }}</strong></p>
-
-<p>Amount: {{ grant.Amount }})</p>
-
-<p>{{ grant. Description }}</p>
-
-<hr>
-
-{% endfor %}
 
 </div>
 
