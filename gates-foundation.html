@@ -539,13 +539,57 @@ title: Gates Foundation Grants
 
 <p style="font-size:12px"><a href="#top"><em>Back to Top</em></a></p>
 
-<h3><a name="1999"></a>1999</h3>
+<h3 onclick="showhide('funding-1999'); return false;"><a name="1999"></a>1999</h3>
+<div style="display: none;" id="funding-1999">
 
-<p><a href="#top">Back to Top</a></p>
+<br />
+<!-- Grants -->
+{% assign grants = site.data.gates.1999 %}
+{% assign grants = grants | sort:"Name" %}
 
-<h3><a name="1998"></a>1998</h3>
+<!-- Document -->
 
-<p><a href="#top">Back to Top</a></p>
+{% for grant in grants %}
+
+<p><strong>{{ grant.Name }}</strong></p>
+
+<p>Amount: {{ grant.Amount }}</p>
+
+<p>{{ grant. Description }}</p>
+
+<hr>
+
+{% endfor %}
+
+</div>
+
+<p style="font-size:12px"><a href="#top"><em>Back to Top</em></a></p>
+
+<h3 onclick="showhide('funding-1998'); return false;">><a name="1998"></a>1998</h3>
+<div style="display: none;" id="funding-1998">
+
+<br />
+<!-- Grants -->
+{% assign grants = site.data.gates.1998 %}
+{% assign grants = grants | sort:"Name" %}
+
+<!-- Document -->
+
+{% for grant in grants %}
+
+<p><strong>{{ grant.Name }}</strong></p>
+
+<p>Amount: {{ grant.Amount }}</p>
+
+<p>{{ grant. Description }}</p>
+
+<hr>
+
+{% endfor %}
+
+</div>
+
+<p style="font-size:12px"><a href="#top"><em>Back to Top</em></a></p>
 
 <p style="text-align: right; font-size:12px"><em>This data is powered by a GitHub repository: <a href="https://github.com/Hack-Education-Data/gates-foundation">Hack-Education-Data/gates-foundation</a>. Last updated: 18 July, 2017</em></p>
 
