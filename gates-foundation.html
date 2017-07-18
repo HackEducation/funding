@@ -222,9 +222,32 @@ title: Gates Foundation Grants
 
 <p style="font-size:12px"><a href="#top"><em>Back to Top</em></a></p>
 
-<h3><a name="2011"></a>2011</h3>
+<h3 onmouseover="showhide('funding-2011'); return false;"><a name="2011"></a>2011</h3>
+<div style="display: none;" id="funding-2011">
 
-<p><a href="#top">Back to Top</a></p>
+<br />
+
+<!-- Grants -->
+{% assign grants = site.data.gates.2011 %}
+{% assign grants = grants | sort:"Name" %}
+
+<!-- Document -->
+
+{% for grant in grants %}
+
+<p><strong>{{ grant.Name }}</strong></p>
+
+<p>Amount: {{ grant.Amount }}</p>
+
+<p>{{ grant. Description }}</p>
+
+<hr>
+
+{% endfor %}
+
+</div>
+
+<p style="font-size:12px"><a href="#top"><em>Back to Top</em></a></p>
 
 <h3><a name="2010"></a>2010</h3>
 
