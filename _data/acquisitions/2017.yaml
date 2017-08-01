@@ -225,7 +225,7 @@
   URL: >-
     http://economictimes.indiatimes.com/small-biz/startups/byjus-to-buy-part-of-online-education-company-tutorvista/articleshow/58677298.cms
   Acquirer: Byju's
-  Notes: tutoring; K-12; B to C
+  Notes: tutoring; K-12; B to C; acquired from Pearson
 - Date: June
   Name: Thrivist
   Amount: unknown
@@ -266,3 +266,45 @@
     https://www.edsurge.com/news/2017-06-27-certica-acquires-unbound-concepts-to-make-digital-content-more-discoverable
   Acquirer: Certica Solutions
   Notes: data integration; K-12; B to S
+- Date: July
+  Name: Edusight
+  Amount: unknown
+  URL: >-
+    https://www.edsurge.com/news/2017-07-03-canadian-publisher-nelson-acquires-digital-portfolio-gradebook-from-edusight
+  Acquirer: Nelson
+  Notes: gradebook; K-12; B to S
+- Date: July
+  Name: JumpStart
+  Amount: unknown
+  URL: >-
+    https://www.edsurge.com/news/2017-07-08-enter-the-netdragon-math-blaster-developer-jumpstart-acquired-by-chinese-gaming-giant
+  Acquirer: NetDragon
+  Notes: educational games; K-12; B to S
+- Date: July
+  Name: Edurite
+  Amount: unknown
+  URL: >-
+    https://marketbrief.edweek.org/marketplace-k-12/k-12-dealmaking-netdragon-acquires-jumpstart-byjus-acquires-tutorvista/
+  Acquirer: BYJU's
+  Notes: tutoring; K-12; B to C; acquired from Pearson
+- Date: July
+  Name: Pathsource
+  Amount: unknown
+  URL: >-
+    https://marketbrief.edweek.org/marketplace-k-12/k-12-dealmaking-silverback-learning-acquires-edifyassess-academixdirect-acquires-pathsource/
+  Acquirer: AcademixDirect
+  Notes: career placement; K-12; B to S
+- Date: July
+  Name: EdifyAssess
+  Amount: unknown
+  URL: >-
+    https://marketbrief.edweek.org/marketplace-k-12/k-12-dealmaking-silverback-learning-acquires-edifyassess-academixdirect-acquires-pathsource/
+  Acquirer: Silverback Learning
+  Notes: assessment; K-12; B to S
+- Date: July
+  Name: School Improvement Network
+  Amount: unknown
+  URL: >-
+    https://www.edsurge.com/news/2017-07-24-frontline-education-s-10th-acquisition-school-improvement-network
+  Acquirer: Frontline Education
+  Notes: professional development; K-12; B to S

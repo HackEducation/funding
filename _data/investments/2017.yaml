@@ -488,7 +488,7 @@
     https://www.edsurge.com/news/2017-02-15-canadian-teaching-program-raises-22-5m-to-further-its-cloud-based-courseware
   Investors: >-
     Union Square Ventures, Emergence Capital Partners, Georgian Partners, Golden
-    Venture Partners, iNovia Capital , SoftTech VC , and Version One Ventures
+    Venture Partners, iNovia Capital, SoftTech VC, and Version One Ventures
   Total: '$41,900,000'
   Crunchbase: 'https://www.crunchbase.com/organization/tophat#/entity'
   Keyword: classroom response
@@ -1380,5 +1380,228 @@
   Keyword: job placement
   Level: Corporate
   Type: B to B
+  Country: USA
+  Notes: ''
+- Month: July
+  Name: Chalkboard Education
+  Amount: '$235,440'
+  Series: Seed
+  URL: 'https://www.crunchbase.com/organization/chalkboard-education'
+  Investors: Jacobs Foundation
+  Total: '$235,440'
+  Crunchbase: 'https://www.crunchbase.com/organization/chalkboard-education'
+  Keyword: course recommendation
+  Level: Post-sec
+  Type: B to C
+  Country: Ghana
+  Notes: ''
+- Month: July
+  Name: PlayAblo
+  Amount: '$600,000'
+  Series: Seed
+  URL: >-
+    https://marketbrief.edweek.org/marketplace-k-12/k-12-dealmaking-frontline-buys-school-improvement-network-kahoot-gains-10-million/
+  Investors: ABI Showatech
+  Total: '$600,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/playablo#/entity'
+  Keyword: game-based learning
+  Level: K-12
+  Type: B to C
+  Country: India
+  Notes: ''
+- Month: July
+  Name: KickUp
+  Amount: '$730,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2017-07-18-kickup-raises-730k-to-make-teacher-professional-development-more-effective
+  Investors: Red House Education
+  Total: '$2,270,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/kickup#/entity'
+  Keyword: professional development
+  Level: Corporate
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: July
+  Name: Vidcode
+  Amount: '$1,500,000'
+  Series: Seed
+  URL: >-
+    https://techcrunch.com/2017/07/07/yc-backed-vidcode-raises-1-5m-to-teach-teens-to-code-using-snapchat-filters-videos-memes-and-more/
+  Investors: >-
+    BrainPOP, Cherry Ventures, CoVenture, Rethink Education, Stephano Kim, and
+    ZhenFund
+  Total: '$1,620,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/vidcode#/entity'
+  Keyword: learn-to-code
+  Level: K-12
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: July
+  Name: PeopleGrove
+  Amount: '$1,800,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2017-07-14-peoplegrove-raises-1-8-million-to-connect-students-professionals-with-mentors
+  Investors: >-
+    Reach Capital, Bisk Ventures, Collaborative Fund, FLOODGATE, GSV
+    Acceleration, Karl Ulrich, LaunchCapital, RiverPark Ventures, and University
+    Ventures
+  Total: '$2,530,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/peoplegrove#/entity'
+  Keyword: mentorship
+  Level: Post-sec
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: July
+  Name: Signal Vine
+  Amount: '$2,000,000'
+  Series: A
+  URL: >-
+    https://www.edsurge.com/news/2017-07-26-college-text-reminder-platform-receives-2m-in-series-a-round
+  Investors: New Markets Venture Partners
+  Total: '$2,250,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/signal-vine#/entity'
+  Keyword: messaging
+  Level: Post-sec
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: July
+  Name: Learnerbly
+  Amount: '$2,090,000'
+  Series: Seed
+  URL: >-
+    https://techcrunch.com/2017/07/17/rajeeb-deys-new-career-platform-learnerbly-secures-1-6m-led-by-frontline-ventures/
+  Investors: >-
+    Frontline Ventures, Claire Davenport, Future Planet Capital, Jason
+    Stockwood, London Co-Investment Fund, Playfair Capital, Renaud Visage, R
+    Ventures, and Stephan Thomas
+  Total: '$2,090,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/learnerbly#/entity'
+  Keyword: career development
+  Level: Corporate
+  Type: B to C
+  Country: UK
+  Notes: ''
+- Month: July
+  Name: Clark
+  Amount: '$2,200,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2017-07-07-clark-raises-2-2m-to-connect-families-and-tutors-online
+  Investors: >-
+    Lightspeed Ventures, Rethink Education, Flatworld Partners, and Winkelvoss
+    Capital
+  Total: '$3,500,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/clark-3#/entity'
+  Keyword: tutoring
+  Level: K-12
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: July
+  Name: Ironhack
+  Amount: '$3,000,000'
+  Series: A
+  URL: >-
+    https://techcrunch.com/2017/07/18/ironhack-raises-3-million-for-its-coding-bootcamp/
+  Investors: JME Venture Capital
+  Total: '$3,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/ironhack#/entity'
+  Keyword: coding bootcamp
+  Level: Post-sec
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: July
+  Name: Side
+  Amount: '$5,700,000'
+  Series: A
+  URL: >-
+    https://techcrunch.com/2017/07/07/side-raises-57-million-to-match-students-with-companies-for-short-term-jobs/
+  Investors: >-
+    Xavier Niel, Anglae Ventures, Antoine Martin, Connect Ventures, Fly
+    Ventures, Jacques-Antoine Granjon, and TheFamily
+  Total: '$7,150,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/weslash#/entity'
+  Keyword: job placement
+  Level: Post-sec
+  Type: B to B
+  Country: France
+  Notes: ''
+- Month: July
+  Name: Kahoot
+  Amount: '$10,000,000'
+  Series: A
+  URL: >-
+    https://www.edsurge.com/news/2017-07-19-kahoot-gets-10-million-and-a-spot-in-the-disney-accelerator
+  Investors: 'Creandum, Northzone, and Microsoft Ventures'
+  Total: '$26,500,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/kahoot-#/entity'
+  Keyword: game-based learning
+  Level: K-12
+  Type: B to C
+  Country: Norway
+  Notes: ''
+- Month: July
+  Name: Duolingo
+  Amount: '$25,000,000'
+  Series: E
+  URL: >-
+    https://www.edsurge.com/news/2017-07-25-money-talks-duolingo-raises-25m-more-at-a-700m-valuation
+  Investors: Drive Capital
+  Total: '$108,300,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/duolingo#/entity'
+  Keyword: language learning
+  Level: All
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: July
+  Name: BYJU's
+  Amount: '$40,000,000'
+  Series: Unknown
+  URL: >-
+    https://www.edsurge.com/news/2017-07-25-indian-startup-byju-s-adds-another-big-name-investor-in-chinese-tech-giant-tencent
+  Investors: Tencent
+  Total: '$244,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/byju-s#/entity'
+  Keyword: test prep
+  Level: K-12
+  Type: B to C
+  Country: India
+  Notes: ''
+- Month: July
+  Name: Liulishuo
+  Amount: '$100,000,000'
+  Series: C
+  URL: >-
+    http://www.prnewswire.com/news-releases/liulishuo-raises-approximately-100m-in-series-c-funding-to-extend-its-lead-in-building-smart-ai-english-teachers-300494378.html
+  Investors: >-
+    China Media Capital, Wu Capital, Cherubic Ventures, GGV Capital, Hearst
+    Ventures, IDG Capital Partners, and Trustbridge Partners
+  Total: Unknown
+  Crunchbase: 'https://www.crunchbase.com/organization/liulishuo#/entity'
+  Keyword: language learning
+  Level: K-12
+  Type: B to C
+  Country: China
+  Notes: ''
+- Month: July
+  Name: Escape Technology
+  Amount: Undisclosed
+  Series: Unknown
+  URL: >-
+    https://marketbrief.edweek.org/marketplace-k-12/k-12-dealmaking-silverback-learning-acquires-edifyassess-academixdirect-acquires-pathsource/
+  Investors: Alpine Investors
+  Total: Unknown
+  Crunchbase: 'https://www.crunchbase.com/organization/escape-technology#/entity'
+  Keyword: ERP software for schools
+  Level: Corporate
+  Type: B to S
   Country: USA
   Notes: ''
