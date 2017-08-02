@@ -1,10 +1,95 @@
-- Month: January
-  Name: LearnLaunchX
-  Amount: undisclosed
+- Month: 2015-01
+  Name: SingSpiel
+  Amount: '$350,000'
   Series: ''
   URL: >-
-    http://bostinno.streetwise.co/2015/01/09/cengage-learning-announces-partnership-with-learnlaunch/
-  Investors: Cengage
+    https://www.edsurge.com/n/2015-01-19-singspiel-raises-250k-to-gamify-music-education
+  Investors: Investment Accelerator Fund
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/singspiel'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-01
+  Name: CampusTap
+  Amount: '$500,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-01-05-campustap-raises-500k-to-connect-college-students-to-jobs
+  Investors: 'Douglas Leighton, Dutchess Opportunity Fund, Bob DeMaria'
+  Total: ''
+  Crunchbase: 'http://www.crunchbase.com/organization/campustap'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-01
+  Name: Chalk.com
+  Amount: '$500,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-01-22-chalk-raises-500k-for-microsoft-office-for-teachers
+  Investors: >-
+    MaRS Investment Acceleration Fund, BDC Capital, Ryan Holmes (CEO of
+    Hootsuite), John Baker (CEO of Desire2Learn)
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/chalk-com'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-01
+  Name: Testive
+  Amount: '$500,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-01-23-testive-raises-500k-for-test-prep-coaching
+  Investors: 'Walter Winshall, David Gardner'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/testive'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-01
+  Name: Querium
+  Amount: '$800,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-01-28-querium-closes-800k-series-a-to-help-students-master-stem
+  Investors: ICG Ventures
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/querium-corporation'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-01
+  Name: Globaloria
+  Amount: '$995,000'
+  Series: ''
+  URL: 'https://www.edsurge.com/n/2015-01-28-stem-program-globaloria-raises-1m'
+  Investors: undisclosed
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/globaloria'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-01
+  Name: LearnLaunchX
+  Amount: '$1,130,000'
+  Series: ''
+  URL: >-
+    http://www.bizjournals.com/boston/blog/startups/2015/01/edtech-startup-accelerator-learnlaunchx-raises-1.html
+  Investors: undisclosed
   Total: ''
   Crunchbase: 'https://www.crunchbase.com/organization/learnlaunchx'
   Keyword: ''
@@ -12,90 +97,124 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: January
-  Name: Lynda.com
-  Amount: '$186,000,000'
+- Month: 2015-01
+  Name: CodeHS
+  Amount: '$1,750,000'
   Series: ''
   URL: >-
-    http://www.bloomberg.com/news/2015-01-14/lynda-com-raises-186-million-in-funding-led-by-tpg-capital.html
-  Investors: 'TPG Capital, Spectrum Equity, Accel Partners, Meritech Capital Partners'
+    https://www.edsurge.com/n/2015-01-23-codehs-raises-1-75m-to-help-students-and-karel-learn-new-tricks
+  Investors: >-
+    Learn Capital, the NewSchools Seed Fund, Kapor Capital, Chmod Ventures, the
+    Stanford-StartX Fund, Seven Peaks Ventures
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/lynda-com'
+  Crunchbase: 'https://www.crunchbase.com/organization/codehs'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: January
-  Name: NetDragon Education
-  Amount: '$52,500,000'
+- Month: 2015-01
+  Name: Redshelf
+  Amount: '$2,000,000'
   Series: ''
   URL: >-
-    http://www.prnewswire.com/news-releases/netdragon-online-education-subsidiary-raises-us525-million-in-series-a-funding-300016399.html
-  Investors: 'IDG Capital Partners, Vertex Venture Capital'
+    https://www.edsurge.com/n/2015-01-27-digital-textbook-distributor-redshelf-raises-2m-series-a
+  Investors: National Association of College Stores
   Total: ''
-  Crunchbase: 'http://www.crunchbase.com/organization/netdragon-education'
+  Crunchbase: 'https://www.crunchbase.com/organization/redshelf'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: January
-  Name: XueXiBao
-  Amount: '$20,000,000'
+- Month: 2015-01
+  Name: Thinkful
+  Amount: '$2,500,000'
   Series: ''
-  URL: 'http://techcrunch.com/2015/01/18/xuexibao/'
-  Investors: 'SoftBank China Venture Capital, GSR Ventures'
+  URL: >-
+    https://www.edsurge.com/n/2015-01-13-thiel-backed-learn-to-code-startup-thinkful-raises-4-25m-series-a
+  Investors: 'Floodgate Fund, RRE Ventures, Quotidian Ventures'
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/xuexibao'
+  Crunchbase: 'https://www.crunchbase.com/organization/thinkful'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: January
-  Name: Earnest
-  Amount: '$17,000,000'
+- Month: 2015-01
+  Name: SpecialNeedsWare
+  Amount: '$3,000,000'
   Series: ''
-  URL: >-
-    http://bits.blogs.nytimes.com/2015/01/27/a-data-science-lender-takes-on-student-debt/
-  Investors: Maveron
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/earnest'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: January
-  Name: SimpliLearn
-  Amount: '$14,660,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-01-22-simplilearn-raises-14-66-million-for-online-professional-certification
-  Investors: 'Mayfield India, Helion Ventures, Kalaari Capital'
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/simplilearn'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: January
-  Name: Slate Science
-  Amount: '$12,000,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-01-21-add-it-up-matific-raises-12m-to-expand-internationally
+  URL: 'http://techcrunch.com/2015/01/26/teachmate365/'
   Investors: undisclosed
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/slate-science'
+  Crunchbase: 'https://www.crunchbase.com/organization/specialneedsware'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: January
+- Month: 2015-01
+  Name: Straighterline
+  Amount: '$4,500,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-01-28-online-course-provider-straighterline-adds-5-4m
+  Investors: undisclosed
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/straighterline'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-01
+  Name: Koru
+  Amount: '$8,000,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-01-29-koru-raises-8m-to-bring-smart-grads-to-tech-companies
+  Investors: >-
+    Maveron, City Light Capital, Trilogy Equity Partners, Battery Ventures,
+    First Round
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/koru'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-01
+  Name: STEAM Engine
+  Amount: '$8,000,000'
+  Series: ''
+  URL: >-
+    http://dcinno.streetwise.co/2015/01/23/national-geographics-tim-kelly-debuts-startup-steam-engine-3/
+  Investors: undisclosed
+  Total: ''
+  Crunchbase: ''
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-01
+  Name: Flat World
+  Amount: '$9,500,000'
+  Series: ''
+  URL: >-
+    http://techcrunch.com/2014/01/29/with-9m-from-bessemer-open-textbook-pioneer-flat-world-looks-for-new-life-in-personalized-learning/
+  Investors: >-
+    Bessemer Venture Partners, Valhalla Partners, Tribeca Venture Partners,
+    Penguin Random House Holdings, Bertelsmann Digital Media Investments
+  Total: ''
+  Crunchbase: 'http://www.crunchbase.com/organization/flat-world-knowledge'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-01
   Name: Citelighter
   Amount: '$12,000,000'
   Series: ''
@@ -112,130 +231,96 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: January
-  Name: Flat World
-  Amount: '$9,500,000'
+- Month: 2015-01
+  Name: Slate Science
+  Amount: '$12,000,000'
   Series: ''
   URL: >-
-    http://techcrunch.com/2014/01/29/with-9m-from-bessemer-open-textbook-pioneer-flat-world-looks-for-new-life-in-personalized-learning/
-  Investors: >-
-    Bessemer Venture Partners, Valhalla Partners, Tribeca Venture Partners,
-    Penguin Random House Holdings, Bertelsmann Digital Media Investments
-  Total: ''
-  Crunchbase: 'http://www.crunchbase.com/organization/flat-world-knowledge'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: January
-  Name: STEAM Engine
-  Amount: '$8,000,000'
-  Series: ''
-  URL: >-
-    http://dcinno.streetwise.co/2015/01/23/national-geographics-tim-kelly-debuts-startup-steam-engine-3/
+    https://www.edsurge.com/n/2015-01-21-add-it-up-matific-raises-12m-to-expand-internationally
   Investors: undisclosed
   Total: ''
-  Crunchbase: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/slate-science'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: January
-  Name: Koru
-  Amount: '$8,000,000'
+- Month: 2015-01
+  Name: SimpliLearn
+  Amount: '$14,660,000'
   Series: ''
   URL: >-
-    https://www.edsurge.com/n/2015-01-29-koru-raises-8m-to-bring-smart-grads-to-tech-companies
-  Investors: >-
-    Maveron, City Light Capital, Trilogy Equity Partners, Battery Ventures,
-    First Round
+    https://www.edsurge.com/n/2015-01-22-simplilearn-raises-14-66-million-for-online-professional-certification
+  Investors: 'Mayfield India, Helion Ventures, Kalaari Capital'
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/koru'
+  Crunchbase: 'https://www.crunchbase.com/organization/simplilearn'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: January
-  Name: Straighterline
-  Amount: '$4,500,000'
+- Month: 2015-01
+  Name: Earnest
+  Amount: '$17,000,000'
   Series: ''
   URL: >-
-    https://www.edsurge.com/n/2015-01-28-online-course-provider-straighterline-adds-5-4m
-  Investors: undisclosed
+    http://bits.blogs.nytimes.com/2015/01/27/a-data-science-lender-takes-on-student-debt/
+  Investors: Maveron
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/straighterline'
+  Crunchbase: 'https://www.crunchbase.com/organization/earnest'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: January
-  Name: SpecialNeedsWare
-  Amount: '$3,000,000'
+- Month: 2015-01
+  Name: XueXiBao
+  Amount: '$20,000,000'
   Series: ''
-  URL: 'http://techcrunch.com/2015/01/26/teachmate365/'
-  Investors: undisclosed
+  URL: 'http://techcrunch.com/2015/01/18/xuexibao/'
+  Investors: 'SoftBank China Venture Capital, GSR Ventures'
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/specialneedsware'
+  Crunchbase: 'https://www.crunchbase.com/organization/xuexibao'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: January
-  Name: Thinkful
-  Amount: '$2,500,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-01-13-thiel-backed-learn-to-code-startup-thinkful-raises-4-25m-series-a
-  Investors: 'Floodgate Fund, RRE Ventures, Quotidian Ventures'
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/thinkful'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: January
-  Name: Redshelf
-  Amount: '$2,000,000'
+- Month: 2015-01
+  Name: NetDragon Education
+  Amount: '$52,500,000'
   Series: ''
   URL: >-
-    https://www.edsurge.com/n/2015-01-27-digital-textbook-distributor-redshelf-raises-2m-series-a
-  Investors: National Association of College Stores
+    http://www.prnewswire.com/news-releases/netdragon-online-education-subsidiary-raises-us525-million-in-series-a-funding-300016399.html
+  Investors: 'IDG Capital Partners, Vertex Venture Capital'
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/redshelf'
+  Crunchbase: 'http://www.crunchbase.com/organization/netdragon-education'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: January
-  Name: CodeHS
-  Amount: '$1,750,000'
+- Month: 2015-01
+  Name: Lynda.com
+  Amount: '$186,000,000'
   Series: ''
   URL: >-
-    https://www.edsurge.com/n/2015-01-23-codehs-raises-1-75m-to-help-students-and-karel-learn-new-tricks
-  Investors: >-
-    Learn Capital, the NewSchools Seed Fund, Kapor Capital, Chmod Ventures, the
-    Stanford-StartX Fund, Seven Peaks Ventures
+    http://www.bloomberg.com/news/2015-01-14/lynda-com-raises-186-million-in-funding-led-by-tpg-capital.html
+  Investors: 'TPG Capital, Spectrum Equity, Accel Partners, Meritech Capital Partners'
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/codehs'
+  Crunchbase: 'https://www.crunchbase.com/organization/lynda-com'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: January
+- Month: 2015-01
   Name: LearnLaunchX
-  Amount: '$1,130,000'
+  Amount: undisclosed
   Series: ''
   URL: >-
-    http://www.bizjournals.com/boston/blog/startups/2015/01/edtech-startup-accelerator-learnlaunchx-raises-1.html
-  Investors: undisclosed
+    http://bostinno.streetwise.co/2015/01/09/cengage-learning-announces-partnership-with-learnlaunch/
+  Investors: Cengage
   Total: ''
   Crunchbase: 'https://www.crunchbase.com/organization/learnlaunchx'
   Keyword: ''
@@ -243,432 +328,20 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: January
-  Name: Globaloria
-  Amount: '$995,000'
-  Series: ''
-  URL: 'https://www.edsurge.com/n/2015-01-28-stem-program-globaloria-raises-1m'
-  Investors: undisclosed
+- Month: 2015-02
+  Name: Knowledge to Practice
+  Amount: '$18,000'
+  Series: Seed
+  URL: ''
+  Investors: LearnLaunchX
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/globaloria'
+  Crunchbase: 'https://www.crunchbase.com/organization/knowledge-to-practice#/entity'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: January
-  Name: Querium
-  Amount: '$800,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-01-28-querium-closes-800k-series-a-to-help-students-master-stem
-  Investors: ICG Ventures
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/querium-corporation'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: January
-  Name: CampusTap
-  Amount: '$500,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-01-05-campustap-raises-500k-to-connect-college-students-to-jobs
-  Investors: 'Douglas Leighton, Dutchess Opportunity Fund, Bob DeMaria'
-  Total: ''
-  Crunchbase: 'http://www.crunchbase.com/organization/campustap'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: January
-  Name: Chalk.com
-  Amount: '$500,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-01-22-chalk-raises-500k-for-microsoft-office-for-teachers
-  Investors: >-
-    MaRS Investment Acceleration Fund, BDC Capital, Ryan Holmes (CEO of
-    Hootsuite), John Baker (CEO of Desire2Learn)
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/chalk-com'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: January
-  Name: Testive
-  Amount: '$500,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-01-23-testive-raises-500k-for-test-prep-coaching
-  Investors: 'Walter Winshall, David Gardner'
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/testive'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: January
-  Name: SingSpiel
-  Amount: '$350,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-01-19-singspiel-raises-250k-to-gamify-music-education
-  Investors: Investment Accelerator Fund
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/singspiel'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: February
-  Name: Vocabulary.com
-  Amount: undisclosed
-  Series: ''
-  URL: >-
-    http://www.libraries.wright.edu/noshelfrequired/2015/02/06/follett-invests-in-vocabulary-com/
-  Investors: Follett
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/vocabulary'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: February
-  Name: Social Finance
-  Amount: '$200,000,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-02-03-social-finance-raises-massive-200m-round-as-it-eyes-ipo
-  Investors: >-
-    Third Point Ventures, Wellington Management Company LLP, Institutional
-    Venture Partners
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/social-finance'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: February
-  Name: 17zuoye
-  Amount: '$100,000,000'
-  Series: ''
-  URL: >-
-    https://www.techinasia.com/online-learning-platform-17zuoye-raises-100m-series-lei-jun-yuri-milner/
-  Investors: 'H Capital, Temasek, Yuri Milner/DST, Shunwei'
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/17zuoye'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: February
-  Name: Instructure
-  Amount: '$40,000,000'
-  Series: ''
-  URL: >-
-    http://www.prnewswire.com/news-releases/instructure-secures-40-million-in-a-pre-ipo-series-e-round-300038835.html
-  Investors: 'Insight Venture Partners, Bessemer Venture Partners, EPIC Ventures'
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/instructure'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: February
-  Name: GuideSpark
-  Amount: '$22,200,000'
-  Series: ''
-  URL: 'http://www.edukwest.com/edbrief-guidespark-series-c/'
-  Investors: >-
-    Meritech Capital Partners, New Enterprise Associates, Storm Ventures, IDG
-    Ventures
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/guidespark'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: February
-  Name: Civitas Learning
-  Amount: '$16,000,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-02-03-civitas-learning-raises-16m-for-predictive-models-of-student-achievement
-  Investors: 'Rethink Education, Austin Ventures, Emergence Capital'
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/civitas-learning'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: February
-  Name: Grovo
-  Amount: '$15,000,000'
-  Series: ''
-  URL: 'http://techcrunch.com/2015/02/18/grovo-series-b/'
-  Investors: 'Costanoa Venture Capital, Greg Waldorf, SoftTech VC'
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/grovo'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: February
-  Name: NoRedInk
-  Amount: '$6,000,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-02-18-noredink-raises-6m-for-online-grammar-exercises
-  Investors: >-
-    True Ventures, the Social+Capital Partnership, Kapor Capital, Rethink
-    Education
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/noredink'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: February
-  Name: CampusQuad
-  Amount: '$5,000,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-02-02-campusquad-raises-5m-to-boost-college-student-engagement
-  Investors: ICG Ventures
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/campus-quad'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: February
-  Name: Mediacore
-  Amount: '$4,500,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-02-25-mediacore-raises-4-5m-for-online-video-learning
-  Investors: Vanedge Capital
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/mediacore'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: February
-  Name: Locomotive Labs
-  Amount: '$4,000,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-02-24-locomotive-labs-raises-4m-to-expand-into-asia
-  Investors: >-
-    Softbank Ventures Korea, TAL Education Group. K9 Ventures, Kapor Capital,
-    NewSchools Venture Fund, Joe Gleberman, D3Jubilee, Jerry Colonna
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/locomotive-labs'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: February
-  Name: Docebo
-  Amount: '$3,000,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-02-13-docebo-raises-3m-to-expand-lms-in-north-american-markets
-  Investors: Klass Capital
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/docebo'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: February
-  Name: NVBots
-  Amount: '$2,000,000'
-  Series: ''
-  URL: >-
-    http://bostinno.streetwise.co/2015/02/10/3d-printing-nvbots-raises-2m-funding-for-school-3d-printer/
-  Investors: 'China Rock Capital, Michael Foley'
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/nvbots'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: February
-  Name: Fedora
-  Amount: '$2,000,000'
-  Series: ''
-  URL: 'http://techcrunch.com/2015/02/19/socrates-the-millionaire/'
-  Investors: Atlas Ventures
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/fedora'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: February
-  Name: edtrips
-  Amount: '$1,900,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-02-26-edtrips-raises-1-9m-for-field-trip-software
-  Investors: undisclosed
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/edtrips'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: February
-  Name: OpenLearning
-  Amount: '$1,300,000'
-  Series: ''
-  URL: >-
-    http://www.zdnet.com/article/australian-e-learning-startup-raises-au1-7m-for-asia-growth/
-  Investors: 'Clive Mayhew, ICS Global, Hideaki Fukutake'
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/open-learning'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: February
-  Name: Decision Science Labs
-  Amount: '$1,000,000'
-  Series: ''
-  URL: >-
-    http://www.bizjournals.com/washington/blog/techflash/2015/01/victor-reinoso-d-cs-first-deputy-mayor-of.html
-  Investors: undisclosed
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/decision-science-labs'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: February
-  Name: Woot Math
-  Amount: '$1,000,000'
-  Series: ''
-  URL: >-
-    http://boulderopolis.com/woot-math-lands-1m-series-a-funding-from-foundry-group/
-  Investors: Foundry Group
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/woot-math'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: February
-  Name: Ardusat
-  Amount: '$1,000,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-02-25-ardusat-raises-1m-to-bring-outer-space-to-the-classroom
-  Investors: 'Space Florida, Fresco Capital, Spire'
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/ardusat'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: February
-  Name: Listen Current
-  Amount: '$950,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-02-09-listen-current-raises-950k-to-curate-public-radio-stories
-  Investors: Launchpad Venture Group LLC
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/listen-current'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: February
-  Name: WriteReader
-  Amount: '$800,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-02-26-writereader-raises-800-000-to-expand-to-us-market
-  Investors: Egmont
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/writereader-aps'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: February
-  Name: MyOnlineSchool
-  Amount: '$671,000'
-  Series: ''
-  URL: >-
-    http://www.my-photo-school.com/2015/02/09/press-release-myonlineschool-announces-half-a-million-pound-seed-funding-to-launch-new-global-online-schools/
-  Investors: 'Leaf Investments, Howzat Partners'
-  Total: ''
-  Crunchbase: ''
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: February
-  Name: Coursmos
-  Amount: '$600,000'
-  Series: ''
-  URL: 'http://techcrunch.com/2015/02/02/coursmos-seed-expansion/'
-  Investors: 'Altera Capital Group, Imperious Group'
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/coursmos'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: February
-  Name: Team(You)
-  Amount: '$500,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-02-09-team-you-raises-500k-for-student-behavior-incentive-system
-  Investors: Frank Byrne
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/team-you-'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: February
+- Month: 2015-02
   Name: Glints
   Amount: '$475,000'
   Series: ''
@@ -684,160 +357,40 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: March
-  Name: Genshuixue
-  Amount: '$50,000,000'
+- Month: 2015-02
+  Name: Team(You)
+  Amount: '$500,000'
   Series: ''
   URL: >-
-    https://www.techinasia.com/chinese-education-platform-genshuixue-raises-us50m-series/
-  Investors: Hillhouse Capital
+    https://www.edsurge.com/n/2015-02-09-team-you-raises-500k-for-student-behavior-incentive-system
+  Investors: Frank Byrne
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/genshuixue'
+  Crunchbase: 'https://www.crunchbase.com/organization/team-you-'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: March
-  Name: FiftyThree
-  Amount: '$30,000,000'
+- Month: 2015-02
+  Name: Coursmos
+  Amount: '$600,000'
   Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-03-17-paper-and-pencil-creator-gets-30m-to-expand-to-classrooms
-  Investors: >-
-    New Enterprise Associates, Andreessen Horowitz, Highligh Ventures, Thrive
-    Capital
+  URL: 'http://techcrunch.com/2015/02/02/coursmos-seed-expansion/'
+  Investors: 'Altera Capital Group, Imperious Group'
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/fiftythree'
+  Crunchbase: 'https://www.crunchbase.com/organization/coursmos'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: March
-  Name: Flashnotes
-  Amount: '$7,300,000'
+- Month: 2015-02
+  Name: MyOnlineSchool
+  Amount: '$671,000'
   Series: ''
   URL: >-
-    http://www.geekwire.com/2015/hey-can-i-buy-your-notes-barnes-noble-invests-in-flashnotes-student-marketplace/
-  Investors: >-
-    Atlas Venture, Cengage Learning, Michael Solomon, SoftBank Capital, Lazerow
-    Ventures
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/flashnotes'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: March
-  Name: Degreed
-  Amount: '$7,000,000'
-  Series: ''
-  URL: >-
-    http://blogs.wsj.com/venturecapital/2015/03/19/the-daily-startup-fundboxs-funding-is-latest-in-short-term-lending-sector/
-  Investors: Signal Park Ventures
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/degreed'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: March
-  Name: Socratic
-  Amount: '$6,000,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-03-25-socratic-org-raises-6m-to-grow-global-q-a-community
-  Investors: 'Shasta Ventures, Spark Capital, Omidyar Network'
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/socratic'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: March
-  Name: ThinkCERCA
-  Amount: '$3,200,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-03-11-follett-leads-3-2m-series-a-investment-in-thinkcerca
-  Investors: >-
-    Follett Knowledge Fund, Math Venture Partners, Amicus Capital, Great Oaks
-    Venture Capital, Chuck Templeton
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/thinkcerca'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: March
-  Name: Lumen Learning
-  Amount: '$2,500,000'
-  Series: ''
-  URL: 'http://lumenlearning.com/announcement-2015-04-01/'
-  Investors: >-
-    Oregon Angel Fund, the Portland Seed Fund, Seattle's Alliance of Angels, Ray
-    Henderson, Dave Mills, Tom Rubin
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/lumen-learning'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: March
-  Name: Tales2Go
-  Amount: '$2,400,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-03-25-tales2go-raises-2-4m-for-voluminous-vocabularies
-  Investors: 'NewSchools Venture Fund, the Maryland Venture Fund'
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/tales2go'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: March
-  Name: Classkick
-  Amount: '$1,700,000'
-  Series: ''
-  URL: >-
-    http://techcrunch.com/2015/03/11/classkick-raises-1-7-million-to-tackle-the-student-achievement-gap/
-  Investors: 'Kapor Capital, Lightbank, Adam Pisoni, Great Oaks Venture Capital'
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/classwork'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: March
-  Name: Schoolrunner
-  Amount: '$1,500,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-03-23-schoolrunner-raises-1-5m-for-student-information-database
-  Investors: The Colorado Impact Fund
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/schoolrunner'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: March
-  Name: Happly
-  Amount: '$1,450,000'
-  Series: ''
-  URL: >-
-    http://www.geekwire.com/2015/happly-raises-1-5m-for-kid-friendly-internet-video-game-and-toy-platform/
-  Investors: undisclosed
+    http://www.my-photo-school.com/2015/02/09/press-release-myonlineschool-announces-half-a-million-pound-seed-funding-to-launch-new-global-online-schools/
+  Investors: 'Leaf Investments, Howzat Partners'
   Total: ''
   Crunchbase: ''
   Keyword: ''
@@ -845,7 +398,362 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: March
+- Month: 2015-02
+  Name: WriteReader
+  Amount: '$800,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-02-26-writereader-raises-800-000-to-expand-to-us-market
+  Investors: Egmont
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/writereader-aps'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-02
+  Name: Listen Current
+  Amount: '$950,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-02-09-listen-current-raises-950k-to-curate-public-radio-stories
+  Investors: Launchpad Venture Group LLC
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/listen-current'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-02
+  Name: Ardusat
+  Amount: '$1,000,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-02-25-ardusat-raises-1m-to-bring-outer-space-to-the-classroom
+  Investors: 'Space Florida, Fresco Capital, Spire'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/ardusat'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-02
+  Name: Decision Science Labs
+  Amount: '$1,000,000'
+  Series: ''
+  URL: >-
+    http://www.bizjournals.com/washington/blog/techflash/2015/01/victor-reinoso-d-cs-first-deputy-mayor-of.html
+  Investors: undisclosed
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/decision-science-labs'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-02
+  Name: Woot Math
+  Amount: '$1,000,000'
+  Series: ''
+  URL: >-
+    http://boulderopolis.com/woot-math-lands-1m-series-a-funding-from-foundry-group/
+  Investors: Foundry Group
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/woot-math'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-02
+  Name: OpenLearning
+  Amount: '$1,300,000'
+  Series: ''
+  URL: >-
+    http://www.zdnet.com/article/australian-e-learning-startup-raises-au1-7m-for-asia-growth/
+  Investors: 'Clive Mayhew, ICS Global, Hideaki Fukutake'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/open-learning'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-02
+  Name: edtrips
+  Amount: '$1,900,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-02-26-edtrips-raises-1-9m-for-field-trip-software
+  Investors: undisclosed
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/edtrips'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-02
+  Name: Fedora
+  Amount: '$2,000,000'
+  Series: ''
+  URL: 'http://techcrunch.com/2015/02/19/socrates-the-millionaire/'
+  Investors: Atlas Ventures
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/fedora'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-02
+  Name: NVBots
+  Amount: '$2,000,000'
+  Series: ''
+  URL: >-
+    http://bostinno.streetwise.co/2015/02/10/3d-printing-nvbots-raises-2m-funding-for-school-3d-printer/
+  Investors: 'China Rock Capital, Michael Foley'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/nvbots'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-02
+  Name: Docebo
+  Amount: '$3,000,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-02-13-docebo-raises-3m-to-expand-lms-in-north-american-markets
+  Investors: Klass Capital
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/docebo'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-02
+  Name: Locomotive Labs
+  Amount: '$4,000,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-02-24-locomotive-labs-raises-4m-to-expand-into-asia
+  Investors: >-
+    Softbank Ventures Korea, TAL Education Group. K9 Ventures, Kapor Capital,
+    NewSchools Venture Fund, Joe Gleberman, D3Jubilee, Jerry Colonna
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/locomotive-labs'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-02
+  Name: Mediacore
+  Amount: '$4,500,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-02-25-mediacore-raises-4-5m-for-online-video-learning
+  Investors: Vanedge Capital
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/mediacore'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-02
+  Name: CampusQuad
+  Amount: '$5,000,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-02-02-campusquad-raises-5m-to-boost-college-student-engagement
+  Investors: ICG Ventures
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/campus-quad'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-02
+  Name: NoRedInk
+  Amount: '$6,000,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-02-18-noredink-raises-6m-for-online-grammar-exercises
+  Investors: >-
+    True Ventures, the Social+Capital Partnership, Kapor Capital, Rethink
+    Education
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/noredink'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-02
+  Name: Grovo
+  Amount: '$15,000,000'
+  Series: ''
+  URL: 'http://techcrunch.com/2015/02/18/grovo-series-b/'
+  Investors: 'Costanoa Venture Capital, Greg Waldorf, SoftTech VC'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/grovo'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-02
+  Name: Civitas Learning
+  Amount: '$16,000,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-02-03-civitas-learning-raises-16m-for-predictive-models-of-student-achievement
+  Investors: 'Rethink Education, Austin Ventures, Emergence Capital'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/civitas-learning'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-02
+  Name: GuideSpark
+  Amount: '$22,200,000'
+  Series: ''
+  URL: 'http://www.edukwest.com/edbrief-guidespark-series-c/'
+  Investors: >-
+    Meritech Capital Partners, New Enterprise Associates, Storm Ventures, IDG
+    Ventures
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/guidespark'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-02
+  Name: Instructure
+  Amount: '$40,000,000'
+  Series: ''
+  URL: >-
+    http://www.prnewswire.com/news-releases/instructure-secures-40-million-in-a-pre-ipo-series-e-round-300038835.html
+  Investors: 'Insight Venture Partners, Bessemer Venture Partners, EPIC Ventures'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/instructure'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-02
+  Name: 17zuoye
+  Amount: '$100,000,000'
+  Series: ''
+  URL: >-
+    https://www.techinasia.com/online-learning-platform-17zuoye-raises-100m-series-lei-jun-yuri-milner/
+  Investors: 'H Capital, Temasek, Yuri Milner/DST, Shunwei'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/17zuoye'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-02
+  Name: Social Finance
+  Amount: '$200,000,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-02-03-social-finance-raises-massive-200m-round-as-it-eyes-ipo
+  Investors: >-
+    Third Point Ventures, Wellington Management Company LLP, Institutional
+    Venture Partners
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/social-finance'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-02
+  Name: Vocabulary.com
+  Amount: undisclosed
+  Series: ''
+  URL: >-
+    http://www.libraries.wright.edu/noshelfrequired/2015/02/06/follett-invests-in-vocabulary-com/
+  Investors: Follett
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/vocabulary'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-03
+  Name: Upswing
+  Amount: '$500,000'
+  Series: ''
+  URL: 'https://www.edsurge.com/n/2015-03-16-upswing-raises-500k-for-online-tutoring'
+  Investors: >-
+    Charlotte Angel Fund, NC IDEA Fund, Tech Wildcatters, the United Way of
+    Dallas
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/ink'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-03
+  Name: GoWell
+  Amount: '$1,000,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-03-18-gowell-raises-1m-to-grow-online-learning-programs-in-china
+  Investors: 'Fresco Capital, Nest Investments'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/gowell'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-03
+  Name: Lingual.ly
+  Amount: '$1,000,000'
+  Series: ''
+  URL: 'http://techcrunch.com/2015/03/10/lingualy-1m/'
+  Investors: 'Udi Netzer, Shai Rephaeli, Yochy Investments, Seed Fund 1776'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/lingua-ly'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-03
+  Name: Monkimun
+  Amount: '$1,000,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-03-31-monkimun-raises-1m-to-help-young-children-learn-languages
+  Investors: '500 Startups, SHO-zemi Innovation Ventures, Incuvest, Lanzame Capital'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/monkimun'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-03
   Name: Studypool
   Amount: '$1,200,000'
   Series: ''
@@ -861,131 +769,340 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: March
-  Name: Lingual.ly
-  Amount: '$1,000,000'
-  Series: ''
-  URL: 'http://techcrunch.com/2015/03/10/lingualy-1m/'
-  Investors: 'Udi Netzer, Shai Rephaeli, Yochy Investments, Seed Fund 1776'
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/lingua-ly'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: March
-  Name: GoWell
-  Amount: '$1,000,000'
+- Month: 2015-03
+  Name: Happly
+  Amount: '$1,450,000'
   Series: ''
   URL: >-
-    https://www.edsurge.com/n/2015-03-18-gowell-raises-1m-to-grow-online-learning-programs-in-china
-  Investors: 'Fresco Capital, Nest Investments'
+    http://www.geekwire.com/2015/happly-raises-1-5m-for-kid-friendly-internet-video-game-and-toy-platform/
+  Investors: undisclosed
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/gowell'
+  Crunchbase: ''
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: March
-  Name: Monkimun
-  Amount: '$1,000,000'
+- Month: 2015-03
+  Name: Schoolrunner
+  Amount: '$1,500,000'
   Series: ''
   URL: >-
-    https://www.edsurge.com/n/2015-03-31-monkimun-raises-1m-to-help-young-children-learn-languages
-  Investors: '500 Startups, SHO-zemi Innovation Ventures, Incuvest, Lanzame Capital'
+    https://www.edsurge.com/n/2015-03-23-schoolrunner-raises-1-5m-for-student-information-database
+  Investors: The Colorado Impact Fund
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/monkimun'
+  Crunchbase: 'https://www.crunchbase.com/organization/schoolrunner'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: March
-  Name: Upswing
-  Amount: '$500,000'
+- Month: 2015-03
+  Name: Classkick
+  Amount: '$1,700,000'
   Series: ''
-  URL: 'https://www.edsurge.com/n/2015-03-16-upswing-raises-500k-for-online-tutoring'
+  URL: >-
+    http://techcrunch.com/2015/03/11/classkick-raises-1-7-million-to-tackle-the-student-achievement-gap/
+  Investors: 'Kapor Capital, Lightbank, Adam Pisoni, Great Oaks Venture Capital'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/classwork'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-03
+  Name: Tales2Go
+  Amount: '$2,400,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-03-25-tales2go-raises-2-4m-for-voluminous-vocabularies
+  Investors: 'NewSchools Venture Fund, the Maryland Venture Fund'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/tales2go'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-03
+  Name: Lumen Learning
+  Amount: '$2,500,000'
+  Series: ''
+  URL: 'http://lumenlearning.com/announcement-2015-04-01/'
   Investors: >-
-    Charlotte Angel Fund, NC IDEA Fund, Tech Wildcatters, the United Way of
-    Dallas
+    Oregon Angel Fund, the Portland Seed Fund, Seattle's Alliance of Angels, Ray
+    Henderson, Dave Mills, Tom Rubin
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/ink'
+  Crunchbase: 'https://www.crunchbase.com/organization/lumen-learning'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: April
-  Name: Purple Squirrel
-  Amount: undisclosed
-  Series: ''
-  URL: 'https://www.techinasia.com/purple-squirrel-raises-funding/'
-  Investors: Matrix Partners
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/purple-squirrel-2'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: April
-  Name: Yuantiku
-  Amount: '$60,000,000'
-  Series: ''
-  URL: 'http://technode.com/2015/03/30/yuantiku-series-d-funding/'
-  Investors: 'CMC Capital Partners, New Horizon Capital, IDG, and Matrix Partners China'
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/yuantiku'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: April
-  Name: Flatiron School
-  Amount: '$9,000,000'
+- Month: 2015-03
+  Name: ThinkCERCA
+  Amount: '$3,200,000'
   Series: ''
   URL: >-
-    https://www.edsurge.com/n/2015-04-16-flatiron-school-raises-9m-to-expand-coding-classes-across-the-us
-  Investors: 'Thrive Capital, CRV, and Matrix'
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/flatiron-school'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: April
-  Name: Campus Job
-  Amount: '$7,800,000'
-  Series: ''
-  URL: 'http://www.prweb.com/releases/2015/04/prweb12686588.htm'
+    https://www.edsurge.com/n/2015-03-11-follett-leads-3-2m-series-a-investment-in-thinkcerca
   Investors: >-
-    General Catalyst. Index Ventures, SV Angel, Slow Ventures, BoxGroup, and
-    Lerer Hippeau Ventures
+    Follett Knowledge Fund, Math Venture Partners, Amicus Capital, Great Oaks
+    Venture Capital, Chuck Templeton
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/campus-job'
+  Crunchbase: 'https://www.crunchbase.com/organization/thinkcerca'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: April
-  Name: Peak
+- Month: 2015-03
+  Name: Socratic
+  Amount: '$6,000,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-03-25-socratic-org-raises-6m-to-grow-global-q-a-community
+  Investors: 'Shasta Ventures, Spark Capital, Omidyar Network'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/socratic'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-03
+  Name: Degreed
   Amount: '$7,000,000'
   Series: ''
-  URL: 'http://techcrunch.com/2015/04/16/peak-brain-training/'
-  Investors: 'Creandum, DN Capital, London Venture Partners, and Qualcomm Ventures'
+  URL: >-
+    http://blogs.wsj.com/venturecapital/2015/03/19/the-daily-startup-fundboxs-funding-is-latest-in-short-term-lending-sector/
+  Investors: Signal Park Ventures
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/brainbow'
+  Crunchbase: 'https://www.crunchbase.com/organization/degreed'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: April
+- Month: 2015-03
+  Name: Flashnotes
+  Amount: '$7,300,000'
+  Series: ''
+  URL: >-
+    http://www.geekwire.com/2015/hey-can-i-buy-your-notes-barnes-noble-invests-in-flashnotes-student-marketplace/
+  Investors: >-
+    Atlas Venture, Cengage Learning, Michael Solomon, SoftBank Capital, Lazerow
+    Ventures
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/flashnotes'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-03
+  Name: Genshuixue
+  Amount: '$50,000,000'
+  Series: ''
+  URL: >-
+    https://www.techinasia.com/chinese-education-platform-genshuixue-raises-us50m-series/
+  Investors: Hillhouse Capital
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/genshuixue'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-04
+  Name: VivaLing
+  Amount: '$365,000'
+  Series: ''
+  URL: >-
+    https://vivaling.com/vivaling-announces-seed-round-exceeding-sgd-500k-usd-375k/
+  Investors: undisclosed
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/vivaling'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-04
+  Name: LogicRoots
+  Amount: '$400,000'
+  Series: ''
+  URL: >-
+    http://www.vccircle.com/news/media-entertainment/2015/04/27/educational-games-developer-logicroots-raises-400k-angel-funding
+  Investors: 'Ah! Ventures, Calcutta Angels, and 91SpringBoard'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/logic-roots'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-04
+  Name: Muzzy Lane Software
+  Amount: '$450,000'
+  Series: ''
+  URL: >-
+    http://venturebeat.com/2015/04/14/education-games-company-muzzy-lane-software-bags-450k-has-worked-with-darpa-national-geographic/
+  Investors: Massachusetts Growth Capital Corporation
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/muzzy-lane-software'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-04
+  Name: Cheddar Up
+  Amount: '$725,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-04-09-cheddar-up-raises-725k-for-school-fundraising
+  Investors: The Foundry Group
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/cheddar-up'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-04
+  Name: Showbie
+  Amount: '$2,300,000'
+  Series: ''
+  URL: >-
+    http://techcrunch.com/2015/04/07/with-2-3m-in-the-bank-showbie-wants-to-make-classrooms-paperless/
+  Investors: >-
+    Point Nine Capital, Kymbask Investments, Yaletown Venture Partners, and
+    Imagine K12
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/snap-fin-ventures'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-04
+  Name: Entangled Ventures
+  Amount: '$2,500,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-04-10-with-2-5m-in-funding-entangled-ventures-seeks-to-bridge-college-and-edtech-startups
+  Investors: undisclosed
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/entangled-ventures'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-04
+  Name: Educents
+  Amount: '$2,900,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-04-06-dollars-and-sense-educents-raises-2-9m-to-grow-instructional-materials-marketplace
+  Investors: >-
+    SoftTech VC, Crosslink Capital, Deep Fork Capital, Kapor Capital, Learn
+    Capital also participating, Deborah Quazzo, and Joanne Wilson
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/educents'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-04
+  Name: Campus Steps
+  Amount: '$3,000,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-04-21-campus-steps-raises-3m-for-college-application-profiles
+  Investors: 'Campus Explorer, OCA Ventures, Rincon Venture Partners, and Vicente Capital'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/campus-steps'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-04
+  Name: Raise Labs
+  Amount: '$4,500,000'
+  Series: ''
+  URL: >-
+    http://blogs.wsj.com/venturecapital/2015/04/22/raise-labs-scores-4-5m-to-help-students-unlock-scholarship-money/
+  Investors: >-
+    Owl Ventures, First Round Capital, SJF Ventures, Deborah Quazzo, Mark
+    Goines, Paul Freedman, and Thomas D. Lehrman
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/raise-labs-inc'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-04
+  Name: MediaPro
+  Amount: '$5,000,000'
+  Series: ''
+  URL: >-
+    http://www.geekwire.com/2015/mediapro-raises-5m-to-help-companies-teach-employees-about-security-privacy/
+  Investors: Clovis Point Capital
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/mediapro'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-04
+  Name: RefME
+  Amount: '$5,000,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-04-08-citations-look-and-act-smart-with-refme-s-5m-seed-round
+  Investors: GEMS Global
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/refme'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-04
+  Name: Tonara
+  Amount: '$5,000,000'
+  Series: ''
+  URL: >-
+    http://techcrunch.com/2015/04/14/music-education-startup-tonara-scores-5m-led-by-baidu-chinas-largest-search-engine/
+  Investors: 'Baidu, Carmel Ventures, and Lool Ventures'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/tonara'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-04
+  Name: Full Measure Education
+  Amount: '$5,500,000'
+  Series: ''
+  URL: >-
+    http://tech.co/blackboard-alumnus-founded-full-measure-education-raises-5-5m-2015-04
+  Investors: 'Safeguard Scientifics, Inc. and Bull City Ventures'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/full-measure-education'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-04
   Name: Nearpod
   Amount: '$5,600,000'
   Series: ''
@@ -1002,437 +1119,75 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: April
-  Name: Full Measure Education
-  Amount: '$5,500,000'
+- Month: 2015-04
+  Name: Peak
+  Amount: '$7,000,000'
   Series: ''
-  URL: >-
-    http://tech.co/blackboard-alumnus-founded-full-measure-education-raises-5-5m-2015-04
-  Investors: 'Safeguard Scientifics, Inc. and Bull City Ventures'
+  URL: 'http://techcrunch.com/2015/04/16/peak-brain-training/'
+  Investors: 'Creandum, DN Capital, London Venture Partners, and Qualcomm Ventures'
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/full-measure-education'
+  Crunchbase: 'https://www.crunchbase.com/organization/brainbow'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: April
-  Name: RefME
-  Amount: '$5,000,000'
+- Month: 2015-04
+  Name: Campus Job
+  Amount: '$7,800,000'
   Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-04-08-citations-look-and-act-smart-with-refme-s-5m-seed-round
-  Investors: GEMS Global
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/refme'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: April
-  Name: Tonara
-  Amount: '$5,000,000'
-  Series: ''
-  URL: >-
-    http://techcrunch.com/2015/04/14/music-education-startup-tonara-scores-5m-led-by-baidu-chinas-largest-search-engine/
-  Investors: 'Baidu, Carmel Ventures, and Lool Ventures'
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/tonara'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: April
-  Name: MediaPro
-  Amount: '$5,000,000'
-  Series: ''
-  URL: >-
-    http://www.geekwire.com/2015/mediapro-raises-5m-to-help-companies-teach-employees-about-security-privacy/
-  Investors: Clovis Point Capital
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/mediapro'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: April
-  Name: Raise Labs
-  Amount: '$4,500,000'
-  Series: ''
-  URL: >-
-    http://blogs.wsj.com/venturecapital/2015/04/22/raise-labs-scores-4-5m-to-help-students-unlock-scholarship-money/
+  URL: 'http://www.prweb.com/releases/2015/04/prweb12686588.htm'
   Investors: >-
-    Owl Ventures, First Round Capital, SJF Ventures, Deborah Quazzo, Mark
-    Goines, Paul Freedman, and Thomas D. Lehrman
+    General Catalyst. Index Ventures, SV Angel, Slow Ventures, BoxGroup, and
+    Lerer Hippeau Ventures
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/raise-labs-inc'
+  Crunchbase: 'https://www.crunchbase.com/organization/campus-job'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: April
-  Name: Campus Steps
-  Amount: '$3,000,000'
+- Month: 2015-04
+  Name: Flatiron School
+  Amount: '$9,000,000'
   Series: ''
   URL: >-
-    https://www.edsurge.com/n/2015-04-21-campus-steps-raises-3m-for-college-application-profiles
-  Investors: 'Campus Explorer, OCA Ventures, Rincon Venture Partners, and Vicente Capital'
+    https://www.edsurge.com/n/2015-04-16-flatiron-school-raises-9m-to-expand-coding-classes-across-the-us
+  Investors: 'Thrive Capital, CRV, and Matrix'
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/campus-steps'
+  Crunchbase: 'https://www.crunchbase.com/organization/flatiron-school'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: April
-  Name: Educents
-  Amount: '$2,900,000'
+- Month: 2015-04
+  Name: Yuantiku
+  Amount: '$60,000,000'
   Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-04-06-dollars-and-sense-educents-raises-2-9m-to-grow-instructional-materials-marketplace
-  Investors: >-
-    SoftTech VC, Crosslink Capital, Deep Fork Capital, Kapor Capital, Learn
-    Capital also participating, Deborah Quazzo, and Joanne Wilson
+  URL: 'http://technode.com/2015/03/30/yuantiku-series-d-funding/'
+  Investors: 'CMC Capital Partners, New Horizon Capital, IDG, and Matrix Partners China'
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/educents'
+  Crunchbase: 'https://www.crunchbase.com/organization/yuantiku'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: April
-  Name: Entangled Ventures
-  Amount: '$2,500,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-04-10-with-2-5m-in-funding-entangled-ventures-seeks-to-bridge-college-and-edtech-startups
-  Investors: undisclosed
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/entangled-ventures'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: April
-  Name: Showbie
-  Amount: '$2,300,000'
-  Series: ''
-  URL: >-
-    http://techcrunch.com/2015/04/07/with-2-3m-in-the-bank-showbie-wants-to-make-classrooms-paperless/
-  Investors: >-
-    Point Nine Capital, Kymbask Investments, Yaletown Venture Partners, and
-    Imagine K12
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/snap-fin-ventures'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: April
-  Name: Cheddar Up
-  Amount: '$725,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-04-09-cheddar-up-raises-725k-for-school-fundraising
-  Investors: The Foundry Group
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/cheddar-up'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: April
-  Name: Muzzy Lane Software
-  Amount: '$450,000'
-  Series: ''
-  URL: >-
-    http://venturebeat.com/2015/04/14/education-games-company-muzzy-lane-software-bags-450k-has-worked-with-darpa-national-geographic/
-  Investors: Massachusetts Growth Capital Corporation
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/muzzy-lane-software'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: April
-  Name: LogicRoots
-  Amount: '$400,000'
-  Series: ''
-  URL: >-
-    http://www.vccircle.com/news/media-entertainment/2015/04/27/educational-games-developer-logicroots-raises-400k-angel-funding
-  Investors: 'Ah! Ventures, Calcutta Angels, and 91SpringBoard'
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/logic-roots'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: April
-  Name: VivaLing
-  Amount: '$365,000'
-  Series: ''
-  URL: >-
-    https://vivaling.com/vivaling-announces-seed-round-exceeding-sgd-500k-usd-375k/
-  Investors: undisclosed
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/vivaling'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: May
-  Name: KleverKid
+- Month: 2015-04
+  Name: Purple Squirrel
   Amount: undisclosed
   Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-05-08-kleverkid-raises-funding-for-online-afterschool-program-marketplace
-  Investors: 'Aarin Capital, Sunil Kaul, Ananda Kallugadde, and Maina Sahi'
+  URL: 'https://www.techinasia.com/purple-squirrel-raises-funding/'
+  Investors: Matrix Partners
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/kleverkid'
+  Crunchbase: 'https://www.crunchbase.com/organization/purple-squirrel-2'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: May
-  Name: Springboard Education
-  Amount: undisclosed
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-05-06-springboard-education-raises-funding-for-educational-programming
-  Investors: Bridges Ventures
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/springboard-after-school'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: May
-  Name: AltSchool
-  Amount: '$100,000,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-05-04-mark-zuckerberg-silicon-valley-investors-bet-100-million-on-altschool
-  Investors: >-
-    Founders Fund, Andreessen Horowitz, First Round Capital, John Doerr,
-    Harrison Metal, Jonathan Sackler, Learn Capital, and Omidyar Network
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/altschool'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: May
-  Name: Kano
-  Amount: '$15,000,000'
-  Series: ''
-  URL: 'http://techcrunch.com/2015/05/04/kano-series-a/?ncid=rss'
-  Investors: 'Jim Breyer, Collaborative Fund, Jim O''Neill'
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/kano-computing'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: May
-  Name: Inkling
-  Amount: '$15,000,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-05-06-inkling-systems-raises-15m-for-digital-textbooks
-  Investors: >-
-    Tenaya Capital, Pearson Education, McGraw-Hill Education, Kapor Capital,
-    General Atlantic, Felicia Ventures, Sequoia Capital
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/inkling-systems'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: May
-  Name: Toppr
-  Amount: '$10,000,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-05-07-toppr-raises-10m-for-online-test-prep-in-india
-  Investors: 'Fidelity, Saif, and Helion'
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/toppr'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: May
-  Name: eduK
-  Amount: '$10,000,000'
-  Series: ''
-  URL: >-
-    http://techcrunch.com/2015/05/12/accel-renews-commitment-to-brazilian-startups-with-10m-eduk-investment/?ncid=rss
-  Investors: 'Accel Partners, Monashees Capital, and Felicis Ventures'
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/eduk'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: May
-  Name: Wonder Workshop
-  Amount: '$6,900,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-05-05-wonder-workshop-gets-6-9-million-and-a-home-in-apple-stores
-  Investors: >-
-    WI Harper Group, Madrona Venture Group, CRV, Maven Ventures, and Bright
-    Success Capital
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/play-i'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: May
-  Name: Vedantu
-  Amount: '$5,000,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-05-07-vedantu-raises-5m-for-online-tutoring-in-india
-  Investors: Accel Partners and Tiger Global Management
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/vedantu-innovations'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: May
-  Name: Lightsail
-  Amount: '$3,500,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-05-06-lightsail-raises-3-5-million-for-tablet-based-libraries
-  Investors: Scott Brook
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/lightsail-education'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: May
-  Name: Knod
-  Amount: '$3,500,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-05-12-with-3-5m-round-knod-offers-online-project-based-degrees
-  Investors: 'Epic Ventures, Impact Investment Leaders'
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/knod'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: May
-  Name: Edrolo
-  Amount: '$2,600,000'
-  Series: ''
-  URL: >-
-    http://www.brw.com.au/p/entrepreneurs/education_start_up_edrolo_raises_gf7p70OAgshyzfDiaN9hiM
-  Investors: Blackbird and AirTree Ventures
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/edrolo'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: May
-  Name: Explain Everything
-  Amount: '$2,000,000'
-  Series: ''
-  URL: >-
-    http://explaineverything.com/news/press-release-explain-everything-secures-2m-series-financing-led-credo-ventures-expansion-k-12/
-  Investors: 'Credo Ventures, New Europe Ventures, and RTAventures'
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/explain-everything'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: May
-  Name: Plancess
-  Amount: '$2,000,000'
-  Series: ''
-  URL: >-
-    http://www.prnewswire.co.in/news-releases/with-a-2-million-round-plancess-gears-up-for-an-aggressive-foray-into-the-online-test-preparation-industry-503383561.html
-  Investors: Aarti Group
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/plancess-edu-solutions-pvt-ltd'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: May
-  Name: Zaption
-  Amount: '$1,500,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-05-19-with-1-5-million-zaption-offers-online-interactive-videos
-  Investors: 'NewSchools Venture Fund, Redcrest Enterprises, and Telegraph Hill Capital'
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/zaption'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: May
-  Name: MeetUniv
-  Amount: '$950,000'
-  Series: ''
-  URL: >-
-    http://www.iamwire.com/2015/05/edtech-platform-meetuniv-raises-1m-funding/116762
-  Investors: Peesh Venture Capital
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/meetuniv'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: May
-  Name: Boost Academy
-  Amount: '$600,000'
-  Series: ''
-  URL: 'https://www.pehub.com/2015/05/boost-academy-scores-600k/'
-  Investors: Tom Ladt
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/boost-academy'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: May
+- Month: 2015-05
   Name: Tinkergarten
   Amount: '$500,000'
   Series: ''
@@ -1448,252 +1203,263 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: June
-  Name: Treehouse
-  Amount: undisclosed
+- Month: 2015-05
+  Name: Boost Academy
+  Amount: '$600,000'
+  Series: ''
+  URL: 'https://www.pehub.com/2015/05/boost-academy-scores-600k/'
+  Investors: Tom Ladt
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/boost-academy'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-05
+  Name: MeetUniv
+  Amount: '$950,000'
   Series: ''
   URL: >-
-    http://www.bizjournals.com/portland/blog/techflash/2015/06/portland-based-code-school-treehouse-lands-a.html
-  Investors: Red Ventures
+    http://www.iamwire.com/2015/05/edtech-platform-meetuniv-raises-1m-funding/116762
+  Investors: Peesh Venture Capital
   Total: ''
-  Crunchbase: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/meetuniv'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: June
-  Name: LinguaLeo
-  Amount: undisclosed
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-06-18-lingualeo-raises-funding-for-online-english-learning
-  Investors: Social Discovery Ventures and Runa Capital
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/lingualeo'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: June
-  Name: Andela
-  Amount: undisclosed
-  Series: ''
-  URL: >-
-    http://techcrunch.com/2015/06/25/backed-by-spark-capital-andela-will-develop-a-continent-of-tech-talent/
-  Investors: 'Spark Capital, Omidyar Network, and Learn Capital'
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/andela'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: June
-  Name: CareerFoundry
-  Amount: undisclosed
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-06-24-careerfoundry-raises-funding-for-online-vocational-skill-courses
-  Investors: ''
-  Total: ''
-  Crunchbase: ''
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: June
-  Name: Udemy
-  Amount: '$65,000,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-06-02-udemy-raises-65m-in-quest-to-grow-online-learning-marketplace-across-the-world
-  Investors: >-
-    Stripes Group, Upwork (the company formerly known as Elance-oDesk), Art.com,
-    Pond5, Norwest Venture Partners, Insight Venture Partners
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/udemy'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: June
-  Name: Orbotix
-  Amount: '$45,000,000'
-  Series: ''
-  URL: >-
-    http://techcrunch.com/2015/06/02/star-wars-bb-8-designer-sphero-raises-another-45m-from-mercato-disney-and-more/
-  Investors: 'Mercato Partners, Disney, and Foundry Group'
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/orbotix'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: June
-  Name: Duolingo
-  Amount: '$45,000,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-06-10-duolingo-raises-45m-to-teach-users-languages
-  Investors: >-
-    Google Capital, Kleiner Perkins Caufield & Byers, New Enterprise Associates,
-    and Union Square Ventures
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/duolingo'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: June
-  Name: LittleBits
-  Amount: '$44,200,000'
-  Series: ''
-  URL: 'http://techcrunch.com/2015/06/25/littlebits-raises-big-44-2-million-round/'
-  Investors: >-
-    DFJ Growth, Morgan Stanley, Alternative Investment Partners, Grishin
-    Robotics, Wamda Capital, Foundry Group, True Ventures, VegasTechFund, Two
-    Sigma Ventures, and Khosla Ventures
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/littlebits-electronics'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: June
-  Name: Fullbridge
-  Amount: '$15,400,000'
-  Series: ''
-  URL: >-
-    http://www.prnewswire.com/news-releases/fullbridge-secures-154-million-in-series-of-preferred-stock-fundraising-advancing-company-expansion-300100663.html
-  Investors: ''
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/fullbridge'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: June
-  Name: Fuse Universal
-  Amount: '$10,000,000'
-  Series: ''
-  URL: 'http://techcitynews.com/2015/06/18/fuse-universal-secures-10m-investment/'
-  Investors: Education Growth Partners
-  Total: ''
-  Crunchbase: ''
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: June
-  Name: Maker Media
-  Amount: '$5,000,000'
-  Series: ''
-  URL: >-
-    http://techcrunch.com/2015/06/09/maker-media-nabs-5-million-in-funding-and-yahoo-tech-editor-rafe-needleman/
-  Investors: 'Obvious Ventures, Raine Ventures, Azure Capital, OATV, and Floodgate'
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/maker-media'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: June
-  Name: Speexx
-  Amount: '$5,000,000'
-  Series: ''
-  URL: >-
-    http://www.realwire.com/releases/Speexx-raises-5-million-to-accelerate-global-growth
-  Investors: Ventech and Alto Invest
-  Total: ''
-  Crunchbase: ''
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: June
-  Name: Applect Learning Systems
-  Amount: '$4,000,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-06-02-applect-learning-systems-raises-4m-for-online-curricula-in-india
-  Investors: Info Edge
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/applect-learning-systems-pvt-ltd'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: June
-  Name: Digital Assess
-  Amount: '$3,000,000'
-  Series: ''
-  URL: >-
-    http://www.educationinvestor.co.uk/ShowArticle.aspx?ID=4647&AspxAutoDetectCookieSupport=1
-  Investors: undisclosed
-  Total: ''
-  Crunchbase: ''
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: June
-  Name: Brightwheel
-  Amount: '$2,200,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-06-17-brightwheel-raises-2-2m-to-help-you-go-to-preschool
-  Investors: >-
-    RRE Ventures, Eniac Ventures, CrossLink Capital, Golden Venture Partners,
-    Red Swan Ventures, and Sherpa Ventures
-  Total: ''
-  Crunchbase: ''
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: June
-  Name: Packback
+- Month: 2015-05
+  Name: Zaption
   Amount: '$1,500,000'
   Series: ''
   URL: >-
-    http://chicagoinno.streetwise.co/2015/06/09/shark-tank-alum-packback-raises-1-5-million/
-  Investors: Hyde Park Angels
+    https://www.edsurge.com/n/2015-05-19-with-1-5-million-zaption-offers-online-interactive-videos
+  Investors: 'NewSchools Venture Fund, Redcrest Enterprises, and Telegraph Hill Capital'
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/packback-books'
+  Crunchbase: 'https://www.crunchbase.com/organization/zaption'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: June
-  Name: Actively Learn
-  Amount: '$1,030,000'
+- Month: 2015-05
+  Name: Explain Everything
+  Amount: '$2,000,000'
   Series: ''
   URL: >-
-    https://www.edsurge.com/n/2015-06-12-actively-learn-raises-1-03m-for-tool-to-annotate-online-texts
-  Investors: undisclosed
+    http://explaineverything.com/news/press-release-explain-everything-secures-2m-series-financing-led-credo-ventures-expansion-k-12/
+  Investors: 'Credo Ventures, New Europe Ventures, and RTAventures'
   Total: ''
-  Crunchbase: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/explain-everything'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: June
+- Month: 2015-05
+  Name: Plancess
+  Amount: '$2,000,000'
+  Series: ''
+  URL: >-
+    http://www.prnewswire.co.in/news-releases/with-a-2-million-round-plancess-gears-up-for-an-aggressive-foray-into-the-online-test-preparation-industry-503383561.html
+  Investors: Aarti Group
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/plancess-edu-solutions-pvt-ltd'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-05
+  Name: Edrolo
+  Amount: '$2,600,000'
+  Series: ''
+  URL: >-
+    http://www.brw.com.au/p/entrepreneurs/education_start_up_edrolo_raises_gf7p70OAgshyzfDiaN9hiM
+  Investors: Blackbird and AirTree Ventures
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/edrolo'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-05
+  Name: Knod
+  Amount: '$3,500,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-05-12-with-3-5m-round-knod-offers-online-project-based-degrees
+  Investors: 'Epic Ventures, Impact Investment Leaders'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/knod'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-05
+  Name: Lightsail
+  Amount: '$3,500,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-05-06-lightsail-raises-3-5-million-for-tablet-based-libraries
+  Investors: Scott Brook
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/lightsail-education'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-05
+  Name: Vedantu
+  Amount: '$5,000,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-05-07-vedantu-raises-5m-for-online-tutoring-in-india
+  Investors: Accel Partners and Tiger Global Management
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/vedantu-innovations'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-05
+  Name: Wonder Workshop
+  Amount: '$6,900,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-05-05-wonder-workshop-gets-6-9-million-and-a-home-in-apple-stores
+  Investors: >-
+    WI Harper Group, Madrona Venture Group, CRV, Maven Ventures, and Bright
+    Success Capital
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/play-i'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-05
+  Name: eduK
+  Amount: '$10,000,000'
+  Series: ''
+  URL: >-
+    http://techcrunch.com/2015/05/12/accel-renews-commitment-to-brazilian-startups-with-10m-eduk-investment/?ncid=rss
+  Investors: 'Accel Partners, Monashees Capital, and Felicis Ventures'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/eduk'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-05
+  Name: Toppr
+  Amount: '$10,000,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-05-07-toppr-raises-10m-for-online-test-prep-in-india
+  Investors: 'Fidelity, Saif, and Helion'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/toppr'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-05
+  Name: Inkling
+  Amount: '$15,000,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-05-06-inkling-systems-raises-15m-for-digital-textbooks
+  Investors: >-
+    Tenaya Capital, Pearson Education, McGraw-Hill Education, Kapor Capital,
+    General Atlantic, Felicia Ventures, Sequoia Capital
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/inkling-systems'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-05
+  Name: Kano
+  Amount: '$15,000,000'
+  Series: ''
+  URL: 'http://techcrunch.com/2015/05/04/kano-series-a/?ncid=rss'
+  Investors: 'Jim Breyer, Collaborative Fund, Jim O''Neill'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/kano-computing'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-05
+  Name: AltSchool
+  Amount: '$100,000,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-05-04-mark-zuckerberg-silicon-valley-investors-bet-100-million-on-altschool
+  Investors: >-
+    Founders Fund, Andreessen Horowitz, First Round Capital, John Doerr,
+    Harrison Metal, Jonathan Sackler, Learn Capital, and Omidyar Network
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/altschool'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-05
+  Name: KleverKid
+  Amount: undisclosed
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-05-08-kleverkid-raises-funding-for-online-afterschool-program-marketplace
+  Investors: 'Aarin Capital, Sunil Kaul, Ananda Kallugadde, and Maina Sahi'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/kleverkid'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-05
+  Name: Springboard Education
+  Amount: undisclosed
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-05-06-springboard-education-raises-funding-for-educational-programming
+  Investors: Bridges Ventures
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/springboard-after-school'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-06
+  Name: CareDox
+  Amount: '$900,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-06-02-caredox-raises-900k-for-online-student-medical-records--85f637c3-d9ce-4531-a3da-9b57bc7948d0
+  Investors: undisclosed
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/caredox'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-06
   Name: Allovue
   Amount: '$1,000,000'
   Series: ''
@@ -1709,7 +1475,7 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: June
+- Month: 2015-06
   Name: Arcterus
   Amount: '$1,000,000'
   Series: ''
@@ -1723,7 +1489,7 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: June
+- Month: 2015-06
   Name: EduKart
   Amount: '$1,000,000'
   Series: ''
@@ -1739,27 +1505,216 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: June
-  Name: CareDox
-  Amount: '$900,000'
+- Month: 2015-06
+  Name: Actively Learn
+  Amount: '$1,030,000'
   Series: ''
   URL: >-
-    https://www.edsurge.com/n/2015-06-02-caredox-raises-900k-for-online-student-medical-records--85f637c3-d9ce-4531-a3da-9b57bc7948d0
+    https://www.edsurge.com/n/2015-06-12-actively-learn-raises-1-03m-for-tool-to-annotate-online-texts
   Investors: undisclosed
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/caredox'
+  Crunchbase: ''
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: July
-  Name: Iron Yard
+- Month: 2015-06
+  Name: Packback
+  Amount: '$1,500,000'
+  Series: ''
+  URL: >-
+    http://chicagoinno.streetwise.co/2015/06/09/shark-tank-alum-packback-raises-1-5-million/
+  Investors: Hyde Park Angels
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/packback-books'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-06
+  Name: Brightwheel
+  Amount: '$2,200,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-06-17-brightwheel-raises-2-2m-to-help-you-go-to-preschool
+  Investors: >-
+    RRE Ventures, Eniac Ventures, CrossLink Capital, Golden Venture Partners,
+    Red Swan Ventures, and Sherpa Ventures
+  Total: ''
+  Crunchbase: ''
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-06
+  Name: Digital Assess
+  Amount: '$3,000,000'
+  Series: ''
+  URL: >-
+    http://www.educationinvestor.co.uk/ShowArticle.aspx?ID=4647&AspxAutoDetectCookieSupport=1
+  Investors: undisclosed
+  Total: ''
+  Crunchbase: ''
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-06
+  Name: Applect Learning Systems
+  Amount: '$4,000,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-06-02-applect-learning-systems-raises-4m-for-online-curricula-in-india
+  Investors: Info Edge
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/applect-learning-systems-pvt-ltd'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-06
+  Name: Maker Media
+  Amount: '$5,000,000'
+  Series: ''
+  URL: >-
+    http://techcrunch.com/2015/06/09/maker-media-nabs-5-million-in-funding-and-yahoo-tech-editor-rafe-needleman/
+  Investors: 'Obvious Ventures, Raine Ventures, Azure Capital, OATV, and Floodgate'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/maker-media'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-06
+  Name: Speexx
+  Amount: '$5,000,000'
+  Series: ''
+  URL: >-
+    http://www.realwire.com/releases/Speexx-raises-5-million-to-accelerate-global-growth
+  Investors: Ventech and Alto Invest
+  Total: ''
+  Crunchbase: ''
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-06
+  Name: Fuse Universal
+  Amount: '$10,000,000'
+  Series: ''
+  URL: 'http://techcitynews.com/2015/06/18/fuse-universal-secures-10m-investment/'
+  Investors: Education Growth Partners
+  Total: ''
+  Crunchbase: ''
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-06
+  Name: Fullbridge
+  Amount: '$15,400,000'
+  Series: ''
+  URL: >-
+    http://www.prnewswire.com/news-releases/fullbridge-secures-154-million-in-series-of-preferred-stock-fundraising-advancing-company-expansion-300100663.html
+  Investors: ''
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/fullbridge'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-06
+  Name: LittleBits
+  Amount: '$44,200,000'
+  Series: ''
+  URL: 'http://techcrunch.com/2015/06/25/littlebits-raises-big-44-2-million-round/'
+  Investors: >-
+    DFJ Growth, Morgan Stanley, Alternative Investment Partners, Grishin
+    Robotics, Wamda Capital, Foundry Group, True Ventures, VegasTechFund, Two
+    Sigma Ventures, and Khosla Ventures
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/littlebits-electronics'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-06
+  Name: Duolingo
+  Amount: '$45,000,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-06-10-duolingo-raises-45m-to-teach-users-languages
+  Investors: >-
+    Google Capital, Kleiner Perkins Caufield & Byers, New Enterprise Associates,
+    and Union Square Ventures
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/duolingo'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-06
+  Name: Orbotix
+  Amount: '$45,000,000'
+  Series: ''
+  URL: >-
+    http://techcrunch.com/2015/06/02/star-wars-bb-8-designer-sphero-raises-another-45m-from-mercato-disney-and-more/
+  Investors: 'Mercato Partners, Disney, and Foundry Group'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/orbotix'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-06
+  Name: Udemy
+  Amount: '$65,000,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-06-02-udemy-raises-65m-in-quest-to-grow-online-learning-marketplace-across-the-world
+  Investors: >-
+    Stripes Group, Upwork (the company formerly known as Elance-oDesk), Art.com,
+    Pond5, Norwest Venture Partners, Insight Venture Partners
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/udemy'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-06
+  Name: Andela
   Amount: undisclosed
   Series: ''
   URL: >-
-    http://www.greenvilleonline.com/story/money/business/2015/07/07/investment-gives-iron-yard-shot-arm-growth/29812239/
-  Investors: Apollo Group
+    http://techcrunch.com/2015/06/25/backed-by-spark-capital-andela-will-develop-a-continent-of-tech-talent/
+  Investors: 'Spark Capital, Omidyar Network, and Learn Capital'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/andela'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-06
+  Name: CareerFoundry
+  Amount: undisclosed
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-06-24-careerfoundry-raises-funding-for-online-vocational-skill-courses
+  Investors: ''
   Total: ''
   Crunchbase: ''
   Keyword: ''
@@ -1767,47 +1722,27 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: July
-  Name: BrightBytes
-  Amount: '$33,000,000'
+- Month: 2015-06
+  Name: LinguaLeo
+  Amount: undisclosed
   Series: ''
   URL: >-
-    http://venturebeat.com/2015/07/21/brightbytes-raises-33m-to-help-schools-everywhere-gauge-the-impact-of-technology-in-classrooms/
-  Investors: >-
-    Insight Venture Partners, Bessemer Venture Partners, Learn Capital, and
-    Rethink Education
+    https://www.edsurge.com/n/2015-06-18-lingualeo-raises-funding-for-online-english-learning
+  Investors: Social Discovery Ventures and Runa Capital
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/brightbytes'
+  Crunchbase: 'https://www.crunchbase.com/organization/lingualeo'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: July
-  Name: Babbel
-  Amount: '$22,000,000'
+- Month: 2015-06
+  Name: Treehouse
+  Amount: undisclosed
   Series: ''
   URL: >-
-    https://www.edsurge.com/n/2015-07-08-money-talks-babbel-raises-22m-to-help-online-language-learners
-  Investors: >-
-    Scottish Equity Partners, Reed Elsevier Ventures, Nokia Growth Partners, and
-    VC Fonds Technology Berlin
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/babbel'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: July
-  Name: Acrobatiq
-  Amount: '$9,700,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-07-28-acrobatiq-raises-9-7-million-to-bring-adaptive-learning-to-higher-ed
-  Investors: >-
-    Draper Triangle Ventures, Hearst Ventures, and the Bill & Melinda Gates
-    Foundation
+    http://www.bizjournals.com/portland/blog/techflash/2015/06/portland-based-code-school-treehouse-lands-a.html
+  Investors: Red Ventures
   Total: ''
   Crunchbase: ''
   Keyword: ''
@@ -1815,98 +1750,13 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: July
-  Name: Lost My Name
-  Amount: '$9,000,000'
+- Month: 2015-07
+  Name: Calolo
+  Amount: '$100,000'
   Series: ''
   URL: >-
-    https://www.edsurge.com/n/2015-06-26-lost-my-name-finds-9m-for-personalized-kids-books
-  Investors: 'Google Ventures, Greycroft, The Chernin Group, Allen & Co, and Cris Conde'
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/lost-my-name'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: July
-  Name: XanEdu
-  Amount: '$8,100,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-07-13-xanedu-snags-8-1-million-round-to-deliver-corporate-training-materials
-  Investors: Superior Capital Partners and Plymouth Ventures
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/xanedu'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: July
-  Name: Bloomboard
-  Amount: '$7,200,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-06-30-bloomboard-s-professional-development-marketplace-is-now-open-fueled-by-7-2m-series-b-funding
-  Investors: >-
-    Birchmere Ventures, the Gates Foundation, Learn Capital, Dell Foundation,
-    and Gera Ventures
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/bloomboard'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: July
-  Name: Busuu
-  Amount: '$6,700,000'
-  Series: ''
-  URL: 'https://www.edsurge.com/n/2015-07-15-busuu-wins-mcgraw-hill-investment'
-  Investors: McGraw-Hill
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/busuu'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: July
-  Name: PowerToFly
-  Amount: '$6,500,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-07-01-powertofly-raises-6-5m-to-connect-women-with-jobs
-  Investors: 'Crosslink Capital, Hearst Ventures, and Lerer Hippeau Ventures'
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/powertofly-2'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: July
-  Name: CultureAlley
-  Amount: '$6,500,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-07-07-indian-startup-culturealley-raises-6-5m-for-language-learning-app
-  Investors: 'Tiger Global Management, KAE Capital, and 500 Startups'
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/culturealley'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: July
-  Name: mLevel
-  Amount: '$5,300,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-07-13-mlevel-raises-5-3-million-to-train-adults
-  Investors: BIP Capital
+    https://www.edsurge.com/n/2015-06-30-calolo-raises-100k-to-help-students-apply-to-college
+  Investors: ''
   Total: ''
   Crunchbase: ''
   Keyword: ''
@@ -1914,15 +1764,15 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: July
-  Name: CampusLogic
-  Amount: '$4,100,000'
+- Month: 2015-07
+  Name: Kaizena
+  Amount: '$900,000'
   Series: ''
   URL: >-
-    https://www.edsurge.com/n/2015-07-07-campuslogic-raises-4-1m-to-help-students-schools-navigate-financial-aid
+    https://www.edsurge.com/n/2015-07-15-kaizena-gets-900k-worth-of-great-feedback-in-seed-round
   Investors: >-
-    University Ventures, Continental Investors, Matt Pittinsky (Blackboard
-    co-founder and CEO of Parchment), Deborah Quazzo
+    NewsSchools Venture Fund Seed, Horizons Ventures, Umang Gupta, Jeff Weiner,
+    Tom Williams, and Victor Alcantara
   Total: ''
   Crunchbase: ''
   Keyword: ''
@@ -1930,13 +1780,13 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: July
-  Name: ScoreBeyond
-  Amount: '$2,800,000'
+- Month: 2015-07
+  Name: DataCamp
+  Amount: '$1,000,000'
   Series: ''
   URL: >-
-    http://techcrunch.com/2015/06/30/scorebeyond-a-standardized-test-prep-app-raises-2-8m/
-  Investors: Khosla Ventures
+    http://techcrunch.com/2015/07/14/datacamp-gets-1m-seed-round-to-develop-data-science-learning-platform/
+  Investors: Chris Lynch
   Total: ''
   Crunchbase: ''
   Keyword: ''
@@ -1944,51 +1794,21 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: July
-  Name: ThirdSpaceLearning
-  Amount: '$2,300,000'
+- Month: 2015-07
+  Name: Montessorium
+  Amount: '$1,000,000'
   Series: ''
   URL: >-
-    https://www.edsurge.com/n/2015-07-13-uk-s-third-space-learning-wins-series-a-investment
-  Investors: Ananda - Social Venture Fund and Nesta
+    https://docs.google.com/document/d/1cfTucbVhPyf_pyds6mEhxBAbYxIjY9ssyxm6-aAt7Vc/edit
+  Investors: Bluestem Capital Appreciation Fund
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/thirdspacelearning'
+  Crunchbase: ''
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: July
-  Name: One Month
-  Amount: '$1,900,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-06-30-one-month-raises-1-9m-in-second-seed-round-to-deliver-bite-sized-online-courses
-  Investors: 'Arena Ventures, Idea Bulb Ventures, and Cornerstone OnDemand'
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/one-month-rails'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: July
-  Name: ClassWallet
-  Amount: '$1,900,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-07-13-classwallet-raises-1-9m-to-simplify-school-spending
-  Investors: >-
-    NewSchools Venture Seed Fund, Kaplan Ventures, William Gutman, Accelerated
-    Growth Partners, and MaverixLab
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/classwallet'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: July
+- Month: 2015-07
   Name: Copley Retention Systems
   Amount: '$1,500,000'
   Series: ''
@@ -2005,43 +1825,57 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: July
-  Name: DataCamp
-  Amount: '$1,000,000'
+- Month: 2015-07
+  Name: ClassWallet
+  Amount: '$1,900,000'
   Series: ''
   URL: >-
-    http://techcrunch.com/2015/07/14/datacamp-gets-1m-seed-round-to-develop-data-science-learning-platform/
-  Investors: Chris Lynch
-  Total: ''
-  Crunchbase: ''
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: July
-  Name: Montessorium
-  Amount: '$1,000,000'
-  Series: ''
-  URL: >-
-    https://docs.google.com/document/d/1cfTucbVhPyf_pyds6mEhxBAbYxIjY9ssyxm6-aAt7Vc/edit
-  Investors: Bluestem Capital Appreciation Fund
-  Total: ''
-  Crunchbase: ''
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: July
-  Name: Kaizena
-  Amount: '$900,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/n/2015-07-15-kaizena-gets-900k-worth-of-great-feedback-in-seed-round
+    https://www.edsurge.com/n/2015-07-13-classwallet-raises-1-9m-to-simplify-school-spending
   Investors: >-
-    NewsSchools Venture Fund Seed, Horizons Ventures, Umang Gupta, Jeff Weiner,
-    Tom Williams, and Victor Alcantara
+    NewSchools Venture Seed Fund, Kaplan Ventures, William Gutman, Accelerated
+    Growth Partners, and MaverixLab
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/classwallet'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-07
+  Name: One Month
+  Amount: '$1,900,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-06-30-one-month-raises-1-9m-in-second-seed-round-to-deliver-bite-sized-online-courses
+  Investors: 'Arena Ventures, Idea Bulb Ventures, and Cornerstone OnDemand'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/one-month-rails'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-07
+  Name: ThirdSpaceLearning
+  Amount: '$2,300,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-07-13-uk-s-third-space-learning-wins-series-a-investment
+  Investors: Ananda - Social Venture Fund and Nesta
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/thirdspacelearning'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-07
+  Name: ScoreBeyond
+  Amount: '$2,800,000'
+  Series: ''
+  URL: >-
+    http://techcrunch.com/2015/06/30/scorebeyond-a-standardized-test-prep-app-raises-2-8m/
+  Investors: Khosla Ventures
   Total: ''
   Crunchbase: ''
   Keyword: ''
@@ -2049,13 +1883,15 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: July
-  Name: Calolo
-  Amount: '$100,000'
+- Month: 2015-07
+  Name: CampusLogic
+  Amount: '$4,100,000'
   Series: ''
   URL: >-
-    https://www.edsurge.com/n/2015-06-30-calolo-raises-100k-to-help-students-apply-to-college
-  Investors: ''
+    https://www.edsurge.com/n/2015-07-07-campuslogic-raises-4-1m-to-help-students-schools-navigate-financial-aid
+  Investors: >-
+    University Ventures, Continental Investors, Matt Pittinsky (Blackboard
+    co-founder and CEO of Parchment), Deborah Quazzo
   Total: ''
   Crunchbase: ''
   Keyword: ''
@@ -2063,12 +1899,12 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: August
-  Name: Crescerance
-  Amount: undisclosed
+- Month: 2015-07
+  Name: mLevel
+  Amount: '$5,300,000'
   Series: ''
   URL: >-
-    https://www.edsurge.com/n/2015-08-10-crescerance-raises-series-a-round-to-become-one-stop-mobile-shop-for-schools
+    https://www.edsurge.com/n/2015-07-13-mlevel-raises-5-3-million-to-train-adults
   Investors: BIP Capital
   Total: ''
   Crunchbase: ''
@@ -2077,71 +1913,100 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: August
-  Name: Coursera
-  Amount: '$49,500,000'
+- Month: 2015-07
+  Name: CultureAlley
+  Amount: '$6,500,000'
   Series: ''
   URL: >-
-    https://www.edsurge.com/news/2015-08-25-coursera-charts-course-for-international-expansion-with-49-5m-in-series-c-funding
+    https://www.edsurge.com/n/2015-07-07-indian-startup-culturealley-raises-6-5m-for-language-learning-app
+  Investors: 'Tiger Global Management, KAE Capital, and 500 Startups'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/culturealley'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-07
+  Name: PowerToFly
+  Amount: '$6,500,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-07-01-powertofly-raises-6-5m-to-connect-women-with-jobs
+  Investors: 'Crosslink Capital, Hearst Ventures, and Lerer Hippeau Ventures'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/powertofly-2'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-07
+  Name: Busuu
+  Amount: '$6,700,000'
+  Series: ''
+  URL: 'https://www.edsurge.com/n/2015-07-15-busuu-wins-mcgraw-hill-investment'
+  Investors: McGraw-Hill
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/busuu'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-07
+  Name: Bloomboard
+  Amount: '$7,200,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-06-30-bloomboard-s-professional-development-marketplace-is-now-open-fueled-by-7-2m-series-b-funding
   Investors: >-
-    New Enterprise Associates, Kleiner Perkins Caufield & Byers, International
-    Finance Corporation, GSV Asset Management, Learn Capital. and Times Internet
+    Birchmere Ventures, the Gates Foundation, Learn Capital, Dell Foundation,
+    and Gera Ventures
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/coursera'
+  Crunchbase: 'https://www.crunchbase.com/organization/bloomboard'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: August
-  Name: Panorama Education
-  Amount: '$12,000,000'
+- Month: 2015-07
+  Name: XanEdu
+  Amount: '$8,100,000'
   Series: ''
   URL: >-
-    https://www.edsurge.com/n/2015-08-04-panorama-education-scores-12m-to-boost-student-voice-school-success
-  Investors: 'Owl Ventures, Spark Capital'
+    https://www.edsurge.com/n/2015-07-13-xanedu-snags-8-1-million-round-to-deliver-corporate-training-materials
+  Investors: Superior Capital Partners and Plymouth Ventures
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/panorama-education'
+  Crunchbase: 'https://www.crunchbase.com/organization/xanedu'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: August
-  Name: Front Row Education
-  Amount: '$5,300,000'
+- Month: 2015-07
+  Name: Lost My Name
+  Amount: '$9,000,000'
   Series: ''
   URL: >-
-    https://www.edsurge.com/n/2015-08-13-adaptive-math-app-developer-front-row-education-gets-5-3m-in-series-a-funding
-  Investors: 'Amasia, Harrison Metal, and Baseline Ventures'
+    https://www.edsurge.com/n/2015-06-26-lost-my-name-finds-9m-for-personalized-kids-books
+  Investors: 'Google Ventures, Greycroft, The Chernin Group, Allen & Co, and Cris Conde'
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/front-row'
+  Crunchbase: 'https://www.crunchbase.com/organization/lost-my-name'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: August
-  Name: Quad Learning
-  Amount: '$4,800,000'
+- Month: 2015-07
+  Name: Acrobatiq
+  Amount: '$9,700,000'
   Series: ''
   URL: >-
-    https://www.edsurge.com/n/2015-08-13-quad-learning-raises-4-8m-to-boost-community-college-success
-  Investors: ''
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/quad-learning'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: August
-  Name: SmackHigh
-  Amount: '$1,650,000'
-  Series: ''
-  URL: >-
-    http://www.betaboston.com/news/2015/08/19/smackhigh-raises-1-65-million-for-its-social-media-platform-that-discourages-bullying/
-  Investors: 'Flybridge Capital Partners, Boston Seed Capital, and Wayne Chang'
+    https://www.edsurge.com/n/2015-07-28-acrobatiq-raises-9-7-million-to-bring-adaptive-learning-to-higher-ed
+  Investors: >-
+    Draper Triangle Ventures, Hearst Ventures, and the Bill & Melinda Gates
+    Foundation
   Total: ''
   Crunchbase: ''
   Keyword: ''
@@ -2149,13 +2014,45 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: August
-  Name: AdmitSee
-  Amount: '$1,500,000'
+- Month: 2015-07
+  Name: Babbel
+  Amount: '$22,000,000'
   Series: ''
   URL: >-
-    https://www.edsurge.com/n/2015-08-04-admitsee-raises-1-5m-seed-round-to-build-marketplace-for-college-application-materials
-  Investors: 'The Social+Capital Partnership, ImagineK12, and FOUNDER.org'
+    https://www.edsurge.com/n/2015-07-08-money-talks-babbel-raises-22m-to-help-online-language-learners
+  Investors: >-
+    Scottish Equity Partners, Reed Elsevier Ventures, Nokia Growth Partners, and
+    VC Fonds Technology Berlin
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/babbel'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-07
+  Name: BrightBytes
+  Amount: '$33,000,000'
+  Series: ''
+  URL: >-
+    http://venturebeat.com/2015/07/21/brightbytes-raises-33m-to-help-schools-everywhere-gauge-the-impact-of-technology-in-classrooms/
+  Investors: >-
+    Insight Venture Partners, Bessemer Venture Partners, Learn Capital, and
+    Rethink Education
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/brightbytes'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-07
+  Name: Iron Yard
+  Amount: undisclosed
+  Series: ''
+  URL: >-
+    http://www.greenvilleonline.com/story/money/business/2015/07/07/investment-gives-iron-yard-shot-arm-growth/29812239/
+  Investors: Apollo Group
   Total: ''
   Crunchbase: ''
   Keyword: ''
@@ -2163,13 +2060,13 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: August
-  Name: Testive
-  Amount: '$1,150,000'
+- Month: 2015-08
+  Name: Cybrary
+  Amount: '$400,000'
   Series: ''
   URL: >-
-    http://www.betaboston.com/news/2015/08/13/techstars-alum-testive-adds-1-15m-to-boost-college-test-prep-service/
-  Investors: ''
+    http://www.bizjournals.com/washington/blog/techflash/2015/08/local-startup-is-bringing-cybersecurity-training.html
+  Investors: Inner Loop Capital
   Total: ''
   Crunchbase: ''
   Keyword: ''
@@ -2177,7 +2074,7 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: August
+- Month: 2015-08
   Name: LearnTrials
   Amount: '$800,000'
   Series: ''
@@ -2193,13 +2090,13 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: August
-  Name: Cybrary
-  Amount: '$400,000'
+- Month: 2015-08
+  Name: Testive
+  Amount: '$1,150,000'
   Series: ''
   URL: >-
-    http://www.bizjournals.com/washington/blog/techflash/2015/08/local-startup-is-bringing-cybersecurity-training.html
-  Investors: Inner Loop Capital
+    http://www.betaboston.com/news/2015/08/13/techstars-alum-testive-adds-1-15m-to-boost-college-test-prep-service/
+  Investors: ''
   Total: ''
   Crunchbase: ''
   Keyword: ''
@@ -2207,13 +2104,99 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: September
-  Name: Zuoyebang
+- Month: 2015-08
+  Name: AdmitSee
+  Amount: '$1,500,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-08-04-admitsee-raises-1-5m-seed-round-to-build-marketplace-for-college-application-materials
+  Investors: 'The Social+Capital Partnership, ImagineK12, and FOUNDER.org'
+  Total: ''
+  Crunchbase: ''
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-08
+  Name: SmackHigh
+  Amount: '$1,650,000'
+  Series: ''
+  URL: >-
+    http://www.betaboston.com/news/2015/08/19/smackhigh-raises-1-65-million-for-its-social-media-platform-that-discourages-bullying/
+  Investors: 'Flybridge Capital Partners, Boston Seed Capital, and Wayne Chang'
+  Total: ''
+  Crunchbase: ''
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-08
+  Name: Quad Learning
+  Amount: '$4,800,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-08-13-quad-learning-raises-4-8m-to-boost-community-college-success
+  Investors: ''
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/quad-learning'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-08
+  Name: Front Row Education
+  Amount: '$5,300,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-08-13-adaptive-math-app-developer-front-row-education-gets-5-3m-in-series-a-funding
+  Investors: 'Amasia, Harrison Metal, and Baseline Ventures'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/front-row'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-08
+  Name: Panorama Education
+  Amount: '$12,000,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/n/2015-08-04-panorama-education-scores-12m-to-boost-student-voice-school-success
+  Investors: 'Owl Ventures, Spark Capital'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/panorama-education'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-08
+  Name: Coursera
+  Amount: '$49,500,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/news/2015-08-25-coursera-charts-course-for-international-expansion-with-49-5m-in-series-c-funding
+  Investors: >-
+    New Enterprise Associates, Kleiner Perkins Caufield & Byers, International
+    Finance Corporation, GSV Asset Management, Learn Capital. and Times Internet
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/coursera'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-08
+  Name: Crescerance
   Amount: undisclosed
   Series: ''
   URL: >-
-    http://techcrunch.com/2015/09/03/baidus-student-qa-app-zuoyebang-lands-investment-from-sequoia-and-legend-capital/
-  Investors: Sequoia China and Legend Capital
+    https://www.edsurge.com/n/2015-08-10-crescerance-raises-series-a-round-to-become-one-stop-mobile-shop-for-schools
+  Investors: BIP Capital
   Total: ''
   Crunchbase: ''
   Keyword: ''
@@ -2221,42 +2204,13 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: September
-  Name: Learnzillion
-  Amount: '$13,000,000'
-  Series: ''
-  URL: 'https://www.edsurge.com/news/2015-09-16-learnzillion-closes-13-million-round'
-  Investors: 'DCM Ventures, Owl Ventures, and 11 other investors'
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/learnzillion'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: September
-  Name: DreamBox Learning
-  Amount: '$10,000,000'
+- Month: 2015-09
+  Name: Spotlight Education
+  Amount: '$250,000'
   Series: ''
   URL: >-
-    https://www.edsurge.com/news/2015-08-28-adaptive-math-platform-dreambox-learning-raises-10m-series-b
-  Investors: >-
-    Owl Ventures, Tao Capital Partners, Charter School Growth Fund, John Doerr,
-    and GSV Capital
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/dreambox-learning'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: September
-  Name: Planet3
-  Amount: '$10,000,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/news/2015-09-09-planet3-raises-10m-series-a-to-build-immersive-3d-experiences-for-steam-education
-  Investors: Switch
+    https://www.edsurge.com/news/2015-09-01-spotlight-education-raises-250k-angel-investment-to-aggregate-school-data
+  Investors: undisclosed
   Total: ''
   Crunchbase: ''
   Keyword: ''
@@ -2264,45 +2218,12 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: September
-  Name: LearnUp
-  Amount: '$8,000,000'
+- Month: 2015-09
+  Name: Online Tyari
+  Amount: '$750,000'
   Series: ''
-  URL: >-
-    https://www.edsurge.com/news/2015-09-17-learnup-naps-8m-to-help-unemployed-find-jobs
-  Investors: >-
-    Shasta Ventures, New Enterprise Associates, Floodgate, Greylock Partners,
-    and High Line Venture Partners
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/learnup'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: September
-  Name: MasteryConnect
-  Amount: '$5,000,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/news/2015-09-22-used-in-85-percent-of-us-districts-masteryconnect-raises-5m-from-zuckerberg-education-ventures
-  Investors: Zuckerberg Education Ventures
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/masteryconnect'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: September
-  Name: NextLesson
-  Amount: '$2,900,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/news/2015-09-04-nextlesson-nabs-2-9m-seed-round-to-expand-curriculum-coverage
-  Investors: >-
-    Salesforce CEO Marc Benioff, Michael Birch, Drew Houston, Thomas Layton,
-    Marissa Mayer, Jeremy Stoppelman, and Nirav Tolia
+  URL: 'http://thetechportal.in/2015/09/10/onlinetyari-funding/'
+  Investors: '500 Startups, Aloke Bajpai, Tandem Capital, Mohnadas Pai, and Vikram Chachra'
   Total: ''
   Crunchbase: ''
   Keyword: ''
@@ -2310,21 +2231,21 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: September
-  Name: DecisionSim
-  Amount: '$1,850,000'
+- Month: 2015-09
+  Name: Portfolium
+  Amount: '$1,200,000'
   Series: ''
   URL: >-
-    https://www.edsurge.com/news/2015-09-08-decisionsim-raises-1-85m-to-train-healthcare-workers
-  Investors: Rittenhouse Ventures and Ben Franklin Technology Partners
+    https://www.edsurge.com/news/2015-09-22-portfolium-more-than-doubles-its-funding--c23cfd9d-275c-4c90-90fb-f2d538a2cf93
+  Investors: 'University Ventures, Seed San Diego, and Vertical Venture Partners'
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/decisionsim'
+  Crunchbase: 'https://www.crunchbase.com/organization/portfolium'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: September
+- Month: 2015-09
   Name: ApprenNet
   Amount: '$1,800,000'
   Series: ''
@@ -2341,112 +2262,29 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: September
-  Name: Portfolium
-  Amount: '$1,200,000'
+- Month: 2015-09
+  Name: DecisionSim
+  Amount: '$1,850,000'
   Series: ''
   URL: >-
-    https://www.edsurge.com/news/2015-09-22-portfolium-more-than-doubles-its-funding--c23cfd9d-275c-4c90-90fb-f2d538a2cf93
-  Investors: 'University Ventures, Seed San Diego, and Vertical Venture Partners'
+    https://www.edsurge.com/news/2015-09-08-decisionsim-raises-1-85m-to-train-healthcare-workers
+  Investors: Rittenhouse Ventures and Ben Franklin Technology Partners
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/portfolium'
+  Crunchbase: 'https://www.crunchbase.com/organization/decisionsim'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: September
-  Name: Online Tyari
-  Amount: '$750,000'
-  Series: ''
-  URL: 'http://thetechportal.in/2015/09/10/onlinetyari-funding/'
-  Investors: '500 Startups, Aloke Bajpai, Tandem Capital, Mohnadas Pai, and Vikram Chachra'
-  Total: ''
-  Crunchbase: ''
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: September
-  Name: Spotlight Education
-  Amount: '$250,000'
+- Month: 2015-09
+  Name: NextLesson
+  Amount: '$2,900,000'
   Series: ''
   URL: >-
-    https://www.edsurge.com/news/2015-09-01-spotlight-education-raises-250k-angel-investment-to-aggregate-school-data
-  Investors: undisclosed
-  Total: ''
-  Crunchbase: ''
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: October
-  Name: Social Finance
-  Amount: '$1,000,000,000'
-  Series: ''
-  URL: >-
-    http://www.buzzfeed.com/matthewzeitlin/sofis-billion-dollar-funding-round#.hgqLqZ28L
-  Investors: Soft Bank
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/social-finance#/entity'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: October
-  Name: Hujiang.com
-  Amount: '$157,000,000'
-  Series: ''
-  URL: >-
-    http://www.chinamoneynetwork.com/2015/10/29/hina-group-joins-157m-series-d-round-in-hujiang-com
-  Investors: 'China Minsheng Investment Corp. Ltd., Wanxin Media'
-  Total: ''
-  Crunchbase: ''
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: October
-  Name: General Assembly
-  Amount: '$70,000,000'
-  Series: ''
-  URL: 'http://blog.generalassemb.ly/series-d-and-looking-forward/#more-980200058'
+    https://www.edsurge.com/news/2015-09-04-nextlesson-nabs-2-9m-seed-round-to-expand-curriculum-coverage
   Investors: >-
-    Advance Publications, Wellington Capital Management LLP, IVP, Learn Capital,
-    Maveron, Rethink Education, WTI, and others
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/general-assembly#/entity'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: October
-  Name: Civitas Learning
-  Amount: '$60,000,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/news/2015-09-28-warburg-pincus-leads-60m-round-for-civitas-learning-to-harness-big-data-in-higher-education
-  Investors: Warburg Pincus
-  Total: ''
-  Crunchbase: >-
-    https://www.edsurge.com/news/2015-09-28-warburg-pincus-leads-60m-round-for-civitas-learning-to-harness-big-data-in-higher-education
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: October
-  Name: Phoenix E-Learning
-  Amount: '$30,000,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/news/2015-10-13-tal-education-group-invests-30m-in-phoenix-e-learning
-  Investors: TAL Education
+    Salesforce CEO Marc Benioff, Michael Birch, Drew Houston, Thomas Layton,
+    Marissa Mayer, Jeremy Stoppelman, and Nirav Tolia
   Total: ''
   Crunchbase: ''
   Keyword: ''
@@ -2454,115 +2292,59 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: October
-  Name: Collective Shift
-  Amount: '$25,000,000'
+- Month: 2015-09
+  Name: MasteryConnect
+  Amount: '$5,000,000'
   Series: ''
   URL: >-
-    https://www.macfound.org/press/press-releases/macarthur-spins-digital-media-learning-work-25-million-seed-investment/
-  Investors: MacArthur Foundation
+    https://www.edsurge.com/news/2015-09-22-used-in-85-percent-of-us-districts-masteryconnect-raises-5m-from-zuckerberg-education-ventures
+  Investors: Zuckerberg Education Ventures
   Total: ''
-  Crunchbase: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/masteryconnect'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: October
-  Name: Newsela
-  Amount: '$15,000,000'
+- Month: 2015-09
+  Name: LearnUp
+  Amount: '$8,000,000'
   Series: ''
   URL: >-
-    https://www.edsurge.com/news/2015-10-06-newsela-makes-more-news-with-15m-round-led-by-kleiner-perkins
+    https://www.edsurge.com/news/2015-09-17-learnup-naps-8m-to-help-unemployed-find-jobs
   Investors: >-
-    Kleiner Perkins Caufield & Byers, Zuckerberg Education Ventures, the Knight
-    Foundation, Owl Ventures, and Women's Venture Capital Fund
+    Shasta Ventures, New Enterprise Associates, Floodgate, Greylock Partners,
+    and High Line Venture Partners
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/newsela#/entity'
+  Crunchbase: 'https://www.crunchbase.com/organization/learnup'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: October
-  Name: Coursera
-  Amount: '$11,600,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/news/2015-10-27-coursera-boosts-series-c-round-to-61-million-thanks-to-singaporean-investor
-  Investors: ''
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/coursera'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: October
-  Name: Origo
-  Amount: '$11,200,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/news/2015-09-30-australian-math-developer-origo-nabs-11-2-million-to-expand-in-us-market
-  Investors: Blue Sky Funds
-  Total: ''
-  Crunchbase: ''
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: October
-  Name: Credible
+- Month: 2015-09
+  Name: DreamBox Learning
   Amount: '$10,000,000'
   Series: ''
   URL: >-
-    https://www.edsurge.com/news/2015-09-30-credible-closes-10m-series-a-round-to-grow-student-financing-services
-  Investors: 'Soul Htite, Ron Suber, and Scott Langmack'
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/credible#/entity'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: October
-  Name: CampusLogic
-  Amount: '$7,500,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/news/2015-10-06-campuslogic-raises-7-5m-to-refine-the-higher-ed-financial-aid-process
+    https://www.edsurge.com/news/2015-08-28-adaptive-math-platform-dreambox-learning-raises-10m-series-b
   Investors: >-
-    Continental Investors, Great Lakes Higher Education Corporation, University
-    Ventures, Select Venture Partners, and Peak Venture Capital
+    Owl Ventures, Tao Capital Partners, Charter School Growth Fund, John Doerr,
+    and GSV Capital
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/campuslogic#/entity'
+  Crunchbase: 'https://www.crunchbase.com/organization/dreambox-learning'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: October
-  Name: ZeeMee
-  Amount: '$5,800,000'
+- Month: 2015-09
+  Name: Planet3
+  Amount: '$10,000,000'
   Series: ''
   URL: >-
-    https://www.edsurge.com/news/2015-10-01-zeemee-raises-5-8m-in-series-a-funding
-  Investors: Blue Run Ventures
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/zeemee#/entity'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: October
-  Name: Aceable
-  Amount: '$4,700,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/news/2015-10-05-aceable-raises-4-7m-to-bring-driver-s-ed-online
-  Investors: 'Silverton Partners, Capital Factory, Floodgate Ventures, and NextGen Angels'
+    https://www.edsurge.com/news/2015-09-09-planet3-raises-10m-series-a-to-build-immersive-3d-experiences-for-steam-education
+  Investors: Switch
   Total: ''
   Crunchbase: ''
   Keyword: ''
@@ -2570,15 +2352,26 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: October
-  Name: Velpic
-  Amount: '$4,000,000'
+- Month: 2015-09
+  Name: Learnzillion
+  Amount: '$13,000,000'
+  Series: ''
+  URL: 'https://www.edsurge.com/news/2015-09-16-learnzillion-closes-13-million-round'
+  Investors: 'DCM Ventures, Owl Ventures, and 11 other investors'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/learnzillion'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-09
+  Name: Zuoyebang
+  Amount: undisclosed
   Series: ''
   URL: >-
-    https://www.edsurge.com/news/2015-10-05-velpic-raises-4m-for-corporate-elearning-platform
-  Investors: >-
-    Baillieu Holst, Sanlam Private Wealth, Alignment Capital, Shaw and Partners,
-    and Tony Gandel
+    http://techcrunch.com/2015/09/03/baidus-student-qa-app-zuoyebang-lands-investment-from-sequoia-and-legend-capital/
+  Investors: Sequoia China and Legend Capital
   Total: ''
   Crunchbase: ''
   Keyword: ''
@@ -2586,106 +2379,7 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: October
-  Name: Schoolguru
-  Amount: '$3,000,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/news/2015-10-13-schoolguru-nabs-3m-to-provide-online-courses-to-indian-universities
-  Investors: undisclosed
-  Total: ''
-  Crunchbase: ''
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: October
-  Name: Skilljar
-  Amount: '$2,600,000'
-  Series: ''
-  URL: 'http://www.edukwest.com/skilljar-seed/'
-  Investors: Trilogy Equity Partners
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/skilljar#/entity'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: October
-  Name: Picmonic
-  Amount: '$2,300,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/news/2015-10-05-picmonic-raises-2-3m-to-grow-audio-visual-mnemonic-tool
-  Investors: >-
-    2M Companies of Texas, Tallwave Capital of Arizona, Arizona Tech Investors,
-    Desert Angels, and Matt Pittinsky
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/picmonic#/entity'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: October
-  Name: Outlearn
-  Amount: '$2,000,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/news/2015-10-27-outlearn-nabs-2m-for-engineers-professional-development
-  Investors: General Catalyst Partners and former Akamai CEO Paul Sagan
-  Total: ''
-  Crunchbase: ''
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: October
-  Name: Toppr
-  Amount: '$2,000,000'
-  Series: ''
-  URL: >-
-    http://thetechportal.in/2015/10/30/online-test-preparation-platform-toppr-com-raises-2-million-in-venture-debt/
-  Investors: ''
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/toppr#/entity'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: October
-  Name: Savvy
-  Amount: '$1,700,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/news/2015-09-29-one-on-one-video-tutoring-platform-savvy-announces-teacher-signups-and-new-funding
-  Investors: 'Partech Ventures, LearnCapital, Fresco Capital, and Metatron Worldwide'
-  Total: ''
-  Crunchbase: ''
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: October
-  Name: MyTutorWeb
-  Amount: '$1,250,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/news/2015-10-25-uk-tutoring-startup-mytutorweb-raises-1-million
-  Investors: ''
-  Total: ''
-  Crunchbase: ''
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: October
+- Month: 2015-10
   Name: Apptuto
   Amount: '$500,000'
   Series: ''
@@ -2701,26 +2395,13 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: November
-  Name: Earnest
-  Amount: '$275,000,000'
+- Month: 2015-10
+  Name: MyTutorWeb
+  Amount: '$1,250,000'
   Series: ''
   URL: >-
-    http://bits.blogs.nytimes.com/2015/11/17/earnest-fueled-by-growth-in-student-loans-raises-275-million/
-  Investors: New York Life Investment Management and Battery Ventures
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/earnest#/entity'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: November
-  Name: HotChalk
-  Amount: '$230,000,000'
-  Series: ''
-  URL: 'http://www.edukwest.com/bertelsmann-hotchalk/'
-  Investors: Bertelsmann
+    https://www.edsurge.com/news/2015-10-25-uk-tutoring-startup-mytutorweb-raises-1-million
+  Investors: ''
   Total: ''
   Crunchbase: ''
   Keyword: ''
@@ -2728,117 +2409,216 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: November
-  Name: TutorGroup
-  Amount: '$200,000,000'
+- Month: 2015-10
+  Name: Savvy
+  Amount: '$1,700,000'
   Series: ''
   URL: >-
-    https://www.pehub.com/2015/11/online-education-platform-tutorgroup-racks-up-about-200-mln/
-  Investors: >-
-    GIC, the Russia-China Investment Fund, Goldman Sachs, and Silverlink Capital
-    LP
+    https://www.edsurge.com/news/2015-09-29-one-on-one-video-tutoring-platform-savvy-announces-teacher-signups-and-new-funding
+  Investors: 'Partech Ventures, LearnCapital, Fresco Capital, and Metatron Worldwide'
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/tutorgroup'
+  Crunchbase: ''
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: November
-  Name: Udacity
-  Amount: '$105,000,000'
+- Month: 2015-10
+  Name: Outlearn
+  Amount: '$2,000,000'
   Series: ''
   URL: >-
-    http://techcrunch.com/2015/11/11/udacity-raises-105-million-series-d-bringing-valuation-to-1-billion/#.tcahar:unLP
-  Investors: >-
-    Bertelsmann, Baillie Gifford, Emerson Collective, Google Ventures,
-    Andreessen Horowitz, Charles River Ventures, and Drive Capital
+    https://www.edsurge.com/news/2015-10-27-outlearn-nabs-2m-for-engineers-professional-development
+  Investors: General Catalyst Partners and former Akamai CEO Paul Sagan
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/udacity'
+  Crunchbase: ''
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: November
-  Name: Varsity Tutors
-  Amount: '$50,000,000'
-  Series: ''
-  URL: 'http://www.edukwest.com/varsity-tutors-series-b/'
-  Investors: 'Technology Crossover Ventures, Adam Levine, and Stuart Udel'
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/varsity-tutors#/entity'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: November
-  Name: Knewton
-  Amount: '$47,250,000'
+- Month: 2015-10
+  Name: Toppr
+  Amount: '$2,000,000'
   Series: ''
   URL: >-
-    https://www.edsurge.com/news/2015-11-03-is-knewton-raising-a-new-47-million-round
+    http://thetechportal.in/2015/10/30/online-test-preparation-platform-toppr-com-raises-2-million-in-venture-debt/
   Investors: ''
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/knewton#/entity'
+  Crunchbase: 'https://www.crunchbase.com/organization/toppr#/entity'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: November
-  Name: Schoology
-  Amount: '$32,000,000'
+- Month: 2015-10
+  Name: Picmonic
+  Amount: '$2,300,000'
   Series: ''
   URL: >-
-    http://www.prnewswire.com/news-releases/schoology-raises-32-million-to-bring-personalized-learning-to-every-student-300175545.html
-  Investors: 'JMI Equity, FirstMark Capital, Intel Capital, and Great Road Holdings'
+    https://www.edsurge.com/news/2015-10-05-picmonic-raises-2-3m-to-grow-audio-visual-mnemonic-tool
+  Investors: >-
+    2M Companies of Texas, Tallwave Capital of Arizona, Arizona Tech Investors,
+    Desert Angels, and Matt Pittinsky
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/schoology#/entity'
+  Crunchbase: 'https://www.crunchbase.com/organization/picmonic#/entity'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: November
-  Name: Macat
-  Amount: '$30,000,000'
+- Month: 2015-10
+  Name: Skilljar
+  Amount: '$2,600,000'
+  Series: ''
+  URL: 'http://www.edukwest.com/skilljar-seed/'
+  Investors: Trilogy Equity Partners
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/skilljar#/entity'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-10
+  Name: Schoolguru
+  Amount: '$3,000,000'
   Series: ''
   URL: >-
-    https://www.edsurge.com/news/2015-11-04-macat-raises-30m-announces-large-scale-critical-thinking-study
+    https://www.edsurge.com/news/2015-10-13-schoolguru-nabs-3m-to-provide-online-courses-to-indian-universities
+  Investors: undisclosed
+  Total: ''
+  Crunchbase: ''
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-10
+  Name: Velpic
+  Amount: '$4,000,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/news/2015-10-05-velpic-raises-4m-for-corporate-elearning-platform
+  Investors: >-
+    Baillieu Holst, Sanlam Private Wealth, Alignment Capital, Shaw and Partners,
+    and Tony Gandel
+  Total: ''
+  Crunchbase: ''
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-10
+  Name: Aceable
+  Amount: '$4,700,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/news/2015-10-05-aceable-raises-4-7m-to-bring-driver-s-ed-online
+  Investors: 'Silverton Partners, Capital Factory, Floodgate Ventures, and NextGen Angels'
+  Total: ''
+  Crunchbase: ''
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-10
+  Name: ZeeMee
+  Amount: '$5,800,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/news/2015-10-01-zeemee-raises-5-8m-in-series-a-funding
+  Investors: Blue Run Ventures
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/zeemee#/entity'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-10
+  Name: CampusLogic
+  Amount: '$7,500,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/news/2015-10-06-campuslogic-raises-7-5m-to-refine-the-higher-ed-financial-aid-process
+  Investors: >-
+    Continental Investors, Great Lakes Higher Education Corporation, University
+    Ventures, Select Venture Partners, and Peak Venture Capital
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/campuslogic#/entity'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-10
+  Name: Credible
+  Amount: '$10,000,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/news/2015-09-30-credible-closes-10m-series-a-round-to-grow-student-financing-services
+  Investors: 'Soul Htite, Ron Suber, and Scott Langmack'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/credible#/entity'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-10
+  Name: Origo
+  Amount: '$11,200,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/news/2015-09-30-australian-math-developer-origo-nabs-11-2-million-to-expand-in-us-market
+  Investors: Blue Sky Funds
+  Total: ''
+  Crunchbase: ''
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-10
+  Name: Coursera
+  Amount: '$11,600,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/news/2015-10-27-coursera-boosts-series-c-round-to-61-million-thanks-to-singaporean-investor
   Investors: ''
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/macat#/entity'
+  Crunchbase: 'https://www.crunchbase.com/organization/coursera'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: November
-  Name: PresenceLearning
+- Month: 2015-10
+  Name: Newsela
+  Amount: '$15,000,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/news/2015-10-06-newsela-makes-more-news-with-15m-round-led-by-kleiner-perkins
+  Investors: >-
+    Kleiner Perkins Caufield & Byers, Zuckerberg Education Ventures, the Knight
+    Foundation, Owl Ventures, and Women's Venture Capital Fund
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/newsela#/entity'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-10
+  Name: Collective Shift
   Amount: '$25,000,000'
   Series: ''
   URL: >-
-    https://www.edsurge.com/news/2015-11-19-presencelearning-raises-25m-series-c-round-to-grow-online-k-12-therapy-services
-  Investors: >-
-    Catalyst Investors, Birchmere Ventures, Blue Heron Capital, Catamount
-    Ventures, and New Markets Venture Partners
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/presencelearning#/entity'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: November
-  Name: Quizlet
-  Amount: '$12,000,000'
-  Series: ''
-  URL: 'https://www.crunchbase.com/organization/quizlet#/entity'
-  Investors: >-
-    Union Square Ventures, Costanoa Venture Capital, Owl Ventures, Altos
-    Ventures, Geoff Ralston, Tim Brady, and Greg Brockman
+    https://www.macfound.org/press/press-releases/macarthur-spins-digital-media-learning-work-25-million-seed-investment/
+  Investors: MacArthur Foundation
   Total: ''
   Crunchbase: ''
   Keyword: ''
@@ -2846,51 +2626,160 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: November
-  Name: Lingvist
-  Amount: '$11,000,000'
+- Month: 2015-10
+  Name: Phoenix E-Learning
+  Amount: '$30,000,000'
   Series: ''
   URL: >-
-    https://www.edsurge.com/news/2015-11-17-lingvist-scores-8-million-to-help-people-learn-new-languages-in-200-hours
-  Investors: 'Rakuten, Smart Cap, Jaan Tallinn, and Geoff Prentice'
+    https://www.edsurge.com/news/2015-10-13-tal-education-group-invests-30m-in-phoenix-e-learning
+  Investors: TAL Education
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/lingvist#/entity'
+  Crunchbase: ''
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: November
-  Name: Cielo24
-  Amount: '$5,100,000'
+- Month: 2015-10
+  Name: Civitas Learning
+  Amount: '$60,000,000'
   Series: ''
   URL: >-
-    https://www.edsurge.com/news/2015-11-01-cielo24-reaches-for-the-sky-with-5m-series-a-round
+    https://www.edsurge.com/news/2015-09-28-warburg-pincus-leads-60m-round-for-civitas-learning-to-harness-big-data-in-higher-education
+  Investors: Warburg Pincus
+  Total: ''
+  Crunchbase: >-
+    https://www.edsurge.com/news/2015-09-28-warburg-pincus-leads-60m-round-for-civitas-learning-to-harness-big-data-in-higher-education
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-10
+  Name: General Assembly
+  Amount: '$70,000,000'
+  Series: ''
+  URL: 'http://blog.generalassemb.ly/series-d-and-looking-forward/#more-980200058'
   Investors: >-
-    ff Venture Capital, North Base Media, Pereg Ventures, Indicator Ventures,
-    Wavemaker Partners, and Educated Ventures
+    Advance Publications, Wellington Capital Management LLP, IVP, Learn Capital,
+    Maveron, Rethink Education, WTI, and others
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/cielo24#/entity'
+  Crunchbase: 'https://www.crunchbase.com/organization/general-assembly#/entity'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: November
-  Name: Tuition.io
-  Amount: '$5,000,000'
+- Month: 2015-10
+  Name: Hujiang.com
+  Amount: '$157,000,000'
   Series: ''
   URL: >-
-    https://www.edsurge.com/news/2015-11-19-tuition-io-raises-5m-series-a-round-to-grow-student-loan-management-platform
-  Investors: 'MassMutual Ventures LLC, Wildcat Venture Partners, and Mohr Davidow Ventures'
+    http://www.chinamoneynetwork.com/2015/10/29/hina-group-joins-157m-series-d-round-in-hujiang-com
+  Investors: 'China Minsheng Investment Corp. Ltd., Wanxin Media'
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/tuition-io#/entity'
+  Crunchbase: ''
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: November
+- Month: 2015-10
+  Name: Social Finance
+  Amount: '$1,000,000,000'
+  Series: ''
+  URL: >-
+    http://www.buzzfeed.com/matthewzeitlin/sofis-billion-dollar-funding-round#.hgqLqZ28L
+  Investors: Soft Bank
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/social-finance#/entity'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-11
+  Name: Shirsa Labs
+  Amount: '$250,000'
+  Series: ''
+  URL: 'https://www.edsurge.com/news/2015-11-04-shirsa-labs-raises-250k-angel-round'
+  Investors: ah! ventures
+  Total: ''
+  Crunchbase: ''
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-11
+  Name: Authess
+  Amount: '$675,000'
+  Series: ''
+  URL: >-
+    http://www.betaboston.com/news/2015/11/11/authess-an-ed-tech-startup-raises-675000/
+  Investors: Manipal Global Education
+  Total: ''
+  Crunchbase: ''
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-11
+  Name: iStar
+  Amount: '$1,500,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/news/2015-11-15-indian-startup-istar-raises-1-5-million-to-connect-students-to-jobs
+  Investors: Dell Foundation
+  Total: ''
+  Crunchbase: ''
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-11
+  Name: WriteLab
+  Amount: '$2,000,000'
+  Series: ''
+  URL: 'https://www.edsurge.com/news/2015-11-12-writelab-nabs-2-million-in-series-a'
+  Investors: 'Reach Capital, Kapor Capital, and Learn Capital'
+  Total: ''
+  Crunchbase: ''
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-11
+  Name: Karadi Path
+  Amount: '$2,300,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/news/2015-11-17-pearson-affordable-learning-fund-invests-2-3m-in-karadi-path
+  Investors: Pearson Affordable Learning Fund (PALF) and Aavishkaar
+  Total: ''
+  Crunchbase: ''
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-11
+  Name: BridgeU
+  Amount: '$2,500,000'
+  Series: ''
+  URL: 'https://www.edsurge.com/news/2015-11-17-bridgeu-raises-2-5m-seed-round'
+  Investors: 'Octopus Investments, Fresco Capital, and Seedcamp'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/bridgeu#/entity'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-11
   Name: Hullabalu
   Amount: '$2,500,000'
   Series: ''
@@ -2907,7 +2796,7 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: November
+- Month: 2015-11
   Name: VersaMe
   Amount: '$2,500,000'
   Series: ''
@@ -2921,242 +2810,58 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: November
-  Name: BridgeU
-  Amount: '$2,500,000'
-  Series: ''
-  URL: 'https://www.edsurge.com/news/2015-11-17-bridgeu-raises-2-5m-seed-round'
-  Investors: 'Octopus Investments, Fresco Capital, and Seedcamp'
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/bridgeu#/entity'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: November
-  Name: Karadi Path
-  Amount: '$2,300,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/news/2015-11-17-pearson-affordable-learning-fund-invests-2-3m-in-karadi-path
-  Investors: Pearson Affordable Learning Fund (PALF) and Aavishkaar
-  Total: ''
-  Crunchbase: ''
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: November
-  Name: WriteLab
-  Amount: '$2,000,000'
-  Series: ''
-  URL: 'https://www.edsurge.com/news/2015-11-12-writelab-nabs-2-million-in-series-a'
-  Investors: 'Reach Capital, Kapor Capital, and Learn Capital'
-  Total: ''
-  Crunchbase: ''
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: November
-  Name: iStar
-  Amount: '$1,500,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/news/2015-11-15-indian-startup-istar-raises-1-5-million-to-connect-students-to-jobs
-  Investors: Dell Foundation
-  Total: ''
-  Crunchbase: ''
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: November
-  Name: Authess
-  Amount: '$675,000'
-  Series: ''
-  URL: >-
-    http://www.betaboston.com/news/2015/11/11/authess-an-ed-tech-startup-raises-675000/
-  Investors: Manipal Global Education
-  Total: ''
-  Crunchbase: ''
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: November
-  Name: Shirsa Labs
-  Amount: '$250,000'
-  Series: ''
-  URL: 'https://www.edsurge.com/news/2015-11-04-shirsa-labs-raises-250k-angel-round'
-  Investors: ah! ventures
-  Total: ''
-  Crunchbase: ''
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: December
-  Name: College Select
-  Amount: undisclosed
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/news/2015-12-01-college-select-raises-seven-figure-round-to-help-students-plan-for-school
-  Investors: ''
-  Total: ''
-  Crunchbase: ''
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: December
-  Name: Fastudent
-  Amount: undisclosed
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/news/2015-11-30-fastudent-raises-seed-round-of-undisclosed-value
-  Investors: ''
-  Total: ''
-  Crunchbase: ''
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: December
-  Name: VLurn
-  Amount: undisclosed
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/news/2015-12-07-vlurn-raises-seed-round-to-build-online-course-platform-into-an-app
-  Investors: ''
-  Total: ''
-  Crunchbase: ''
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: December
-  Name: Raungguru
-  Amount: undisclosed
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/news/2015-12-11-raungguru-raises-seven-figure-series-a-round-to-scale-online-tutoring-and-test-platforms
-  Investors: Venturra Capital and East Ventures
-  Total: ''
-  Crunchbase: ''
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: December
-  Name: Xioazhan Jiaoyu
-  Amount: '$84,000,000'
-  Series: ''
-  URL: >-
-    https://www.altassets.net/private-equity-news/by-news-type/deal-news/sequoia-latest-vc-firm-to-back-chinese-online-education-business-xioazhan-jiaoyu.html
-  Investors: >-
-    Sequoia Capital, Vision Knight Capital, GGV Capital, Milestone Capital and
-    Shunwei Capital Partners, and Bertelsmann Asia Investment
-  Total: ''
-  Crunchbase: ''
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: December
-  Name: Noodle Companies
-  Amount: '$28,000,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/news/2015-12-09-noodlemarkets-raises-28m-announces-2016-marketplace-launch
-  Investors: ''
-  Total: ''
-  Crunchbase: ''
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: December
-  Name: Everwise
-  Amount: '$8,000,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/news/2015-12-08-everwise-raises-8m-series-a-round-to-expand-online-corporate-mentor-matching
-  Investors: 'Canvas Ventures, Sequoia Capital, and the Webb Investment Network'
-  Total: ''
-  Crunchbase: ''
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: December
-  Name: Brainstorm
-  Amount: '$6,400,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/news/2015-12-04-brainstorm-raises-6-4m-series-a-round-to-expand-software-deployment-platform
-  Investors: Kickstart Seed Fund and Jeremy Andrus
-  Total: ''
-  Crunchbase: ''
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: December
-  Name: Allovue
-  Amount: '$5,100,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/news/2015-12-16-allovue-raises-5-1m-series-a-round-for-k12-financial-analysis-platform
-  Investors: >-
-    Rethink Education. Red House Education, Serious Change II, Kapor Capital,
-    and Baltimore Angels
-  Total: ''
-  Crunchbase: ''
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: December
-  Name: GoNoodle
+- Month: 2015-11
+  Name: Tuition.io
   Amount: '$5,000,000'
   Series: ''
   URL: >-
-    https://www.edsurge.com/news/2015-12-08-jumpin-for-joy-gonoodle-raises-5m-to-help-kids-dance-and-get-fit
+    https://www.edsurge.com/news/2015-11-19-tuition-io-raises-5m-series-a-round-to-grow-student-loan-management-platform
+  Investors: 'MassMutual Ventures LLC, Wildcat Venture Partners, and Mohr Davidow Ventures'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/tuition-io#/entity'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-11
+  Name: Cielo24
+  Amount: '$5,100,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/news/2015-11-01-cielo24-reaches-for-the-sky-with-5m-series-a-round
   Investors: >-
-    Children's Health, Chrysalis Ventures, SSM Partners, Gefinor Capital, and
-    Rand Capital
+    ff Venture Capital, North Base Media, Pereg Ventures, Indicator Ventures,
+    Wavemaker Partners, and Educated Ventures
   Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/healthteacher#/entity'
+  Crunchbase: 'https://www.crunchbase.com/organization/cielo24#/entity'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: December
-  Name: MasteryPrep
-  Amount: '$3,600,000'
+- Month: 2015-11
+  Name: Lingvist
+  Amount: '$11,000,000'
   Series: ''
   URL: >-
-    https://www.edsurge.com/news/2015-12-15-masteryprep-raises-3-6m-in-debt-financing-to-expand-suite-of-act-prep-products
+    https://www.edsurge.com/news/2015-11-17-lingvist-scores-8-million-to-help-people-learn-new-languages-in-200-hours
+  Investors: 'Rakuten, Smart Cap, Jaan Tallinn, and Geoff Prentice'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/lingvist#/entity'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-11
+  Name: Quizlet
+  Amount: '$12,000,000'
+  Series: ''
+  URL: 'https://www.crunchbase.com/organization/quizlet#/entity'
   Investors: >-
-    Catalyst Group, Liquid Ventures, Jennifer and Sean Reilly, Maple Leaf, the
-    Frazer family, and Advantage Capital
+    Union Square Ventures, Costanoa Venture Capital, Owl Ventures, Altos
+    Ventures, Geoff Ralston, Tim Brady, and Greg Brockman
   Total: ''
   Crunchbase: ''
   Keyword: ''
@@ -3164,40 +2869,115 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: December
-  Name: Jigsaw Academy
-  Amount: '$3,000,000'
+- Month: 2015-11
+  Name: PresenceLearning
+  Amount: '$25,000,000'
   Series: ''
   URL: >-
-    https://www.edsurge.com/news/2015-12-10-jigsaw-academy-raises-3m-series-a-round-to-expand-online-data-analytics-courses
-  Investors: Manipal Global Education Service
+    https://www.edsurge.com/news/2015-11-19-presencelearning-raises-25m-series-c-round-to-grow-online-k-12-therapy-services
+  Investors: >-
+    Catalyst Investors, Birchmere Ventures, Blue Heron Capital, Catamount
+    Ventures, and New Markets Venture Partners
   Total: ''
-  Crunchbase: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/presencelearning#/entity'
   Keyword: ''
   Level: ''
   Type: ''
   Country: ''
   Notes: ''
-- Month: December
-  Name: Edsurge
-  Amount: '$2,800,000'
-  Series: ''
-  URL: 'https://www.edsurge.com/news/2015-12-09-edsurge-s-plans-for-2016'
-  Investors: 1776.vc and the Omidyar Network
-  Total: ''
-  Crunchbase: 'https://www.crunchbase.com/organization/edsurge#/entity'
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: December
-  Name: Technology Will Save Us
-  Amount: '$1,800,000'
+- Month: 2015-11
+  Name: Macat
+  Amount: '$30,000,000'
   Series: ''
   URL: >-
-    https://www.edsurge.com/news/2015-12-21-technology-will-save-us-raises-1-8m-seed-round
-  Investors: SAATCHiNVEST
+    https://www.edsurge.com/news/2015-11-04-macat-raises-30m-announces-large-scale-critical-thinking-study
+  Investors: ''
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/macat#/entity'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-11
+  Name: Schoology
+  Amount: '$32,000,000'
+  Series: ''
+  URL: >-
+    http://www.prnewswire.com/news-releases/schoology-raises-32-million-to-bring-personalized-learning-to-every-student-300175545.html
+  Investors: 'JMI Equity, FirstMark Capital, Intel Capital, and Great Road Holdings'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/schoology#/entity'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-11
+  Name: Knewton
+  Amount: '$47,250,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/news/2015-11-03-is-knewton-raising-a-new-47-million-round
+  Investors: ''
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/knewton#/entity'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-11
+  Name: Varsity Tutors
+  Amount: '$50,000,000'
+  Series: ''
+  URL: 'http://www.edukwest.com/varsity-tutors-series-b/'
+  Investors: 'Technology Crossover Ventures, Adam Levine, and Stuart Udel'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/varsity-tutors#/entity'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-11
+  Name: Udacity
+  Amount: '$105,000,000'
+  Series: ''
+  URL: >-
+    http://techcrunch.com/2015/11/11/udacity-raises-105-million-series-d-bringing-valuation-to-1-billion/#.tcahar:unLP
+  Investors: >-
+    Bertelsmann, Baillie Gifford, Emerson Collective, Google Ventures,
+    Andreessen Horowitz, Charles River Ventures, and Drive Capital
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/udacity'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-11
+  Name: TutorGroup
+  Amount: '$200,000,000'
+  Series: ''
+  URL: >-
+    https://www.pehub.com/2015/11/online-education-platform-tutorgroup-racks-up-about-200-mln/
+  Investors: >-
+    GIC, the Russia-China Investment Fund, Goldman Sachs, and Silverlink Capital
+    LP
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/tutorgroup'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-11
+  Name: HotChalk
+  Amount: '$230,000,000'
+  Series: ''
+  URL: 'http://www.edukwest.com/bertelsmann-hotchalk/'
+  Investors: Bertelsmann
   Total: ''
   Crunchbase: ''
   Keyword: ''
@@ -3205,7 +2985,64 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: December
+- Month: 2015-11
+  Name: Earnest
+  Amount: '$275,000,000'
+  Series: ''
+  URL: >-
+    http://bits.blogs.nytimes.com/2015/11/17/earnest-fueled-by-growth-in-student-loans-raises-275-million/
+  Investors: New York Life Investment Management and Battery Ventures
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/earnest#/entity'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-12
+  Name: Studypool
+  Amount: '$800,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/news/2015-12-01-studypool-an-on-demand-tutoring-marketplace-adds-800k-to-seed-round
+  Investors: ''
+  Total: ''
+  Crunchbase: ''
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-12
+  Name: CollegeDecko
+  Amount: '$1,000,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/news/2015-11-30-collegedekho-raises-1m-seed-round-to-match-indian-students-with-colleges
+  Investors: Girnar Software
+  Total: ''
+  Crunchbase: ''
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-12
+  Name: Knowledge to Practice
+  Amount: '$1,700,000'
+  Series: Convertible Note
+  URL: ''
+  Investors: >-
+    Bill Collatos, Ingram Digital Ventures, Jean Hammond, Kevin Calderwood, Liam
+    Pisano, Nicholas Massard, Ralph Ferrante, Rick Segal, Sidecar Angels
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/knowledge-to-practice#/entity'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-12
   Name: Sliderule
   Amount: '$1,700,000'
   Series: ''
@@ -3221,35 +3058,7 @@
   Type: ''
   Country: ''
   Notes: ''
-- Month: December
-  Name: CollegeDecko
-  Amount: '$1,000,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/news/2015-11-30-collegedekho-raises-1m-seed-round-to-match-indian-students-with-colleges
-  Investors: Girnar Software
-  Total: ''
-  Crunchbase: ''
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: December
-  Name: Studypool
-  Amount: '$800,000'
-  Series: ''
-  URL: >-
-    https://www.edsurge.com/news/2015-12-01-studypool-an-on-demand-tutoring-marketplace-adds-800k-to-seed-round
-  Investors: ''
-  Total: ''
-  Crunchbase: ''
-  Keyword: ''
-  Level: ''
-  Type: ''
-  Country: ''
-  Notes: ''
-- Month: December
+- Month: 2015-12
   Name: Gojimo
   Amount: '$1,800,000'
   Series: ''
@@ -3260,6 +3069,209 @@
     Firestar; Index Ventures, and Jamjar Investments
   Total: ''
   Crunchbase: 'https://www.crunchbase.com/organization/gojimo#/entity'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-12
+  Name: Technology Will Save Us
+  Amount: '$1,800,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/news/2015-12-21-technology-will-save-us-raises-1-8m-seed-round
+  Investors: SAATCHiNVEST
+  Total: ''
+  Crunchbase: ''
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-12
+  Name: Edsurge
+  Amount: '$2,800,000'
+  Series: ''
+  URL: 'https://www.edsurge.com/news/2015-12-09-edsurge-s-plans-for-2016'
+  Investors: 1776.vc and the Omidyar Network
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/edsurge#/entity'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-12
+  Name: Jigsaw Academy
+  Amount: '$3,000,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/news/2015-12-10-jigsaw-academy-raises-3m-series-a-round-to-expand-online-data-analytics-courses
+  Investors: Manipal Global Education Service
+  Total: ''
+  Crunchbase: ''
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-12
+  Name: MasteryPrep
+  Amount: '$3,600,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/news/2015-12-15-masteryprep-raises-3-6m-in-debt-financing-to-expand-suite-of-act-prep-products
+  Investors: >-
+    Catalyst Group, Liquid Ventures, Jennifer and Sean Reilly, Maple Leaf, the
+    Frazer family, and Advantage Capital
+  Total: ''
+  Crunchbase: ''
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-12
+  Name: GoNoodle
+  Amount: '$5,000,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/news/2015-12-08-jumpin-for-joy-gonoodle-raises-5m-to-help-kids-dance-and-get-fit
+  Investors: >-
+    Children's Health, Chrysalis Ventures, SSM Partners, Gefinor Capital, and
+    Rand Capital
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/healthteacher#/entity'
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-12
+  Name: Allovue
+  Amount: '$5,100,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/news/2015-12-16-allovue-raises-5-1m-series-a-round-for-k12-financial-analysis-platform
+  Investors: >-
+    Rethink Education. Red House Education, Serious Change II, Kapor Capital,
+    and Baltimore Angels
+  Total: ''
+  Crunchbase: ''
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-12
+  Name: Brainstorm
+  Amount: '$6,400,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/news/2015-12-04-brainstorm-raises-6-4m-series-a-round-to-expand-software-deployment-platform
+  Investors: Kickstart Seed Fund and Jeremy Andrus
+  Total: ''
+  Crunchbase: ''
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-12
+  Name: Everwise
+  Amount: '$8,000,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/news/2015-12-08-everwise-raises-8m-series-a-round-to-expand-online-corporate-mentor-matching
+  Investors: 'Canvas Ventures, Sequoia Capital, and the Webb Investment Network'
+  Total: ''
+  Crunchbase: ''
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-12
+  Name: Noodle Companies
+  Amount: '$28,000,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/news/2015-12-09-noodlemarkets-raises-28m-announces-2016-marketplace-launch
+  Investors: ''
+  Total: ''
+  Crunchbase: ''
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-12
+  Name: Xioazhan Jiaoyu
+  Amount: '$84,000,000'
+  Series: ''
+  URL: >-
+    https://www.altassets.net/private-equity-news/by-news-type/deal-news/sequoia-latest-vc-firm-to-back-chinese-online-education-business-xioazhan-jiaoyu.html
+  Investors: >-
+    Sequoia Capital, Vision Knight Capital, GGV Capital, Milestone Capital and
+    Shunwei Capital Partners, and Bertelsmann Asia Investment
+  Total: ''
+  Crunchbase: ''
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-12
+  Name: College Select
+  Amount: undisclosed
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/news/2015-12-01-college-select-raises-seven-figure-round-to-help-students-plan-for-school
+  Investors: ''
+  Total: ''
+  Crunchbase: ''
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-12
+  Name: Fastudent
+  Amount: undisclosed
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/news/2015-11-30-fastudent-raises-seed-round-of-undisclosed-value
+  Investors: ''
+  Total: ''
+  Crunchbase: ''
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-12
+  Name: Raungguru
+  Amount: undisclosed
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/news/2015-12-11-raungguru-raises-seven-figure-series-a-round-to-scale-online-tutoring-and-test-platforms
+  Investors: Venturra Capital and East Ventures
+  Total: ''
+  Crunchbase: ''
+  Keyword: ''
+  Level: ''
+  Type: ''
+  Country: ''
+  Notes: ''
+- Month: 2015-12
+  Name: VLurn
+  Amount: undisclosed
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/news/2015-12-07-vlurn-raises-seed-round-to-build-online-course-platform-into-an-app
+  Investors: ''
+  Total: ''
+  Crunchbase: ''
   Keyword: ''
   Level: ''
   Type: ''
