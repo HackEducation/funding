@@ -1,4 +1,4 @@
-- Month: 2016-01
+- Month: January
   Name: ProctorExam
   Amount: '$550,000'
   Series: Seed
@@ -12,7 +12,7 @@
   Type: B to S
   Country: Netherlands
   Notes: ''
-- Month: 2016-01
+- Month: January
   Name: Just Dakhila
   Amount: '$750,000'
   Series: Seed
@@ -26,7 +26,7 @@
   Type: B to C
   Country: India
   Notes: ''
-- Month: 2016-01
+- Month: January
   Name: ExpertKnowledge
   Amount: '$750,000'
   Series: Seed
@@ -40,7 +40,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-01
+- Month: January
   Name: ProctorFree
   Amount: '$1,290,000'
   Series: Seed
@@ -54,7 +54,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-01
+- Month: January
   Name: Platzi
   Amount: '$2,100,000'
   Series: Seed
@@ -70,7 +70,7 @@
   Type: B to C
   Country: Mexico
   Notes: ''
-- Month: 2016-01
+- Month: January
   Name: Flex Class
   Amount: '$2,500,000'
   Series: A
@@ -84,7 +84,7 @@
   Type: B to B
   Country: India
   Notes: ''
-- Month: 2016-01
+- Month: January
   Name: Noodle Markets
   Amount: '$3,000,000'
   Series: Seed
@@ -98,7 +98,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-01
+- Month: January
   Name: The Big Know
   Amount: '$3,000,000'
   Series: A
@@ -112,7 +112,7 @@
   Type: B to B
   Country: USA
   Notes: ''
-- Month: 2016-01
+- Month: January
   Name: CourseHorse
   Amount: '$4,000,000'
   Series: B
@@ -126,7 +126,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-01
+- Month: January
   Name: Twig World
   Amount: '$4,990,000'
   Series: A
@@ -140,7 +140,7 @@
   Type: B to S
   Country: UK
   Notes: ''
-- Month: 2016-01
+- Month: January
   Name: Zhiyou Education
   Amount: '$9,200,000'
   Series: A
@@ -154,7 +154,7 @@
   Type: B to C
   Country: China
   Notes: ''
-- Month: 2016-01
+- Month: January
   Name: Knewton
   Amount: '$10,000,000'
   Series: G
@@ -168,7 +168,7 @@
   Type: B to B
   Country: USA
   Notes: ''
-- Month: 2016-01
+- Month: January
   Name: Interfolio
   Amount: '$13,010,000'
   Series: A
@@ -184,7 +184,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-01
+- Month: January
   Name: College Ave
   Amount: '$20,000,000'
   Series: C
@@ -198,7 +198,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-01
+- Month: January
   Name: Degreed
   Amount: '$21,000,000'
   Series: B
@@ -211,7 +211,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-01
+- Month: January
   Name: Jerry Education
   Amount: '$40,000,000'
   Series: A
@@ -225,7 +225,7 @@
   Type: B to C
   Country: China
   Notes: ''
-- Month: 2016-01
+- Month: January
   Name: Grovo
   Amount: '$40,000,000'
   Series: C
@@ -241,7 +241,7 @@
   Type: B to B
   Country: USA
   Notes: ''
-- Month: 2016-02
+- Month: February
   Name: Authess
   Amount: '$18,000'
   Series: Seed
@@ -254,7 +254,7 @@
   Type: B to B
   Country: USA
   Notes: ''
-- Month: 2016-02
+- Month: February
   Name: Buddy
   Amount: '$500,000'
   Series: A
@@ -268,7 +268,7 @@
   Type: B to C
   Country: India
   Notes: ''
-- Month: 2016-02
+- Month: February
   Name: CWIST
   Amount: '$1,200,000'
   Series: Seed
@@ -281,7 +281,7 @@
   Type: Unknown
   Country: USA
   Notes: ''
-- Month: 2016-02
+- Month: February
   Name: NuuED Inc.
   Amount: '$3,000,000'
   Series: A
@@ -296,7 +296,7 @@
   Type: Unknown
   Country: USA
   Notes: ''
-- Month: 2016-02
+- Month: February
   Name: Student Loan Genius
   Amount: '$3,000,000'
   Series: Seed
@@ -312,7 +312,7 @@
   Type: B to B
   Country: USA
   Notes: ''
-- Month: 2016-02
+- Month: February
   Name: ZyBooks
   Amount: '$4,000,000'
   Series: A
@@ -326,7 +326,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-02
+- Month: February
   Name: BetterLesson
   Amount: '$6,000,000'
   Series: A
@@ -342,7 +342,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-02
+- Month: February
   Name: Ellevation Education
   Amount: '$6,400,000'
   Series: A
@@ -356,7 +356,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-02
+- Month: February
   Name: SchoolMint
   Amount: '$8,000,000'
   Series: A
@@ -373,7 +373,7 @@
   Type: 'B to C, B to S'
   Country: USA
   Notes: ''
-- Month: 2016-02
+- Month: February
   Name: Halo Neuroscience
   Amount: '$9,000,000'
   Series: A
@@ -388,7 +388,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-02
+- Month: February
   Name: Handshake
   Amount: '$10,500,000'
   Series: A
@@ -404,7 +404,7 @@
   Type: B to B
   Country: USA
   Notes: ''
-- Month: 2016-02
+- Month: February
   Name: MasterClass
   Amount: '$15,000,000'
   Series: B
@@ -421,7 +421,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-02
+- Month: February
   Name: Digischool
   Amount: '$15,700,000'
   Series: B
@@ -435,7 +435,7 @@
   Type: B to C
   Country: France
   Notes: ''
-- Month: 2016-02
+- Month: February
   Name: After School
   Amount: '$16,400,000'
   Series: A
@@ -449,7 +449,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-02
+- Month: February
   Name: Student.com
   Amount: '$60,000,000'
   Series: C
@@ -465,7 +465,7 @@
   Type: B to C
   Country: UK
   Notes: ''
-- Month: 2016-02
+- Month: February
   Name: Tebo
   Amount: Undisclosed
   Series: Seed
@@ -479,7 +479,7 @@
   Type: B to S
   Country: Estonia
   Notes: ''
-- Month: 2016-03
+- Month: March
   Name: Zulama
   Amount: '$200,000'
   Series: Seed
@@ -492,7 +492,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-03
+- Month: March
   Name: Memorang
   Amount: '$500,000'
   Series: Seed
@@ -506,7 +506,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-03
+- Month: March
   Name: Flipclass
   Amount: '$1,000,000'
   Series: Seed
@@ -520,7 +520,7 @@
   Type: B to C
   Country: India
   Notes: ''
-- Month: 2016-03
+- Month: March
   Name: Tinkergarten
   Amount: '$1,600,000'
   Series: Seed
@@ -536,7 +536,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-03
+- Month: March
   Name: Permission Click
   Amount: '$1,750,000'
   Series: Seed
@@ -550,7 +550,7 @@
   Type: B to S
   Country: Canada
   Notes: ''
-- Month: 2016-03
+- Month: March
   Name: Constant Therapy
   Amount: '$2,000,000'
   Series: A
@@ -566,7 +566,7 @@
   Type: Unknown
   Country: USA
   Notes: ''
-- Month: 2016-03
+- Month: March
   Name: Volley
   Amount: '$2,300,000'
   Series: Seed
@@ -579,7 +579,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-03
+- Month: March
   Name: Credly
   Amount: '$2,500,000'
   Series: Seed
@@ -595,7 +595,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-03
+- Month: March
   Name: BridgeEDU
   Amount: '$3,100,000'
   Series: Seed
@@ -609,7 +609,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-03
+- Month: March
   Name: Lesson.ly
   Amount: '$5,000,000'
   Series: A
@@ -622,7 +622,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-03
+- Month: March
   Name: LTG Exam Platform
   Amount: '$5,300,000'
   Series: A
@@ -638,7 +638,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-03
+- Month: March
   Name: LightSail Education
   Amount: '$11,000,000'
   Series: B
@@ -652,7 +652,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-03
+- Month: March
   Name: Revature
   Amount: '$20,000,000'
   Series: A
@@ -666,7 +666,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-03
+- Month: March
   Name: BYJUs
   Amount: '$75,000,000'
   Series: Unknown
@@ -680,7 +680,7 @@
   Type: B to C
   Country: India
   Notes: ''
-- Month: 2016-04
+- Month: April
   Name: SP Robotic Works
   Amount: '$300,000'
   Series: Angel
@@ -694,7 +694,7 @@
   Type: B to S
   Country: India
   Notes: ''
-- Month: 2016-04
+- Month: April
   Name: Sawyer
   Amount: '$1,500,000'
   Series: Seed
@@ -708,7 +708,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-04
+- Month: April
   Name: ClassWallet
   Amount: '$1,500,000'
   Series: A
@@ -722,7 +722,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-04
+- Month: April
   Name: CollegeDekho
   Amount: '$2,000,000'
   Series: Seed
@@ -735,7 +735,7 @@
   Type: B to S
   Country: India
   Notes: ''
-- Month: 2016-04
+- Month: April
   Name: Gradescope
   Amount: '$2,500,000'
   Series: Seed
@@ -751,7 +751,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-04
+- Month: April
   Name: GoReact
   Amount: '$4,000,000'
   Series: A
@@ -765,7 +765,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-04
+- Month: April
   Name: Yup
   Amount: '$4,000,000'
   Series: Seed
@@ -779,7 +779,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-04
+- Month: April
   Name: Caredox
   Amount: '$4,300,000'
   Series: Seed
@@ -793,7 +793,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-04
+- Month: April
   Name: Claned
   Amount: '$4,500,000'
   Series: A
@@ -807,7 +807,7 @@
   Type: B to C
   Country: Finland
   Notes: ''
-- Month: 2016-04
+- Month: April
   Name: Schoold
   Amount: '$4,500,000'
   Series: Seed
@@ -821,7 +821,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-04
+- Month: April
   Name: Always Be Learning Inc
   Amount: '$4,500,000'
   Series: Seed
@@ -835,7 +835,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-04
+- Month: April
   Name: CareerFoundry
   Amount: '$5,000,000'
   Series: A
@@ -851,7 +851,7 @@
   Type: B to C
   Country: Germany
   Notes: ''
-- Month: 2016-04
+- Month: April
   Name: EdCast
   Amount: '$16,000,000'
   Series: B
@@ -867,7 +867,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-04
+- Month: April
   Name: ClassDojo
   Amount: '$20,000,000'
   Series: B
@@ -881,7 +881,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-04
+- Month: April
   Name: Chegg
   Amount: '$37,300,000'
   Series: Post-IPO Equity
@@ -894,7 +894,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-04
+- Month: April
   Name: Affirm
   Amount: '$100,000,000'
   Series: D
@@ -910,7 +910,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-04
+- Month: April
   Name: Oliveboard
   Amount: Undisclosed
   Series: Seed
@@ -924,7 +924,7 @@
   Type: B to C
   Country: India
   Notes: ''
-- Month: 2016-05
+- Month: May
   Name: Sorting Hat Technologies
   Amount: '$500,000'
   Series: Seed
@@ -939,7 +939,7 @@
   Type: B to C
   Country: India
   Notes: ''
-- Month: 2016-05
+- Month: May
   Name: Brightwheel
   Amount: '$600,000'
   Series: Seed
@@ -952,7 +952,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-05
+- Month: May
   Name: ListenCurrent
   Amount: '$600,000'
   Series: Seed
@@ -966,7 +966,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-05
+- Month: May
   Name: Smartivity
   Amount: '$1,000,000'
   Series: Seed
@@ -982,7 +982,7 @@
   Type: B to C
   Country: India
   Notes: ''
-- Month: 2016-05
+- Month: May
   Name: KickUp
   Amount: '$1,540,000'
   Series: Seed
@@ -998,7 +998,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-05
+- Month: May
   Name: CodeCombat
   Amount: '$2,000,000'
   Series: Seed
@@ -1012,7 +1012,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-05
+- Month: May
   Name: Bloomz
   Amount: '$2,300,000'
   Series: Seed
@@ -1028,7 +1028,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-05
+- Month: May
   Name: Teachable
   Amount: '$2,500,000'
   Series: Seed
@@ -1042,7 +1042,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-05
+- Month: May
   Name: DigiExam
   Amount: '$3,500,000'
   Series: A
@@ -1056,7 +1056,7 @@
   Type: B to S
   Country: Sweden
   Notes: ''
-- Month: 2016-05
+- Month: May
   Name: Tabtor Math
   Amount: '$3,700,000'
   Series: A
@@ -1070,7 +1070,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-05
+- Month: May
   Name: SAM Labs
   Amount: '$4,500,000'
   Series: A
@@ -1083,7 +1083,7 @@
   Type: B to C
   Country: UK
   Notes: ''
-- Month: 2016-05
+- Month: May
   Name: Full Measure Education
   Amount: '$6,000,000'
   Series: B
@@ -1097,7 +1097,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-05
+- Month: May
   Name: Tynker
   Amount: '$7,100,000'
   Series: A
@@ -1113,7 +1113,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-05
+- Month: May
   Name: GotIt!
   Amount: '$9,000,000'
   Series: A
@@ -1127,7 +1127,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-05
+- Month: May
   Name: Nearpod
   Amount: '$9,200,000'
   Series: A
@@ -1144,7 +1144,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-05
+- Month: May
   Name: Accelerate Learning
   Amount: '$10,000,000'
   Series: A
@@ -1158,7 +1158,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-05
+- Month: May
   Name: Freshgrade
   Amount: '$11,600,000'
   Series: A
@@ -1172,7 +1172,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-05
+- Month: May
   Name: Skillshare
   Amount: '$12,000,000'
   Series: B
@@ -1186,7 +1186,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-05
+- Month: May
   Name: Speakaboos
   Amount: '$12,500,000'
   Series: B
@@ -1202,7 +1202,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-05
+- Month: May
   Name: Brainly
   Amount: '$15,000,000'
   Series: B
@@ -1215,7 +1215,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-05
+- Month: May
   Name: Age of Learning
   Amount: '$150,000,000'
   Series: Unknown
@@ -1229,7 +1229,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-05
+- Month: May
   Name: EduRev
   Amount: Undisclosed
   Series: Seed
@@ -1243,7 +1243,7 @@
   Type: B to C
   Country: India
   Notes: ''
-- Month: 2016-06
+- Month: June
   Name: Preply
   Amount: '$1,300,000'
   Series: Seed
@@ -1259,7 +1259,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-06
+- Month: June
   Name: Code Kingdoms
   Amount: '$1,400,000'
   Series: Seed
@@ -1273,7 +1273,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-06
+- Month: June
   Name: Triseum
   Amount: '$1,430,000'
   Series: Seed
@@ -1287,7 +1287,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-06
+- Month: June
   Name: Flocabulary
   Amount: '$1,500,000'
   Series: Convertible note
@@ -1301,7 +1301,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-06
+- Month: June
   Name: Cogbooks
   Amount: '$1,770,000'
   Series: Unknown
@@ -1315,7 +1315,7 @@
   Type: B to S
   Country: UK
   Notes: ''
-- Month: 2016-06
+- Month: June
   Name: Kaymbu
   Amount: '$1,920,000'
   Series: Seed
@@ -1328,7 +1328,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-06
+- Month: June
   Name: Citelighter
   Amount: '$2,100,000'
   Series: Convertible note
@@ -1342,7 +1342,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-06
+- Month: June
   Name: Piper
   Amount: '$2,100,000'
   Series: Seed
@@ -1358,7 +1358,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-06
+- Month: June
   Name: Zoomi
   Amount: '$2,500,000'
   Series: Unknown
@@ -1372,7 +1372,7 @@
   Type: B to B
   Country: USA
   Notes: ''
-- Month: 2016-06
+- Month: June
   Name: Planet3
   Amount: '$3,000,000'
   Series: B
@@ -1386,7 +1386,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-06
+- Month: June
   Name: italki
   Amount: '$3,000,000'
   Series: A
@@ -1399,7 +1399,7 @@
   Type: B to C
   Country: China
   Notes: ''
-- Month: 2016-06
+- Month: June
   Name: Cuemath
   Amount: '$4,000,000'
   Series: A
@@ -1413,7 +1413,7 @@
   Type: B to C
   Country: India
   Notes: ''
-- Month: 2016-06
+- Month: June
   Name: Lost My Name
   Amount: '$4,500,000'
   Series: A
@@ -1426,7 +1426,7 @@
   Type: B to C
   Country: UK
   Notes: ''
-- Month: 2016-06
+- Month: June
   Name: Apprennet
   Amount: '$6,150,000'
   Series: A
@@ -1440,7 +1440,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-06
+- Month: June
   Name: Gameffective
   Amount: '$7,000,000'
   Series: B
@@ -1456,7 +1456,7 @@
   Type: B to B
   Country: Israel
   Notes: ''
-- Month: 2016-06
+- Month: June
   Name: Yewno
   Amount: '$10,000,000'
   Series: A
@@ -1470,7 +1470,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-06
+- Month: June
   Name: ABA English
   Amount: '$13,700,000'
   Series: Unknown
@@ -1484,7 +1484,7 @@
   Type: B to C
   Country: Spain
   Notes: ''
-- Month: 2016-06
+- Month: June
   Name: Klay Schools
   Amount: '$16,000,000'
   Series: B
@@ -1498,7 +1498,7 @@
   Type: B to C
   Country: India
   Notes: ''
-- Month: 2016-06
+- Month: June
   Name: Entstudy
   Amount: '$18,210,000'
   Series: C
@@ -1512,7 +1512,7 @@
   Type: B to C
   Country: China
   Notes: ''
-- Month: 2016-06
+- Month: June
   Name: Andela
   Amount: '$24,000,000'
   Series: B
@@ -1528,7 +1528,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-06
+- Month: June
   Name: Udemy
   Amount: '$60,000,000'
   Series: D
@@ -1542,7 +1542,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-06
+- Month: June
   Name: Fishtree
   Amount: Undisclosed
   Series: Unknown
@@ -1556,7 +1556,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-06
+- Month: June
   Name: Sokanu
   Amount: Undisclosed
   Series: Unknown
@@ -1570,7 +1570,7 @@
   Type: B to C
   Country: Canada
   Notes: ''
-- Month: 2016-06
+- Month: June
   Name: EdTechReview
   Amount: Undisclosed
   Series: Unknown
@@ -1583,7 +1583,7 @@
   Type: B to B
   Country: India
   Notes: ''
-- Month: 2016-06
+- Month: June
   Name: Knowledgemotion
   Amount: Undisclosed
   Series: Unknown
@@ -1597,7 +1597,7 @@
   Type: B to B
   Country: UK
   Notes: ''
-- Month: 2016-07
+- Month: July
   Name: Transweb
   Amount: '$120,000'
   Series: A
@@ -1611,7 +1611,7 @@
   Type: B to C
   Country: India
   Notes: ''
-- Month: 2016-07
+- Month: July
   Name: Code Institute
   Amount: '$556,000'
   Series: Seed
@@ -1625,7 +1625,7 @@
   Type: B to C
   Country: Ireland
   Notes: ''
-- Month: 2016-07
+- Month: July
   Name: Yellowdig
   Amount: '$1,000,000'
   Series: Seed
@@ -1638,7 +1638,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-07
+- Month: July
   Name: Schoold
   Amount: '$1,550,000'
   Series: Unknown
@@ -1652,7 +1652,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-07
+- Month: July
   Name: Modo Labs
   Amount: '$10,000,000'
   Series: B
@@ -1666,7 +1666,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-07
+- Month: July
   Name: Wonder Workshop
   Amount: '$20,000,000'
   Series: B
@@ -1682,7 +1682,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-07
+- Month: July
   Name: Codecademy
   Amount: '$30,000,000'
   Series: C
@@ -1698,7 +1698,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-07
+- Month: July
   Name: CommonBond
   Amount: '$30,000,000'
   Series: C
@@ -1714,7 +1714,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-07
+- Month: July
   Name: Everfi
   Amount: '$40,000,000'
   Series: C
@@ -1729,7 +1729,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-07
+- Month: July
   Name: Matific
   Amount: '$45,000,000'
   Series: B
@@ -1743,7 +1743,7 @@
   Type: B to S
   Country: Israel
   Notes: ''
-- Month: 2016-07
+- Month: July
   Name: n2y
   Amount: Undisclosed
   Series: Unknown
@@ -1757,7 +1757,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-07
+- Month: July
   Name: Thrivist
   Amount: Undisclosed
   Series: Unknown
@@ -1771,7 +1771,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-08
+- Month: August
   Name: Makkajai
   Amount: '$200,000'
   Series: Seed
@@ -1785,7 +1785,7 @@
   Type: B to C
   Country: India
   Notes: ''
-- Month: 2016-08
+- Month: August
   Name: Byndr
   Amount: '$700,000'
   Series: Seed
@@ -1801,7 +1801,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-08
+- Month: August
   Name: Convegenius
   Amount: '$900,000'
   Series: Seed
@@ -1815,7 +1815,7 @@
   Type: B to C
   Country: Singapore
   Notes: ''
-- Month: 2016-08
+- Month: August
   Name: Nepris
   Amount: '$1,000,000'
   Series: Seed
@@ -1829,7 +1829,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-08
+- Month: August
   Name: Sorting Hat Technologies
   Amount: '$1,000,000'
   Series: Venture
@@ -1846,7 +1846,7 @@
   Type: B to C
   Country: India
   Notes: ''
-- Month: 2016-08
+- Month: August
   Name: GradeSlam
   Amount: '$1,600,000'
   Series: Seed
@@ -1861,7 +1861,7 @@
   Type: B to C
   Country: Canada
   Notes: ''
-- Month: 2016-08
+- Month: August
   Name: StudySoup
   Amount: '$1,700,000'
   Series: Seed
@@ -1877,7 +1877,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-08
+- Month: August
   Name: Byte Academy
   Amount: '$2,670,000'
   Series: A
@@ -1891,7 +1891,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-08
+- Month: August
   Name: Viridis Learning
   Amount: '$3,200,000'
   Series: A
@@ -1907,7 +1907,7 @@
   Type: B to B
   Country: USA
   Notes: ''
-- Month: 2016-08
+- Month: August
   Name: Degreed
   Amount: '$3,500,000'
   Series: B
@@ -1920,7 +1920,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-08
+- Month: August
   Name: Redshelf
   Amount: '$4,000,000'
   Series: B
@@ -1933,7 +1933,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-08
+- Month: August
   Name: Kira Talent
   Amount: '$5,000,000'
   Series: A
@@ -1947,7 +1947,7 @@
   Type: B to B
   Country: Canada
   Notes: ''
-- Month: 2016-08
+- Month: August
   Name: Panopto
   Amount: '$42,800,000'
   Series: Unknown
@@ -1961,7 +1961,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-08
+- Month: August
   Name: Galvanize
   Amount: '$45,000,000'
   Series: B
@@ -1977,7 +1977,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-08
+- Month: August
   Name: Kaltura
   Amount: '$50,000,000'
   Series: F
@@ -1990,7 +1990,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-08
+- Month: August
   Name: Incred
   Amount: '$75,000,000'
   Series: Unknown
@@ -2004,7 +2004,7 @@
   Type: B to C
   Country: India
   Notes: ''
-- Month: 2016-08
+- Month: August
   Name: Vipkid
   Amount: '$100,000,000'
   Series: C
@@ -2020,7 +2020,7 @@
   Type: B to C
   Country: China
   Notes: ''
-- Month: 2016-08
+- Month: August
   Name: Cialfo
   Amount: Undisclosed
   Series: Unknown
@@ -2033,7 +2033,7 @@
   Type: B to C
   Country: Singapore
   Notes: ''
-- Month: 2016-08
+- Month: August
   Name: Gradopedia
   Amount: Undisclosed
   Series: Seed
@@ -2046,7 +2046,7 @@
   Type: B to C
   Country: India
   Notes: ''
-- Month: 2016-09
+- Month: September
   Name: iAugmentor
   Amount: '$149,000'
   Series: Seed
@@ -2060,7 +2060,7 @@
   Type: B to C
   Country: India
   Notes: ''
-- Month: 2016-09
+- Month: September
   Name: Stoodnt
   Amount: '$300,000'
   Series: Unknown
@@ -2074,7 +2074,7 @@
   Type: B to C
   Country: India
   Notes: ''
-- Month: 2016-09
+- Month: September
   Name: Lingumi
   Amount: '$649,870'
   Series: Seed
@@ -2088,7 +2088,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-09
+- Month: September
   Name: Everest Education
   Amount: '$1,000,000'
   Series: Unknown
@@ -2102,7 +2102,7 @@
   Type: B to C
   Country: Vietnam
   Notes: ''
-- Month: 2016-09
+- Month: September
   Name: Check I'm Here
   Amount: '$1,000,000'
   Series: A
@@ -2116,7 +2116,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-09
+- Month: September
   Name: PikMyKid
   Amount: '$1,000,000'
   Series: Seed
@@ -2130,7 +2130,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-09
+- Month: September
   Name: KidPass
   Amount: '$1,200,000'
   Series: Seed
@@ -2148,7 +2148,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-09
+- Month: September
   Name: Chalk Talk Solutions
   Amount: '$2,000,000'
   Series: Angel
@@ -2161,7 +2161,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-09
+- Month: September
   Name: Fluent City
   Amount: '$2,500,000'
   Series: Seed
@@ -2175,7 +2175,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-09
+- Month: September
   Name: Lightneer
   Amount: '$3,150,000'
   Series: Seed
@@ -2189,7 +2189,7 @@
   Type: B to C
   Country: Finland
   Notes: ''
-- Month: 2016-09
+- Month: September
   Name: Aceable
   Amount: '$4,000,000'
   Series: A
@@ -2203,7 +2203,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-09
+- Month: September
   Name: CodeSpark
   Amount: '$4,100,000'
   Series: Seed
@@ -2219,7 +2219,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-09
+- Month: September
   Name: Portfolium
   Amount: '$6,600,000'
   Series: A
@@ -2233,7 +2233,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-09
+- Month: September
   Name: OpenClassrooms
   Amount: '$6,740,000'
   Series: Unknown
@@ -2249,7 +2249,7 @@
   Type: B to C
   Country: France
   Notes: ''
-- Month: 2016-09
+- Month: September
   Name: Guild Education
   Amount: '$8,500,000'
   Series: A
@@ -2265,7 +2265,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-09
+- Month: September
   Name: OpenSesame
   Amount: '$9,000,000'
   Series: B
@@ -2279,7 +2279,7 @@
   Type: B to B
   Country: USA
   Notes: ''
-- Month: 2016-09
+- Month: September
   Name: Open Up Resources
   Amount: '$10,000,000'
   Series: Unknown
@@ -2293,7 +2293,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-09
+- Month: September
   Name: Kahoot!
   Amount: '$10,000,000'
   Series: A
@@ -2307,7 +2307,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-09
+- Month: September
   Name: BYJU's
   Amount: '$50,000,000'
   Series: D
@@ -2323,7 +2323,7 @@
   Type: B to C
   Country: India
   Notes: ''
-- Month: 2016-09
+- Month: September
   Name: Zuoyebang (Baidu)
   Amount: '$60,000,000'
   Series: B
@@ -2337,7 +2337,7 @@
   Type: B to C
   Country: China
   Notes: ''
-- Month: 2016-09
+- Month: September
   Name: Yellowdig
   Amount: Undisclosed
   Series: Unknown
@@ -2350,7 +2350,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-09
+- Month: September
   Name: Fastudent
   Amount: Undisclosed
   Series: Seed
@@ -2365,7 +2365,7 @@
   Type: B to C
   Country: India
   Notes: ''
-- Month: 2016-09
+- Month: September
   Name: LIQVID eLearning Services
   Amount: Undisclosed
   Series: Unknown
@@ -2379,7 +2379,7 @@
   Type: B to C
   Country: India
   Notes: ''
-- Month: 2016-10
+- Month: October
   Name: 3Dexter
   Amount: '$150,000'
   Series: Seed
@@ -2393,7 +2393,7 @@
   Type: B to S
   Country: India
   Notes: ''
-- Month: 2016-10
+- Month: October
   Name: Coursestorm
   Amount: '$760,000'
   Series: Seed
@@ -2407,7 +2407,7 @@
   Type: B to B
   Country: USA
   Notes: ''
-- Month: 2016-10
+- Month: October
   Name: Authess
   Amount: '$830,000'
   Series: Seed
@@ -2420,7 +2420,7 @@
   Type: B to B
   Country: USA
   Notes: ''
-- Month: 2016-10
+- Month: October
   Name: SoloLearn
   Amount: '$1,200,000'
   Series: Seed
@@ -2434,7 +2434,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-10
+- Month: October
   Name: Triseum
   Amount: '$2,000,000'
   Series: Seed
@@ -2448,7 +2448,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-10
+- Month: October
   Name: MEL Science
   Amount: '$2,500,000'
   Series: A
@@ -2462,7 +2462,7 @@
   Type: B to S
   Country: UK
   Notes: ''
-- Month: 2016-10
+- Month: October
   Name: Noodle Partners
   Amount: '$4,000,000'
   Series: Unknown
@@ -2476,7 +2476,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-10
+- Month: October
   Name: Securly
   Amount: '$4,000,000'
   Series: A
@@ -2490,7 +2490,22 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-10
+- Month: October
+  Name: MPOWER Financing
+  Amount: '$6,000,000'
+  Series: A
+  URL: ''
+  Investors: >-
+    Zephyr Management, 1776, Dreamit, Fresco Capital, Goal Structured Solutions,
+    University Ventures, VilCap Investments
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/mpower-financing#/entity'
+  Keyword: Student loan
+  Level: Post-sec
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: October
   Name: Indian School Finance Company
   Amount: '$6,000,000'
   Series: A
@@ -2504,7 +2519,7 @@
   Type: B to C
   Country: India
   Notes: ''
-- Month: 2016-10
+- Month: October
   Name: Spark Schools
   Amount: '$9,000,000'
   Series: B
@@ -2517,7 +2532,7 @@
   Type: B to C
   Country: South Africa
   Notes: ''
-- Month: 2016-10
+- Month: October
   Name: Coorpacademy
   Amount: '$11,000,000'
   Series: B
@@ -2531,7 +2546,7 @@
   Type: B to B
   Country: France
   Notes: ''
-- Month: 2016-10
+- Month: October
   Name: Knowbox
   Amount: '$14,760,000'
   Series: B
@@ -2545,7 +2560,7 @@
   Type: B to C
   Country: China
   Notes: ''
-- Month: 2016-10
+- Month: October
   Name: Everwise
   Amount: '$16,000,000'
   Series: B
@@ -2559,7 +2574,7 @@
   Type: B to B
   Country: USA
   Notes: ''
-- Month: 2016-10
+- Month: October
   Name: Edlio
   Amount: '$40,000,000'
   Series: Unknown
@@ -2572,7 +2587,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-10
+- Month: October
   Name: Affirm
   Amount: '$100,000,000'
   Series: Debt
@@ -2585,7 +2600,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-11
+- Month: November
   Name: Mightifier
   Amount: '$250,000'
   Series: Seed
@@ -2599,7 +2614,7 @@
   Type: B to S
   Country: Finland
   Notes: ''
-- Month: 2016-11
+- Month: November
   Name: Authess
   Amount: '$675,000'
   Series: Seed
@@ -2612,7 +2627,7 @@
   Type: B to B
   Country: USA
   Notes: ''
-- Month: 2016-11
+- Month: November
   Name: Triseum
   Amount: '$2,000,000'
   Series: Seed
@@ -2626,7 +2641,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-11
+- Month: November
   Name: Formative
   Amount: '$2,000,000'
   Series: Unknown
@@ -2640,7 +2655,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-11
+- Month: November
   Name: HarukaEdu
   Amount: '$2,200,000'
   Series: B
@@ -2655,7 +2670,7 @@
   Type: B to S
   Country: Indonesia
   Notes: ''
-- Month: 2016-11
+- Month: November
   Name: CollegeVine
   Amount: '$3,100,000'
   Series: A
@@ -2668,7 +2683,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-11
+- Month: November
   Name: Yup
   Amount: '$4,000,000'
   Series: Seed
@@ -2682,7 +2697,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-11
+- Month: November
   Name: Pi-top
   Amount: '$4,300,000'
   Series: A
@@ -2696,7 +2711,7 @@
   Type: B to C
   Country: UK
   Notes: ''
-- Month: 2016-11
+- Month: November
   Name: Firefly Learning
   Amount: '$5,630,000'
   Series: A
@@ -2710,7 +2725,7 @@
   Type: B to S
   Country: UK
   Notes: ''
-- Month: 2016-11
+- Month: November
   Name: UNICAF
   Amount: '$12,000,000'
   Series: Unknown
@@ -2725,7 +2740,7 @@
   Type: B to C
   Country: UK
   Notes: ''
-- Month: 2016-11
+- Month: November
   Name: Handshake
   Amount: '$20,000,000'
   Series: B
@@ -2741,7 +2756,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-11
+- Month: November
   Name: Smartstudy
   Amount: '$29,540,000'
   Series: B
@@ -2757,7 +2772,7 @@
   Type: B to C
   Country: China
   Notes: ''
-- Month: 2016-12
+- Month: December
   Name: Selected
   Amount: '$20,000'
   Series: Unknown
@@ -2771,7 +2786,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-12
+- Month: December
   Name: Peergrade
   Amount: '$300,000'
   Series: Seed
@@ -2784,7 +2799,7 @@
   Type: B to S
   Country: Denmark
   Notes: ''
-- Month: 2016-12
+- Month: December
   Name: Math Buddy
   Amount: '$438,000'
   Series: Seed
@@ -2797,7 +2812,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-12
+- Month: December
   Name: School Notices
   Amount: '$627,600'
   Series: Equity crowdfunding
@@ -2810,7 +2825,7 @@
   Type: B to C
   Country: UK
   Notes: ''
-- Month: 2016-12
+- Month: December
   Name: KnowledgeHook
   Amount: '$902,810'
   Series: Unknown
@@ -2823,7 +2838,7 @@
   Type: B to S
   Country: Canada
   Notes: ''
-- Month: 2016-12
+- Month: December
   Name: English Central
   Amount: '$1,300,000'
   Series: Unknown
@@ -2837,7 +2852,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-12
+- Month: December
   Name: CodeMentor
   Amount: '$1,600,000'
   Series: Seed
@@ -2851,7 +2866,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-12
+- Month: December
   Name: Explain Everything
   Amount: '$3,700,000'
   Series: A
@@ -2867,7 +2882,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-12
+- Month: December
   Name: MasteryConnect
   Amount: '$4,500,000'
   Series: C
@@ -2883,7 +2898,7 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: 2016-12
+- Month: December
   Name: XSEED Education
   Amount: '$10,000,000'
   Series: B
@@ -2896,7 +2911,7 @@
   Type: B to S
   Country: India
   Notes: ''
-- Month: 2016-12
+- Month: December
   Name: BYJU's
   Amount: '$15,000,000'
   Series: Unknown
@@ -2910,7 +2925,7 @@
   Type: B to C
   Country: India
   Notes: ''
-- Month: 2016-12
+- Month: December
   Name: Osmo
   Amount: '$24,000,000'
   Series: Unknown
@@ -2926,7 +2941,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-12
+- Month: December
   Name: Pluralsight
   Amount: '$30,000,000'
   Series: Unknown
@@ -2940,7 +2955,7 @@
   Type: B to C
   Country: USA
   Notes: ''
-- Month: 2016-12
+- Month: December
   Name: Podotree
   Amount: '$107,000,000'
   Series: Unknown
@@ -2953,7 +2968,7 @@
   Type: B to C
   Country: South Korea
   Notes: ''
-- Month: 2016-12
+- Month: December
   Name: VoLT
   Amount: Undisclosed
   Series: Unknown
@@ -2968,7 +2983,7 @@
   Type: B to C
   Country: India
   Notes: ''
-- Month: 2016-12
+- Month: December
   Name: Campus School Housing
   Amount: Undisclosed
   Series: A

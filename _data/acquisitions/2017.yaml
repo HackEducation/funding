@@ -75,6 +75,12 @@
   Acquirer: ST Unitas
   Notes: test prep; K-12; B to C
 - Date: February
+  Name: refMe
+  Amount: unknown
+  URL: 'https://www.crunchbase.com/acquisition/f9b1ab32591c3a8e8b223409d116fbf2'
+  Acquirer: Chegg
+  Notes: bibliography software; K-12; B to C
+- Date: February
   Name: Cegment
   Amount: unknown
   URL: >-
@@ -308,3 +314,65 @@
     https://www.edsurge.com/news/2017-07-24-frontline-education-s-10th-acquisition-school-improvement-network
   Acquirer: Frontline Education
   Notes: professional development; K-12; B to S
+- Date: July
+  Name: Gradstaff
+  Amount: unknown
+  URL: >-
+    https://www.pehub.com/2017/07/university-ventures-acquires-gradstaff-which-rebrands-as-avenica/
+  Acquirer: University Ventures
+  Notes: recruitment; post-sec; B to C
+- Date: August
+  Name: bepress
+  Amount: unknown
+  URL: 'https://scholarlykitchen.sspnet.org/2017/08/02/elsevier-acquires-bepress/'
+  Acquirer: Elsevier
+  Notes: institutional repository; post-sec; B to S
+- Date: August
+  Name: Frontline Education
+  Amount: unknown
+  URL: >-
+    https://www.edsurge.com/news/2017-08-04-thoma-bravo-s-acquisition-of-frontline-education-creates-edtech-s-newest-unicorn
+  Acquirer: Thomas Bravo
+  Notes: administrative software; K-12; B to S
+- Date: August
+  Name: Impero Software
+  Amount: '$36,300,000'
+  URL: >-
+    https://www.edsurge.com/news/2017-08-07-investment-corp-purchases-impero-software-for-36-3m
+  Acquirer: Investment Technology Partners
+  Notes: monitoring software; K-12; B to S
+- Date: August
+  Name: Student Brands
+  Amount: unknown
+  URL: >-
+    https://www.edsurge.com/news/2017-08-07-barnes-noble-acquires-student-writing-company-for-58-5m
+  Acquirer: Barnes & Noble Education
+  Notes: homework help; K-12; B to C
+- Date: August
+  Name: IT'S ABOUT TIME
+  Amount: unknown
+  URL: >-
+    https://www.edsurge.com/news/2017-08-16-activate-learning-acquires-stem-curriculum-company
+  Acquirer: Activate Learning
+  Notes: curriculum maker; K-12; B to S
+- Date: August
+  Name: JR3 Websmart
+  Amount: unknown
+  URL: >-
+    https://marketbrief.edweek.org/marketplace-k-12/k-12-dealmaking-barnes-noble-education-harris-school-solutions-make-acquisitions/
+  Acquirer: Harris School Solutions
+  Notes: student information system; K-12; B to S
+- Date: August
+  Name: Triumph Learning
+  Amount: unknown
+  URL: >-
+    https://www.edsurge.com/news/2017-08-22-school-specialty-to-acquire-triumph-learning-provider-of-k-12-curriculum-and-test-prep
+  Acquirer: School Speciality
+  Notes: test prep; K-12; B to S
+- Date: August
+  Name: EAB
+  Amount: '$2,580,000,000'
+  URL: >-
+    http://www.prnewswire.com/news-releases/the-advisory-board-company-announces-agreements-for-the-sale-of-its-health-care-and-education-businesses-300510668.html
+  Acquirer: Vista Equity Partners
+  Notes: student information system; post-sec; B to S
