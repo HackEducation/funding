@@ -3,7 +3,7 @@ markdown: kramdown
 highlighter: rouge
 
 # Site settings
-title: "Ed-Tech Funding"
+title: "The Ed-Tech Funding Project"
 description: > # this means to ignore newlines until "email:"
    A Hack Education Project
 
