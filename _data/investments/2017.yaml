@@ -1872,3 +1872,252 @@
   Type: B to C
   Country: Canada
   Notes: ''
+- Month: September
+  Name: Packback
+  Amount: '$1,500,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2017-09-19-mark-cuban-backed-packback-raises-1-5-million-to-grow-smart-discussion-platform
+  Investors: University Ventures and ICG Ventures
+  Total: '$4,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/packback-books#/entity'
+  Keyword: homework help
+  Level: Post-sec
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: September
+  Name: Tenka Labs
+  Amount: '$2,000,000'
+  Series: Seed
+  URL: >-
+    https://techcrunch.com/2017/09/06/tenka-labs-raises-another-2m-to-get-its-kids-lego-engineering-kits-in-retailers/
+  Investors: Undisclosed
+  Total: '$4,100,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/tenka-labs#/entity'
+  Keyword: engineering kits
+  Level: K-12
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: September
+  Name: Kings Learning
+  Amount: '$2,500,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2017-09-06-english-tutoring-app-lands-2-5m-investment-from-michael-susan-dell-foundation
+  Investors: Village Capital and the Michael and Susan Dell Foundation
+  Total: '$2,500,000'
+  Crunchbase: >-
+    https://www.crunchbase.com/organization/kings-learning-enguru-spoken-english-app#/entity
+  Keyword: English language learning
+  Level: K-12
+  Type: B to C
+  Country: India
+  Notes: ''
+- Month: September
+  Name: Classcraft
+  Amount: '$2,800,000'
+  Series: Venture
+  URL: >-
+    https://www.edsurge.com/news/2017-09-06-classcraft-raises-2-8m-to-turn-classrooms-into-a-role-playing-game
+  Investors: 'Whitecap Venture Partners, Brightspark Ventures, and MaRS Catalyst Fund'
+  Total: '$2,800,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/classcraft#/entity'
+  Keyword: game-based learning
+  Level: K-12
+  Type: B to S
+  Country: Canada
+  Notes: ''
+- Month: September
+  Name: EquitySim
+  Amount: '$3,100,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2017-09-22-simulation-job-recruitment-platform-nabs-31-m-in-series-a-round
+  Investors: '500 Startups, Peak Ventures, and University Ventures'
+  Total: '$3,100,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/equitysim'
+  Keyword: job recruitment
+  Level: Post-sec
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: September
+  Name: Credly
+  Amount: '$4,600,000'
+  Series: Venture
+  URL: >-
+    https://www.edsurge.com/news/2017-09-13-new-york-based-digital-credential-platform-credly-raises-4-6-million-in-new-funding
+  Investors: New Markets Venture Partners
+  Total: '$7,100,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/credly'
+  Keyword: credentialing
+  Level: All
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: September
+  Name: Evertrue
+  Amount: '$6,000,000'
+  Series: B
+  URL: >-
+    https://www.edsurge.com/news/2017-09-06-higher-education-fundraising-platform-evertrue-raises-6m
+  Investors: Bain Capital Ventures and University Ventures
+  Total: '$20,570,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/evertrue#/entity'
+  Keyword: fundraising campaign management
+  Level: Post-sec
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: September
+  Name: Tuition.io
+  Amount: '$7,000,000'
+  Series: B
+  URL: >-
+    https://techcrunch.com/2017/09/21/with-new-funding-tuition-io-moves-from-student-loan-management-to-student-loan-repayments/
+  Investors: 'Wildcat Venture Partners, MassMutual Ventures, and Mohr Davidow Ventures'
+  Total: '$15,150,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/tuition-io#/entity'
+  Keyword: student loan management
+  Level: Post-sec
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: September
+  Name: Vemo Education
+  Amount: '$7,400,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2017-09-11-vemo-education-raises-7-4m-to-grow-income-share-agreement-platform
+  Investors: >-
+    University Ventures, NextGen Venture Partners, Route 66 Ventures, Third Kind
+    Venture Capital, Haystack Partners, and Task Force X Capital
+  Total: '$9,400,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/vemo-education#/entity'
+  Keyword: income-sharing agreement
+  Level: Post-sec
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: September
+  Name: Piper
+  Amount: '$7,600,000'
+  Series: A
+  URL: >-
+    https://www.edsurge.com/news/2017-09-14-steam-startup-piper-raises-7-6-million
+  Investors: 'Owl Ventures, Reach Capital, StartX, and Charles Huang'
+  Total: '$9,750,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/piper-2#/entity'
+  Keyword: learn-to-code
+  Level: K-12
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: September
+  Name: MissionU
+  Amount: '$8,500,000'
+  Series: A
+  URL: >-
+    https://www.edsurge.com/news/2017-09-14-missionu-welcomes-its-first-class-and-an-8-5m-series-a-round
+  Investors: >-
+    FirstMark, BoxGroup, First Round Capital, John Doerr, Learn Capital, Omidyar
+    Network, Rethink Education, and University Ventures
+  Total: '$11,500,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/missionu#/entity'
+  Keyword: college alternative
+  Level: Post-sec
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: September
+  Name: Labster
+  Amount: '$10,000,000'
+  Series: A
+  URL: >-
+    https://techcrunch.com/2017/09/06/virtual-science-lab-startup-labster-bags-10m/
+  Investors: 'Balderton Capital, David Helgason, and Northzone'
+  Total: '$13,670,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/labster#/entity'
+  Keyword: virtual reality science
+  Level: K-12
+  Type: B to S
+  Country: Denmark
+  Notes: ''
+- Month: September
+  Name: ThinkCERCA
+  Amount: '$10,100,000'
+  Series: B
+  URL: >-
+    https://www.edsurge.com/news/2017-09-20-thinkcerca-raises-10-1-million-to-build-critical-thinkers-readers-and-writers
+  Investors: >-
+    Scott Cook, Signe Ostby, Chuck Templeton, Deborah Quazzo, Follett Knowledge
+    Fund, Jeff Weiner, Mike Gamson, Plum Alley, and TAL Education Group
+  Total: '$14,800,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/thinkcerca#/entity'
+  Keyword: literacy
+  Level: K-12
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: September
+  Name: Unacademy
+  Amount: '$11,500,000'
+  Series: B
+  URL: 'http://techstory.in/unacademy-raises-funding-2017/'
+  Investors: 'Sequoia India, SAIF Partners, Nexus Venture Partners, and Blume Ventures'
+  Total: '$17,500,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/unacademy#/entity'
+  Keyword: online education
+  Level: K-12
+  Type: B to C
+  Country: India
+  Notes: ''
+- Month: September
+  Name: Guild Education
+  Amount: '$21,000,000'
+  Series: B
+  URL: >-
+    https://www.edsurge.com/news/2017-09-06-guild-education-raises-21-million-in-a-series-b-financing-round
+  Investors: >-
+    Bessemer Ventures, Redpoint Ventures, Harrison Metal, Social Capital, and
+    Cowboy Ventures
+  Total: '$31,500,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/guild-education#/entity'
+  Keyword: corporate learning
+  Level: Corporate
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: September
+  Name: Absorb
+  Amount: '$59,000,000'
+  Series: Venture
+  URL: >-
+    https://www.edsurge.com/news/2017-09-11-canadian-lms-developer-raises-59-million-from-boston-investor
+  Investors: Silversmith Capital Partners
+  Total: '$59,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/absorb-software'
+  Keyword: learning management system
+  Level: Post-sec / Corporate
+  Type: B to B
+  Country: Canada
+  Notes: ''
+- Month: September
+  Name: Gaosi Education
+  Amount: '$83,520,000'
+  Series: C
+  URL: >-
+    https://marketbrief.edweek.org/marketplace-k-12/k-12-dealmaking-thinkcerca-gaosi-education-raise-funds/
+  Investors: >-
+    AlphaX Partners Fund, China Media Capital, China International Capital
+    Corporation, Loyal Valley Innovation Capital, Sinovation Ventures, and The
+    Hina Group
+  Total: '$83,520,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/gaosi-education-group#/entity'
+  Keyword: tutoring and school
+  Level: K-12
+  Type: B to C
+  Country: China
+  Notes: ''
