@@ -1,4 +1,17 @@
 - Month: January
+  Name: Upswing
+  Amount: '$300,000'
+  Series: Seed
+  URL: ''
+  Investors: 'Crom Carmichael, Jimmy Webb, Mark Clark, Christine Wyatt, Don Shafer'
+  Total: '$1,470,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/upswing'
+  Keyword: learning analytics
+  Level: Post-sec
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: January
   Name: GradTrain
   Amount: '$500,000'
   Series: Seed
@@ -1873,6 +1886,20 @@
   Country: Canada
   Notes: ''
 - Month: September
+  Name: Play Biba
+  Amount: '$1,300,000'
+  Series: Seed
+  URL: >-
+    https://marketbrief.edweek.org/marketplace-k-12/k-12-dealmaking-varsity-tutors-acquires-first-tutors-ryb-education-goes-public/
+  Investors: 'Greg Zeschuk, Jason Kapalka, and Leonite Capital'
+  Total: '$1,300,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/play-biba'
+  Keyword: augmented reality playground activities
+  Level: K-12
+  Type: B to S
+  Country: Canada
+  Notes: ''
+- Month: September
   Name: Packback
   Amount: '$1,500,000'
   Series: Seed
@@ -2120,4 +2147,297 @@
   Level: K-12
   Type: B to C
   Country: China
+  Notes: ''
+- Month: October
+  Name: Qualified
+  Amount: '$75,000'
+  Series: Unknown
+  URL: >-
+    https://www.edsurge.com/news/2017-10-10-two-us-based-startups-each-win-75k-to-solve-skills-and-hiring-gap
+  Investors: Village Capital
+  Total: Unknown
+  Crunchbase: 'https://www.crunchbase.com/organization/codewars'
+  Keyword: assessment platform for hiring
+  Level: Corporate
+  Type: B to B
+  Country: USA
+  Notes: product of Codewars
+- Month: October
+  Name: Upswing
+  Amount: '$75,000'
+  Series: Unknown
+  URL: >-
+    https://www.edsurge.com/news/2017-10-10-two-us-based-startups-each-win-75k-to-solve-skills-and-hiring-gap
+  Investors: Village Capital
+  Total: '$1,545,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/upswing'
+  Keyword: learning analytics
+  Level: Post-sec
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: October
+  Name: O.School
+  Amount: '$800,000'
+  Series: Unknown
+  URL: >-
+    https://techcrunch.com/2017/10/24/startup-o-school-raises-800000-to-improve-sex-education/
+  Investors: 'Cyan Banister, The House Fund, and XFactor Ventures'
+  Total: '$800,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/o-school'
+  Keyword: sex education
+  Level: Post-sec
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: October
+  Name: Fire Tech Camp
+  Amount: '$863,525'
+  Series: Venture
+  URL: >-
+    https://www.edsurge.com/news/2017-10-31-london-tech-camp-for-kids-raises-660k
+  Investors: 'Emerge Education, Cass Entrepreneurship Fund'
+  Total: '$863,525'
+  Crunchbase: 'https://www.crunchbase.com/organization/fire-tech-camp'
+  Keyword: afterschool computer classes
+  Level: K-12
+  Type: B to C
+  Country: UK
+  Notes: ''
+- Month: October
+  Name: Curiscope
+  Amount: '$1,000,000'
+  Series: Seed
+  URL: 'https://techcrunch.com/2017/10/03/curiscope/'
+  Investors: >-
+    LocalGlobe, Ascension Ventures, Force Over Mass, Richard Fearn, and ustwo
+    Adventure
+  Total: '$1,120,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/curiscope'
+  Keyword: augmented reality content on t-shirts
+  Level: All
+  Type: B to C
+  Country: UK
+  Notes: ''
+- Month: October
+  Name: Blue Canoe Learning
+  Amount: '$1,400,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2017-10-31-ai-based-language-learning-game-developer-raises-1-4m
+  Investors: Kernal Labs
+  Total: '$1,400,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/kernel-labs'
+  Keyword: language learning
+  Level: K-12
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: October
+  Name: Workbench Platform
+  Amount: '$1,700,000'
+  Series: Seed
+  URL: >-
+    https://marketbrief.edweek.org/marketplace-k-12/k-12-dealmaking-varsity-tutors-acquires-first-tutors-ryb-education-goes-public/
+  Investors: Brown Advisory
+  Total: '$2,950,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/cwist'
+  Keyword: project-based learning platform
+  Level: K-12
+  Type: B to S
+  Country: USA
+  Notes: formerly CWIST
+- Month: October
+  Name: Shaw Academy
+  Amount: '$2,950,000'
+  Series: Crowdfunding
+  URL: 'https://www.siliconrepublic.com/start-ups/shaw-academy-crowdcube'
+  Investors: ''
+  Total: '$2,950,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/shaw-academy'
+  Keyword: online education platform
+  Level: Post-sec
+  Type: B to C
+  Country: Ireland
+  Notes: ''
+- Month: October
+  Name: Fluent City
+  Amount: '$3,000,000'
+  Series: Unknown
+  URL: >-
+    https://techcrunch.com/2017/10/17/fluent-city-picks-up-3-million-to-revolutionize-language-learning/
+  Investors: >-
+    New Ground Ventures, WorldQuant Ventures, ZG Ventures, John Katzman, Nick
+    Hammerschlag, Matthew Hanson, and Lerner Investments
+  Total: '$8,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/fluent-city'
+  Keyword: foreign language learning
+  Level: Post-sec
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: October
+  Name: BridgeU
+  Amount: '$5,300,000'
+  Series: A
+  URL: >-
+    https://techcrunch.com/2017/10/17/bridgeu-raises-5-3m-to-close-the-gap-between-education-and-industry-needs/
+  Investors: 'Octopus Ventures, Downing Ventures, and Fresco Capital'
+  Total: '$8,200,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/bridgeu'
+  Keyword: career guidance
+  Level: Post-sec
+  Type: B to S
+  Country: UK
+  Notes: ''
+- Month: October
+  Name: Moodle
+  Amount: '$6,000,000'
+  Series: Unknown
+  URL: >-
+    https://www.edsurge.com/news/2017-10-02-the-world-s-most-popular-lms-provider-moodle-raises-money-for-the-1st-time
+  Investors: Education For the Many
+  Total: '$6,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/moodle'
+  Keyword: learning management system
+  Level: Post-sec
+  Type: B to S
+  Country: Australia
+  Notes: ''
+- Month: October
+  Name: Neverware
+  Amount: '$6,500,000'
+  Series: B
+  URL: >-
+    https://www.theverge.com/2017/10/11/16455490/google-invest-neverware-chromebooks-refurbish
+  Investors: Google Ventures
+  Total: '$14,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/neverware'
+  Keyword: computer refurbishment
+  Level: K-12
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: October
+  Name: Galvanize
+  Amount: '$7,000,000'
+  Series: C
+  URL: >-
+    https://www.edsurge.com/news/2017-10-19-undeterred-by-layoffs-and-ceo-change-existing-investors-pump-7m-more-in-galvanize
+  Investors: University Ventures and ABS Capital Partners
+  Total: '$102,400,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/galvanize-2'
+  Keyword: coding bootcamp
+  Level: Post-sec
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: October
+  Name: Brainly
+  Amount: '$14,000,000'
+  Series: B
+  URL: >-
+    https://techcrunch.com/2017/10/25/brainly-raises-14-million-for-its-quora-for-kids-education-tech/
+  Investors: >-
+    General Catalyst, Point Nine Capital, Runa Capital, Naspers, and Kulczyk
+    Investments
+  Total: '$38,500,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/brainly-com'
+  Keyword: homework help
+  Level: K-12
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: October
+  Name: Knowbox
+  Amount: '$30,000,000'
+  Series: B
+  URL: >-
+    https://www.chinamoneynetwork.com/2017/10/12/dealshot-bai-leads-30m-series-b-round-chinese-k12-online-education-firm-knowbox
+  Investors: >-
+    Bertelsmann Asia Investment Fund, TAL Education Group, Baidu Ventures, and
+    New World Strategic Investment
+  Total: '$55,700,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/knowbox-2'
+  Keyword: homework help
+  Level: K-12
+  Type: B to C
+  Country: China
+  Notes: ''
+- Month: October
+  Name: Andela
+  Amount: '$40,000,000'
+  Series: C
+  URL: >-
+    https://www.nytimes.com/2017/10/10/business/andela-start-up-coding-africa.html
+  Investors: >-
+    Google Ventures, Spark Capital, Salesforce Ventures, CRE Venture Capital,
+    TLcom Capital Partners, VentureSouq, the Chan Zuckerberg Initiative, DBL
+    Partners, and Amplo
+  Total: '$81,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/andela'
+  Keyword: coding bootcamp
+  Level: Post-sec
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: October
+  Name: Wonder Workshop
+  Amount: '$41,000,000'
+  Series: C
+  URL: >-
+    https://www.dealstreetasia.com/stories/educational-robot-maker-wonder-workshop-raises-41m-tencent-softbank-others-85261/
+  Investors: >-
+    CRV, Madrona Venture Group, Tencent Holdings, Sinovation Ventures, WI Harper
+    Group, Softbank Ventures Korea, MindWorks Ventures, TAL Education Group, TCL
+    Capital, Bright Success Capital
+  Total: '$78,340,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/play-i'
+  Keyword: robotics
+  Level: K-12
+  Type: B to C
+  Country: USA
+  Notes: formerly play-i
+- Month: October
+  Name: Educapital
+  Amount: '$53,000,000'
+  Series: Fund I
+  URL: >-
+    https://www.edsurge.com/news/2017-10-10-educapital-closes-45m-fund-for-european-israeli-edtech-companies
+  Investors: 'Bpifrance, Hachette Livre, and Education for the Many'
+  Total: Unknown
+  Crunchbase: 'https://www.crunchbase.com/organization/educapital'
+  Keyword: venture capital firm
+  Level: All
+  Type: B to B
+  Country: France
+  Notes: ''
+- Month: October
+  Name: Changingedu
+  Amount: '$55,000,000'
+  Series: D
+  URL: ''
+  Investors: >-
+    TAL Education Group, ClearVue Partners, Trustbridge Partners, TAL Education
+    Group, Sequoia Capital, IDG Capital Partners, FREES FUND, ClearVue Partners
+  Total: '$55,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/changingedu'
+  Keyword: tutoring
+  Level: K-12
+  Type: B to C
+  Country: China
+  Notes: ''
+- Month: October
+  Name: Owl Ventures
+  Amount: '$185,000,000'
+  Series: Fund II
+  URL: >-
+    http://markets.businessinsider.com/news/stocks/Owl-Ventures-EdTech-VC-Raises-185M-to-Lead-Education-Innovation-1004894052
+  Investors: Unknown
+  Total: Unknown
+  Crunchbase: 'https://www.crunchbase.com/organization/owl-ventures-lp'
+  Keyword: venture capital firm
+  Level: All
+  Type: B to B
+  Country: USA
   Notes: ''
