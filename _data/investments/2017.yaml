@@ -6,7 +6,7 @@
   Investors: 'Crom Carmichael, Jimmy Webb, Mark Clark, Christine Wyatt, Don Shafer'
   Total: '$1,470,000'
   Crunchbase: 'https://www.crunchbase.com/organization/upswing'
-  Keyword: learning analytics
+  Keyword: tutoring
   Level: Post-sec
   Type: B to S
   Country: USA
@@ -472,7 +472,7 @@
   Investors: Notion Capital and Hong Leong Group
   Total: '$5,500,000'
   Crunchbase: 'https://www.crunchbase.com/organization/smartup-io#/entity'
-  Keyword: corporate learning
+  Keyword: corporate training
   Level: Corporate
   Type: B to B
   Country: UK
@@ -1886,6 +1886,19 @@
   Country: Canada
   Notes: ''
 - Month: September
+  Name: NEST Education
+  Amount: '$600,000'
+  Series: Venture
+  URL: ''
+  Investors: Anand Mahindra and the Dell Foundation
+  Total: '$600,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/nest-education'
+  Keyword: private school
+  Level: K-12
+  Type: B to C
+  Country: India
+  Notes: ''
+- Month: September
   Name: Play Biba
   Amount: '$1,300,000'
   Series: Seed
@@ -2112,7 +2125,7 @@
     Cowboy Ventures
   Total: '$31,500,000'
   Crunchbase: 'https://www.crunchbase.com/organization/guild-education#/entity'
-  Keyword: corporate learning
+  Keyword: corporate training
   Level: Corporate
   Type: B to C
   Country: USA
@@ -2162,20 +2175,6 @@
   Type: B to B
   Country: USA
   Notes: product of Codewars
-- Month: October
-  Name: Upswing
-  Amount: '$75,000'
-  Series: Unknown
-  URL: >-
-    https://www.edsurge.com/news/2017-10-10-two-us-based-startups-each-win-75k-to-solve-skills-and-hiring-gap
-  Investors: Village Capital
-  Total: '$1,545,000'
-  Crunchbase: 'https://www.crunchbase.com/organization/upswing'
-  Keyword: learning analytics
-  Level: Post-sec
-  Type: B to C
-  Country: USA
-  Notes: ''
 - Month: October
   Name: O.School
   Amount: '$800,000'
@@ -2275,6 +2274,19 @@
   Level: Post-sec
   Type: B to C
   Country: USA
+  Notes: ''
+- Month: October
+  Name: Varthana
+  Amount: '$3,000,000'
+  Series: ''
+  URL: ''
+  Investors: Michael & Susan Dell Foundation
+  Total: '$21,430,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/varthana'
+  Keyword: student loans
+  Level: K-12
+  Type: B to C
+  Country: India
   Notes: ''
 - Month: October
   Name: BridgeU
@@ -2439,5 +2451,297 @@
   Keyword: venture capital firm
   Level: All
   Type: B to B
+  Country: USA
+  Notes: ''
+- Month: November
+  Name: Sunlight
+  Amount: '$653,900'
+  Series: Seed
+  URL: 'https://techcrunch.com/2017/11/01/sunlight/'
+  Investors: 'Seedcamp, Speedinvest, and Annection'
+  Total: '$831,359'
+  Crunchbase: 'https://www.crunchbase.com/organization/sunlight'
+  Keyword: corporate training
+  Level: Corporate
+  Type: B to B
+  Country: UK
+  Notes: ''
+- Month: November
+  Name: Night Zookeeper
+  Amount: '$793,000'
+  Series: Venture
+  URL: >-
+    https://www.edsurge.com/news/2017-11-14-uk-based-children-s-storytelling-startup-scores-600k-and-a-publishing-deal
+  Investors: Newable
+  Total: '$2,305,240'
+  Crunchbase: 'https://www.crunchbase.com/organization/night-zookeeper'
+  Keyword: storytelling
+  Level: K-12
+  Type: B to S
+  Country: UK
+  Notes: ''
+- Month: November
+  Name: Edmit
+  Amount: '$855,000'
+  Series: Seed
+  URL: >-
+    https://marketbrief.edweek.org/marketplace-k-12/k-12-dealmaking-worldstrides-gains-500-million-london-startups-raise-funds/
+  Investors: >-
+    Bessemer Venture Partners, Wan Li Zhu, Rob Biederman, Anthony Accardi, Bill
+    Triant, Peter Temes, and Shereen Shermak
+  Total: '$855,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/edmit'
+  Keyword: college admissions search
+  Level: Post-sec
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: November
+  Name: Fire Tech Camp
+  Amount: '$863,525'
+  Series: Venture
+  URL: >-
+    https://www.edsurge.com/news/2017-10-31-london-tech-camp-for-kids-raises-660k
+  Investors: Emerge Education and Cass Entrepreneurship Fund
+  Total: '$863,525'
+  Crunchbase: 'https://www.crunchbase.com/organization/fire-tech-camp'
+  Keyword: learn-to-code
+  Level: K-12
+  Type: B to C
+  Country: UK
+  Notes: ''
+- Month: November
+  Name: Montessorium
+  Amount: '$1,000,000'
+  Series: B
+  URL: >-
+    https://www.edsurge.com/news/2017-11-04-montessorium-adds-1m-in-funding-to-build-educational-apps-for-kids-and-parents
+  Investors: >-
+    Bluestem Capital, SD Angel Funds, Falls Angel Fund, Two Bridges Capital,
+    Kampeska Capital, and SDSU/Brookings Angel Fund
+  Total: '$2,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/montessorium'
+  Keyword: education apps
+  Level: 'PreK, K-12'
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: November
+  Name: PandaTree
+  Amount: '$1,500,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2017-11-03-language-learning-startup-pandatree-raises-1-5m
+  Investors: Michael Dearing and Randy Ching
+  Total: '$1,500,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/pandatree'
+  Keyword: language learning
+  Level: K-12
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: November
+  Name: Upswing
+  Amount: '$1,500,000'
+  Series: Venture
+  URL: >-
+    https://www.edsurge.com/news/2017-11-29-upswing-raises-1-5m-to-better-support-online-students
+  Investors: >-
+    Rethink Education, Village Capital, Stanford Graduate School of Business,
+    Lumina Impact Ventures
+  Total: '$2,970,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/upswing'
+  Keyword: tutoring
+  Level: Post-sec
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: November
+  Name: SAM Labs
+  Amount: '$6,750,000'
+  Series: A
+  URL: >-
+    https://www.edsurge.com/news/2017-11-14-coding-kit-startup-sam-labs-raises-6-75m
+  Investors: Touchstone Innovations and E15 Ventures
+  Total: '$11,220,858'
+  Crunchbase: 'https://www.crunchbase.com/organization/sam-labs'
+  Keyword: learn-to-code
+  Level: K-12
+  Type: B to S
+  Country: UK
+  Notes: ''
+- Month: November
+  Name: Ink
+  Amount: '$7,000,000'
+  Series: Venture
+  URL: >-
+    https://techcrunch.com/2017/11/06/ink-raises-7m-to-make-printing-on-college-campuses-less-painful/
+  Investors: 'VTF Capital, Invest Nebraska, SQN Venture Partners, and NE Angels'
+  Total: '$13,650,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/inkcloud-me'
+  Keyword: printing stations
+  Level: Post-sec
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: November
+  Name: HopSkipDrive
+  Amount: '$7,400,000'
+  Series: A
+  URL: >-
+    https://techcrunch.com/2017/11/21/hopskipdrive-raises-another-7-4-million-for-its-uber-for-kids-business/
+  Investors: 'Upfront Ventures, FirstMark, and Student Transportation Inc'
+  Total: '$21,500,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/hopskipdrive'
+  Keyword: transportation and babysitting on demand
+  Level: K-12
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: November
+  Name: Lessonly
+  Amount: '$8,000,000'
+  Series: B
+  URL: >-
+    https://www.edsurge.com/news/2017-11-14-lessonly-nabs-8m-in-series-b-funding-to-help-companies-train-employees
+  Investors: 'Rethink Education, Allos Ventures, High Alpha, and OpenView'
+  Total: '$14,100,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/lesson-ly'
+  Keyword: corporate training
+  Level: Corporate
+  Type: B to B
+  Country: USA
+  Notes: ''
+- Month: November
+  Name: BetterLesson
+  Amount: '$10,000,000'
+  Series: B
+  URL: 'https://www.crunchbase.com/organization/betterlesson'
+  Investors: >-
+    Owl Ventures, The Michael and Susan Dell Foundation, New Markets Venture
+    Partners, and Reach Capital
+  Total: '$21,358,914'
+  Crunchbase: 'https://www.crunchbase.com/organization/betterlesson'
+  Keyword: professional development
+  Level: K-12
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: November
+  Name: Acadsoc
+  Amount: '$15,000,000'
+  Series: B
+  URL: >-
+    https://marketbrief.edweek.org/marketplace-k-12/k-12-dealmaking-brighteye-ventures-wonder-workshop-kano-raise-funds/
+  Investors: Shenzhen Capital Group and IDG Capital Partners
+  Total: '$15,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/acadsoc'
+  Keyword: tutoring
+  Level: K-12
+  Type: B to C
+  Country: Hong Kong
+  Notes: ''
+- Month: November
+  Name: Panorama Education
+  Amount: '$16,000,000'
+  Series: B
+  URL: >-
+    https://www.edsurge.com/news/2017-11-07-panorama-education-raises-16m-to-connect-emotional-academic-wellbeing-with-data
+  Investors: >-
+    Emerson Collective, Spark Capital, Owl Ventures, SoftTechVC, and the Chan
+    Zuckerberg Initiative
+  Total: '$32,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/panorama-education'
+  Keyword: data and analytics and social emotional learning
+  Level: K-12
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: November
+  Name: Kano Computing
+  Amount: '$28,000,000'
+  Series: B
+  URL: >-
+    https://techcrunch.com/2017/11/01/kano-raises-28m-as-its-its-kid-friendly-computer-kits-hit-4500-stores/
+  Investors: >-
+    Index Ventures, LocalGlobe, Collaborative Fund, Marc Benioff, TriplePoint
+    Capital, Breyer Capital, Barclays PLC, Stanford University Venture Fund,
+    John Makinson, and Thames Trust
+  Total: '$44,500,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/kano-computing'
+  Keyword: robotics and learn-to-code
+  Level: K-12
+  Type: B to C
+  Country: UK
+  Notes: ''
+- Month: November
+  Name: Yixue Education
+  Amount: '$41,000,000'
+  Series: Seed
+  URL: >-
+    https://marketbrief.edweek.org/marketplace-k-12/k-12-dealmaking-panorama-education-raises-16-million-explorelearning-acquires-is3d/
+  Investors: >-
+    NGP Capital, SIG China, CASH Capital, New Oriental Education & Technology,
+    and Greenwood Management
+  Total: '$41,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/yixue-education'
+  Keyword: adaptive learning
+  Level: K-12
+  Type: B to C
+  Country: China
+  Notes: ''
+- Month: November
+  Name: Brighteye Ventures
+  Amount: '$58,000,000'
+  Series: Fund I
+  URL: 'https://techcrunch.com/2017/11/01/brighteye-ventures/'
+  Investors: Unknown
+  Total: Unknown
+  Crunchbase: 'https://www.crunchbase.com/organization/brighteye-ventures'
+  Keyword: venture capital firm
+  Level: All
+  Type: B to B
+  Country: France
+  Notes: ''
+- Month: November
+  Name: WorldStrides
+  Amount: '$500,000,000'
+  Series: Equity
+  URL: >-
+    http://www.businesswire.com/news/home/20171109006342/en/Eurazeo-Primavera-Capital-Group-Invest-WorldStrides
+  Investors: Eurazeo and Primavera Capital Group
+  Total: Unknown
+  Crunchbase: 'https://www.crunchbase.com/organization/worldstrides'
+  Keyword: student travel
+  Level: K-12; Post-sec
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: November
+  Name: School-Pass
+  Amount: Undisclosed
+  Series: Unknown
+  URL: >-
+    https://marketbrief.edweek.org/marketplace-k-12/k-12-dealmaking-panorama-education-raises-16-million-explorelearning-acquires-is3d/
+  Investors: A3 Education
+  Total: Unknown
+  Crunchbase: ''
+  Keyword: logistics
+  Level: K-12
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: November
+  Name: Fusion Education Group
+  Amount: Unknown
+  Series: Unknown
+  URL: >-
+    https://marketbrief.edweek.org/marketplace-k-12/k-12-dealmaking-fusion-education-hopskipdrive-raise-funds/
+  Investors: Leeds Equity Partners
+  Total: Unknown
+  Crunchbase: ''
+  Keyword: private school
+  Level: K-12
+  Type: B to C
   Country: USA
   Notes: ''
