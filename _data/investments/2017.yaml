@@ -183,7 +183,7 @@
     Angels and Entrepreneurs, Tashish Tulsian, Tracxn Labs, Vijay Shekhar
     Sharma, and Waterbridge Ventures
   Total: '$6,000,000'
-  Crunchbase: 'https://www.crunchbase.com/organization/unacadem'
+  Crunchbase: 'https://www.crunchbase.com/organization/unacademy'
   Keyword: online education
   Level: K-12
   Type: B to C
@@ -254,7 +254,7 @@
     http://www.indiainfoline.com/article/news-sme-start-ups/cuemath-cuemath-raises-15-million-from-capitalg-and-sequoia-india-117012300123_1.html
   Investors: CapitalG (formerly Google Capital) and Sequoia India
   Total: '$19,000,000'
-  Crunchbase: 'https://www.crunchbase.com/organization/cuemath#/entity'
+  Crunchbase: everfi
   Keyword: tutoring
   Level: K-12
   Type: B to C
@@ -1808,7 +1808,7 @@
   Investors: Bob Xu ZhenEdu Fund and Yuanfudao
   Total: '$6,000,000'
   Crunchbase: 'https://www.crunchbase.com/organization/magicears'
-  Keyword: language learning
+  Keyword: tutoring
   Level: K-12
   Type: B to C
   Country: China
@@ -1899,6 +1899,19 @@
   Country: India
   Notes: ''
 - Month: September
+  Name: Peekapak
+  Amount: '$940,000'
+  Series: Seed
+  URL: ''
+  Investors: 'Imagine K12, Umang Gupta, Voqal Education, and JOLT'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/peekapak'
+  Keyword: social emotional learning
+  Level: K-12
+  Type: B to S
+  Country: Canada
+  Notes: ''
+- Month: September
   Name: Play Biba
   Amount: '$1,300,000'
   Series: Seed
@@ -1950,7 +1963,7 @@
   Total: '$2,500,000'
   Crunchbase: >-
     https://www.crunchbase.com/organization/kings-learning-enguru-spoken-english-app#/entity
-  Keyword: English language learning
+  Keyword: tutoring
   Level: K-12
   Type: B to C
   Country: India
@@ -2616,7 +2629,8 @@
   Name: BetterLesson
   Amount: '$10,000,000'
   Series: B
-  URL: 'https://www.crunchbase.com/organization/betterlesson'
+  URL: >-
+    https://www.edsurge.com/news/2017-11-28-virtual-coaching-platform-betterlesson-raises-10m-funding-roun
   Investors: >-
     Owl Ventures, The Michael and Susan Dell Foundation, New Markets Venture
     Partners, and Reach Capital
@@ -2704,22 +2718,8 @@
   Country: France
   Notes: ''
 - Month: November
-  Name: WorldStrides
-  Amount: '$500,000,000'
-  Series: Equity
-  URL: >-
-    http://www.businesswire.com/news/home/20171109006342/en/Eurazeo-Primavera-Capital-Group-Invest-WorldStrides
-  Investors: Eurazeo and Primavera Capital Group
-  Total: Unknown
-  Crunchbase: 'https://www.crunchbase.com/organization/worldstrides'
-  Keyword: student travel
-  Level: K-12; Post-sec
-  Type: B to S
-  Country: USA
-  Notes: ''
-- Month: November
   Name: School-Pass
-  Amount: Undisclosed
+  Amount: Unknown
   Series: Unknown
   URL: >-
     https://marketbrief.edweek.org/marketplace-k-12/k-12-dealmaking-panorama-education-raises-16-million-explorelearning-acquires-is3d/
@@ -2744,4 +2744,154 @@
   Level: K-12
   Type: B to C
   Country: USA
+  Notes: ''
+- Month: December
+  Name: Noodle Partners
+  Amount: '$14,000,000'
+  Series: A
+  URL: >-
+    https://www.edsurge.com/news/2017-12-01-with-14m-fundraise-noodle-wants-colleges-to-pick-and-choose-how-they-build-online-programs
+  Investors: Owl Ventures
+  Total: '$18,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/noodle-partners'
+  Keyword: online course management
+  Level: Post-sec
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: December
+  Name: ALO7
+  Amount: '$37,500,000'
+  Series: D
+  URL: >-
+    https://marketbrief.edweek.org/marketplace-k-12/k-12-dealmaking-betterlesson-alo7-raise-funds-vitalsource-instructure-make-acquisitions/
+  Investors: >-
+    Legend Capital, GuoHe Capital, UG Investment, Qualcomm, New Oriental, and
+    Vickers Venture Partners
+  Total: '$45,700,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/alo7'
+  Keyword: language learning
+  Level: K-12
+  Type: B to C
+  Country: China
+  Notes: ''
+- Month: December
+  Name: Graduway
+  Amount: '$12,700,000'
+  Series: B
+  URL: >-
+    https://www.prnewswire.com/news-releases/graduway-secures-127-million-in-series-b-funding-from-susquehanna-growth-equity-300568361.html
+  Investors: Susquehanna International Group
+  Total: '$15,800,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/graduway'
+  Keyword: alumni networking
+  Level: Post-sec
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: December
+  Name: Kinedu
+  Amount: '$1,100,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2017-12-05-kinedu-raises-1-1-million-to-help-parents-boost-early-childhood-skill-development
+  Investors: >-
+    Dila Capital, Promotora Social Mexico, Social Capital, Advenio, Stella
+    Maris, and the Stanford-StartX Fund
+  Total: '$1,100,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/kinedu'
+  Keyword: early childhood education
+  Level: Pre-K
+  Type: B to C
+  Country: Mexico
+  Notes: ''
+- Month: December
+  Name: Digital House
+  Amount: '$20,000,000'
+  Series: Venture
+  URL: >-
+    https://www.edsurge.com/news/2017-12-12-rise-fund-leads-20m-round-in-digital-house-a-latin-american-tech-school
+  Investors: >-
+    Omidyar Network, Kaszek Ventures, Endeavor Catalyst, Marcos Galperin, The
+    Rise Fund, and Martin Migoya
+  Total: '$20,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/digital-house'
+  Keyword: coding bootcamp
+  Level: Post-sec
+  Type: B to C
+  Country: Argentina
+  Notes: ''
+- Month: December
+  Name: Flintobox
+  Amount: '$7,000,000'
+  Series: A
+  URL: >-
+    https://marketbrief.edweek.org/marketplace-k-12/k-12-dealmaking-scientific-learning-makes-acquisition-noodle-partners-code-org-raise-funds/
+  Investors: Lightbox
+  Total: '$7,335,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/flintobox-2'
+  Keyword: subscription-based kids activities
+  Level: K-12
+  Type: B to C
+  Country: India
+  Notes: ''
+- Month: December
+  Name: Gakko
+  Amount: '$6,500,000'
+  Series: Unknown
+  URL: >-
+    https://www.edsurge.com/news/2017-12-12-how-a-japanese-magician-is-turning-school-into-project-based-summer-camps
+  Investors: Masada Kobayashi
+  Total: '$7,500,000'
+  Crunchbase: ''
+  Keyword: summer camp
+  Level: K-12
+  Type: B to C
+  Country: Japan
+  Notes: ''
+- Month: December
+  Name: Springboard
+  Amount: '$9,500,000'
+  Series: A
+  URL: >-
+    https://www.edsurge.com/news/2017-12-18-springboard-raises-9-5m-to-help-professional-learners-upskill
+  Investors: >-
+    Costanoa Ventures, Learn Capital, Jyoti Bansal, Blue Fog Capital,
+    Rocketship.vc, and Moneta Ventures
+  Total: '$11,200,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/sliderule'
+  Keyword: online skills training
+  Level: Corporate
+  Type: B to C
+  Country: USA
+  Notes: formerly Sliderule
+- Month: December
+  Name: Connecpath
+  Amount: '$150,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2017-12-18-connecpath-raises-150k-in-pre-seed-round
+  Investors: Unknown
+  Total: '$150,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/connecpath'
+  Keyword: career counseling
+  Level: Post-sec
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: December
+  Name: Peergrade
+  Amount: '$1,500,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2017-12-26-peer-feedback-platform-peergrade-raises-1-5-mmillion
+  Investors: >-
+    Y Combinator, byFounders, Project A, Nordic Makers, Learn Capital,and
+    Futuristic.VC
+  Total: '$1,890,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/peergrade'
+  Keyword: peer feedback
+  Level: Post-sec
+  Type: B to S
+  Country: Denmark
   Notes: ''
