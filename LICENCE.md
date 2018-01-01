@@ -1,8 +1,6 @@
 ## CONTENT
 
-The content on this site is licensed CC-BY-NC-SA by Audrey Watters
-
-Copyright (c) 2017 Audrey Watters
+Copyright (c) 2018 Audrey Watters
 
 ## CODE
 
