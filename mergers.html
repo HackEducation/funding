@@ -9,6 +9,25 @@ title: Education Mergers
 <p><em>These are the education companies that have merged since 2015.</p></em>
 <hr >
 
+<!-- Mergers2018 -->
+
+<p><strong>2018</strong></p>
+
+{% assign mergers = site.data.mergers.2018 %}
+{% assign mergers = mergers | sort:"Name1" %}
+
+<!-- Document -->
+
+{% for merger in mergers %}
+
+<ul>
+<li><strong>{{ merger.Name1 }}</strong> and <strong>{{ merger.Name2 }}</strong> (<a href="{{ merger.URL }}">News Link</a>)</li>
+</ul>
+
+{% endfor %}
+
+<hr >
+
 <!-- Mergers2017 -->
 
 <p><strong>2017</strong></p>
@@ -65,4 +84,4 @@ title: Education Mergers
 {% endfor %}
 
 
-<p style="text-align: right; font-size:12px"><em>This data is powered by a GitHub repository: <a href="https://Hack-Education-Data.github.io/mergers">Hack-Education-Data/mergers</a>. Last updated 30 November 2017</em></p>
+<p style="text-align: right; font-size:12px"><em>This data is powered by a GitHub repository: <a href="https://Hack-Education-Data.github.io/mergers">Hack-Education-Data/mergers</a>. Last updated 31 January 2018</em></p>

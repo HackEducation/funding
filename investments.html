@@ -8,6 +8,7 @@ title: Ed-Tech Investments
 
 <p><table style="width:100%">
   <tr>
+    <td><a href="#2018">2018</a></td>
     <td><a href="#2017">2017</a></td>
     <td><a href="#2016">2016</a></td>
     <td><a href="#2015">2015</a></td>
@@ -32,8 +33,32 @@ title: Ed-Tech Investments
     }
 </script>
 
-<h3 onclick="showhide('inv-2017'); return false;"><a name="2017"></a>2017</h3>
+<h3 onclick="showhide('inv-2018'); return false;"><a name="2018"></a>2018</h3>
+<div style="display: none;" id="inv-2018">
+<br />
+
+<!-- Investments2018 -->
+
+{% assign investments = site.data.investments.2018 %}
+{% assign investments = investments | sort:"Name" %}
+
+<!-- Document -->
+
+{% for investment in investments %}
+
+<ul>
+<li><strong>{{ investment.Name }}</strong> (Amount raised: {{ investment.Amount }}; Investors: {{ investment.Investors }})</li>
+</ul>
+
+{% endfor %}
+
+</div>
+
+<p style="font-size:12px"><a href="#top"><em>Back to Top</em></a></p>
+
+<h3 onclick="showhide('inv-2017'); return false;"><a name="2017"></a>2016</h3>
 <div style="display: none;" id="inv-2017">
+
 <br />
 
 <!-- Investments2017 -->
@@ -61,8 +86,6 @@ title: Ed-Tech Investments
 <br />
 
 <!-- Investments2016 -->
-
-<p><strong>2016</strong></p>
 
 {% assign investments = site.data.investments.2016 %}
 {% assign investments = investments | sort:"Name" %}
@@ -107,4 +130,4 @@ title: Ed-Tech Investments
 <p style="font-size:12px"><a href="#top"><em>Back to Top</em></a></p>
 
 
-<p style="text-align: right; font-size:12px"><em>This data is powered by a GitHub repository: <a href="https://Hack-Education-Data.github.io/investments">Hack-Education-Data/investments</a> Last updated 29 December 2017.</em></p>
+<p style="text-align: right; font-size:12px"><em>This data is powered by a GitHub repository: <a href="https://Hack-Education-Data.github.io/investments">Hack-Education-Data/investments</a> Last updated 31 January 2018</em></p>
