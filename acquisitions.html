@@ -8,6 +8,7 @@ title: Education Acquisitions
 
 <p><table style="width:100%">
   <tr>
+    <td><a href="#2018">2018</a></td>
     <td><a href="#2017">2017</a></td>
     <td><a href="#2016">2016</a></td>
     <td><a href="#2015">2015</a></td>
@@ -32,8 +33,32 @@ title: Education Acquisitions
     }
 </script>
 
+<h3 onclick="showhide('acq-2018'); return false;"><a name="2018"></a>2018</h3>
+<div style="display: none;" id="acq-2018">
+<br />
+
+<!-- Acquisitions2018 -->
+
+{% assign acquisitions = site.data.acquisitions.2018 %}
+{% assign acquisitions = acquisitions | sort:"Name" %}
+
+<!-- Document -->
+
+{% for acquisition in acquisitions %}
+
+<ul>
+<li><strong>{{ acquisition.Name }}</strong> was acquired by {{ acquisition.Acquirer }} (Amount Paid: {{ acquisition.Amount }}; <a href="{{ acquisition.URL }}">News Link</a>)</li>
+</ul>
+
+{% endfor %}
+
+</div>
+
+<p style="font-size:12px"><a href="#top"><em>Back to Top</em></a></p>
+
 <h3 onclick="showhide('acq-2017'); return false;"><a name="2017"></a>2017</h3>
 <div style="display: none;" id="acq-2017">
+
 <br />
 
 <!-- Acquisitions2017 -->
@@ -105,4 +130,4 @@ title: Education Acquisitions
 <p style="font-size:12px"><a href="#top"><em>Back to Top</em></a></p>
 
 
-<p style="text-align: right; font-size:12px"><em>This data is powered by a GitHub repository: <a href="https://Hack-Education-Data.github.io/acquisitions">Hack-Education-Data/acquisitions</a>. Last updated: 29 December 2017</em></p>
+<p style="text-align: right; font-size:12px"><em>This data is powered by a GitHub repository: <a href="https://Hack-Education-Data.github.io/acquisitions">Hack-Education-Data/acquisitions</a>. Last updated: 31 January 2018</em></p>

@@ -9,6 +9,25 @@ title: Education Spinoffs
 <p><em>These are the education companies that have been spun out of other companies (since 2016).</p></em>
 <hr >
 
+<!-- Spinoffs2018 -->
+
+<p><strong>2018</strong></p>
+
+{% assign spinoffs = site.data.spinoffs.2018 %}
+{% assign spinoffs = spinoffs | sort:"Name" %}
+
+<!-- Document -->
+
+{% for spinoff in spinoffs %}
+
+<ul>
+<li><strong>{{ spinoff.Name }}</strong> (Parent company: {{ spinoff.Parent }}; <a href="{{ spinoff.URL }}">News Link</a>)</li>
+</ul>
+
+{% endfor %}
+
+<hr >
+
 <!-- Spinoffs2017 -->
 
 <p><strong>2017</strong></p>
@@ -48,4 +67,4 @@ title: Education Spinoffs
 <hr >
 
 
-<p style="text-align: right; font-size:12px"><em>This data is powered by a GitHub repository: <a href="https://Hack-Education-Data.github.io/spinoffs">Hack-Education-Data/spinoffs</a>. Last updated 10 July 2017</em></p>
+<p style="text-align: right; font-size:12px"><em>This data is powered by a GitHub repository: <a href="https://Hack-Education-Data.github.io/spinoffs">Hack-Education-Data/spinoffs</a>. Last updated 31 January 2018</em></p>
