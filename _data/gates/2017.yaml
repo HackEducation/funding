@@ -1,9 +1,82 @@
+- Name: 'Achieve, Inc.'
+  Amount: '$350,801'
+  Description: To support Achieve's EQuIP and assessment inventory initiatives
+  Notes: ''
+- Name: Achievement First Inc.
+  Amount: '$1,000,707'
+  Description: >-
+    To measure and increase trustee awareness of key higher education challenges
+    and options for addressing them
+  Notes: ''
+- Name: Alder Graduate School of Education
+  Amount: '$2,000,000'
+  Description: >-
+    To help seed and scale a new type of graduate school of education that will
+    be able to operate without significant, on-going philanthropy and to create
+    opportunity and cultivate success for K12 students by recruiting and
+    educating excellent teachers and leaders who reflect our school communities
+  Notes: ''
+- Name: 'Always Be Learning, Inc.'
+  Amount: '$2,200,000'
+  Description: To create school operating models
+  Notes: ''
+- Name: American Association of Community Colleges
+  Amount: '$483,446'
+  Description: >-
+    To build the capacity of national intermediaries to collaboratively support
+    the distribution, implementation and refinement of institution change models
+    that increase completions and equity through regional pathways workshops
+  Notes: ''
+- Name: American Association of State Colleges and Universities
+  Amount: '$1,286,778'
+  Description: >-
+    To build the capacity of national intermediaries to support the
+    distribution, implementation and refinement of comprehensive institution
+    change models
+  Notes: ''
+- Name: American Indian Graduate Center Inc
+  Amount: '$949,514'
+  Description: To enable financial independence for sustainable future growth
+  Notes: ''
+- Name: American Institutes for Research in the Behavioral Sciences
+  Amount: '$1,499,648'
+  Description: >-
+    To provide a set of high performing and high potential postsecondary
+    education institutions with improved reporting capabilities
+  Notes: ''
+- Name: American Institutes for Research in the Behavioral Sciences
+  Amount: '$247,994'
+  Description: >-
+    To advance understanding and practice of the role of state system offices in
+    supporting higher education institutions to close attainment gaps for
+    low-income students, first-generation students, and students of color
+  Notes: ''
 - Name: Arizona State University Foundation for A New American University
   Amount: '$1,999,986'
   Description: >-
     To increase persistence and graduation rates for low income students who
     would otherwise be prevented from continuing their education due to unpaid
     balances resulting in financial holds on their student account
+  Notes: ''
+- Name: Asian & Pacific Islander American Scholarship Fund
+  Amount: '$1,197,131'
+  Description: >-
+    To accelerate and diversify funding sources for long term financial
+    stability in order to support a greater number of underserved minority
+    students nationwide
+  Notes: ''
+- Name: Association of Governing Boards
+  Amount: '$225,056'
+  Description: >-
+    To measure and increase trustee awareness of key higher education challenges
+    and options for addressing them
+  Notes: ''
+- Name: Association of Public and Land-Grant Universities
+  Amount: '$1,199,313'
+  Description: >-
+    To build the capacity of national intermediaries to support the
+    distribution, implementation and refinement of comprehensive institution
+    change models
   Notes: ''
 - Name: Bank Street College of Education
   Amount: '$4,000,000'
@@ -12,15 +85,63 @@
     communities, within and across urban schools districts, to improve teaching
     and learning
   Notes: ''
+- Name: 'BetterWeekdays, Inc'
+  Amount: '$775,000'
+  Description: >-
+    To connect students, universities and employers via technology that develops
+    personalized career pathways and helps universities improve and measure job
+    placement outcomes of grads
+  Notes: ''
+- Name: Brown University
+  Amount: '$66,440'
+  Description: >-
+    To support a national conference on higher education and upward mobility in
+    America
+  Notes: ''
+- Name: Campaign for College Opportunity
+  Amount: '$3,000,000'
+  Description: >-
+    To support the Campaign for College Opportunity in advancing postsecondary
+    education success and attainment in California
+  Notes: ''
 - Name: Carnegie Foundation for the Advancement of Teaching
   Amount: '$350,000'
   Description: >-
     To provide transition funding to the Quantway and Statway math pathways
     model for its long-term sustainability
   Notes: ''
+- Name: Carnegie Foundation for the Advancement of Teaching
+  Amount: '$12,000'
+  Description: To provide conference support for the Carnegie Foundation's annual summit
+  Notes: ''
+- Name: 'Center for Teaching Quality, Inc.'
+  Amount: '$300,000'
+  Description: >-
+    To support the Center for Teaching Quality to continue to evolve its service
+    offerings and develop sustainable operations
+  Notes: ''
+- Name: Chattanooga-Hamilton County Public Education Fund
+  Amount: '$498,914'
+  Description: >-
+    To accelerate college and career readiness rates in four highly challenged
+    high schools and to understand the root causes of low college and career
+    readiness of Black, Latino, and low-income students in Hamilton County
+  Notes: ''
 - Name: Children Now
   Amount: '$350,000'
   Description: To provide general operating support
+  Notes: ''
+- Name: Code.org
+  Amount: '$4,000,000'
+  Description: To support programmatic and evaluation efforts
+  Notes: ''
+- Name: Collaborative for Teaching and Learning
+  Amount: '$50,000'
+  Description: >-
+    To equip teachers with the leadership skills to seek out and implement
+    innovative strategies. Teachers who can build community in their classrooms
+    and schools find that they've built an environment in which those strategies
+    have an opportunity to take root and grow
   Notes: ''
 - Name: Colorado Children's Campaign
   Amount: '$100,000'
@@ -37,9 +158,43 @@
   Amount: '$250,187'
   Description: To support effective use of instructional tools
   Notes: ''
+- Name: Common Sense Media
+  Amount: '$500,087'
+  Description: >-
+    To expand our coverage and provide meaningful training to key student
+    privacy stakeholders (districts, teachers, and vendors) to ensure privacy is
+    a core component of all decision making when selecting and implementing
+    technology for kids in schools
+  Notes: ''
+- Name: 'Communities Foundation of Texas, Inc'
+  Amount: '$2,250,000'
+  Description: For general operating support
+  Notes: ''
 - Name: 'Communities Foundation of Texas, Inc.'
   Amount: '$15,750'
   Description: To support SXSWEdu 2017 Conference
+  Notes: ''
+- Name: Community Center for Education Results
+  Amount: '$125,000'
+  Description: >-
+    To develop a new Road Map Parent Leadership Capacity Building and Advocacy
+    Plan
+  Notes: ''
+- Name: Community College League of California
+  Amount: '$900,000'
+  Description: >-
+    To support capacity building of the California EDGE Coalition to engage more
+    deeply and long-term in postsecondary education policy advocacy
+  Notes: ''
+- Name: Community Partners
+  Amount: '$700,000'
+  Description: >-
+    To support capacity building of California Competes to advance postsecondary
+    success advocacy priorities in California
+  Notes: ''
+- Name: Complete Tennessee
+  Amount: '$600,000'
+  Description: For general operating purposes
   Notes: ''
 - Name: Consortium for School Networking
   Amount: '$297,117'
@@ -47,6 +202,12 @@
     To expand the scope and depth of the Trusted Learning Environment (TLE)
     program, which builds and supports school systems' commitment to protecting
     student data
+  Notes: ''
+- Name: CORE Districts
+  Amount: '$464,750'
+  Description: >-
+    Supplemental support for CORE to enable them to extend their index to build
+    predictors of college success
   Notes: ''
 - Name: Council of Chief State School Officers
   Amount: '$200,000'
@@ -70,11 +231,23 @@
     engage and support a network, create resources for the field, and scale work
     in states
   Notes: ''
+- Name: 'Education Development Center, Inc.'
+  Amount: '$650,000'
+  Description: >-
+    To support and identify the range of technological tools and products
+    available for supporting young Dual Language Learners
+  Notes: ''
 - Name: Education First Consulting LLC
   Amount: '$396,475'
   Description: >-
     To facilitate learning in teacher preparation among the five Transformation
     Centers and within the field more broadly
+  Notes: ''
+- Name: Education Trust Inc
+  Amount: '$1,731,490'
+  Description: >-
+    To support capacity building and the creation of the Ed Trust-West's Higher
+    Education Department
   Notes: ''
 - Name: Education Writers Association
   Amount: '$550,000'
@@ -84,11 +257,28 @@
     public on college and career readiness, postsecondary access and success,
     and the post-election transition and its implications for education
   Notes: ''
+- Name: Equity in Education Coalition
+  Amount: '$5,000'
+  Description: To sponsor the fifth anniversary of the Equity in Education Coalition event
+  Notes: ''
 - Name: Excelencia in Education
   Amount: '$656,719'
   Description: >-
     To provide program capacity-building support and to highlight institutional
     efforts to increase Latino student success
+  Notes: ''
+- Name: 'Excelencia in Education, Inc'
+  Amount: '$800,044'
+  Description: >-
+    To fund organizational capacity-building in support of the forthcoming Seal
+    of Excelencia
+  Notes: ''
+- Name: Florida Coalition on Black Civic Participation Inc
+  Amount: '$30,000'
+  Description: >-
+    To advance Real Talk's 2017-2018 goals of generating greater parent and
+    community involvement in helping to protect equitable policy solutions in
+    Florida's plan for the Every Student Succeeds Act (ESSA)
   Notes: ''
 - Name: Florida College System Foundation Inc.
   Amount: '$7,000'
@@ -106,6 +296,29 @@
     integration and effective implementation of various student success
     initiatives statewide
   Notes: ''
+- Name: Foundation for Excellence in Education Inc.
+  Amount: '$2,600,000'
+  Description: For general operating purposes
+  Notes: ''
+- Name: 'FSG, Inc.'
+  Amount: '$220,834'
+  Description: >-
+    To design and launch a learning and evaluation process for a statewide
+    network of community philanthropists focused on collective action toward
+    equity, especially in education
+  Notes: ''
+- Name: Future of Privacy Forum Education and Innovation Foundation
+  Amount: '$400,000'
+  Description: >-
+    To support FPF's work in creating and supporting both effective use of
+    student data and privacy protections.
+  Notes: ''
+- Name: Georgetown University
+  Amount: '$949,810'
+  Description: >-
+    To support districts and states implement ESSA's financial transparency
+    reporting requirements
+  Notes: ''
 - Name: Georgia State University Foundation Inc
   Amount: '$75,000'
   Description: >-
@@ -113,12 +326,55 @@
     learnings and story about transforming to successfully serve more
     first-generation, low income, and students of color
   Notes: ''
+- Name: Grantmakers for Education
+  Amount: '$71,000'
+  Description: >-
+    To be a sponsor for the Grantmakers for Education Annual Conference "Equity
+    in Education: Empowering Community Voice" to be held in Washington DC on
+    October 15-18, 2017
+  Notes: ''
+- Name: Harvard University
+  Amount: '$250,000'
+  Description: >-
+    To enhance understanding among the American public about education policies
+    needed to drive improvement in student outcomes
+  Notes: ''
+- Name: 'HCM Strategists, LLC'
+  Amount: '$850,021'
+  Description: To build a state advocacy organization network
+  Notes: ''
+- Name: 'HCM Strategists, LLC'
+  Amount: '$2,234,339'
+  Description: >-
+    To build national thought-leader networks, build awareness and help advance
+    broader policy adoption to advance student outcomes
+  Notes: ''
+- Name: Higher Learning Advocates Inc
+  Amount: '$500,616'
+  Description: >-
+    To support strategic planning while assessing and responding to field gaps
+    on higher education quality issues
+  Notes: ''
+- Name: Illustrative Mathematics
+  Amount: '$881,657'
+  Description: To support math curriculum
+  Notes: ''
+- Name: Independent Colleges of Washington
+  Amount: '$234,465'
+  Description: >-
+    To create a unified student voice that engages and educates policymakers
+    about the importance of supporting higher education for all Washingtonians
+  Notes: ''
 - Name: InsideTrack
   Amount: '$1,903,288'
   Description: >-
     To implement coaching and proactive advising programs with community
     colleges that serve large populations of low income, minority and
     first-generation students to improve retention and graduation rates
+  Notes: ''
+- Name: Instruction Partners
+  Amount: '$900,000'
+  Description: To support resource development
   Notes: ''
 - Name: International Documentary Association
   Amount: '$345,500'
@@ -133,11 +389,31 @@
     is aligned to the next generation courseware taxonomy (Courseware in Context
     - CwiC)
   Notes: ''
+- Name: Jacksonville Public Education Fund Inc.
+  Amount: '$30,000'
+  Description: >-
+    To support district superintendent transition research and support
+    activities
+  Notes: ''
+- Name: Kapor Center for Social Impact
+  Amount: '$1,388,730'
+  Description: >-
+    To encourage innovation and discover promising new technologies and
+    entrepreneurs in career advising in K12-Postsecondary spectrum to increase
+    student efficiency, enable more informed academic decisions--ultimately
+    improving student success
+  Notes: ''
 - Name: 'Kent School District #415'
   Amount: $125
   Description: >-
     To ensure the K-12 team's work in equity is grounded in the real experiences
     of teachers, we must engage them directly in our learning
+  Notes: ''
+- Name: 'Kent School District #415'
+  Amount: '$25,000'
+  Description: >-
+    To fund Tableau training for research/analytic staff in Road Map school
+    districts
   Notes: ''
 - Name: Kentucky Department of Education
   Amount: '$50,000'
@@ -146,9 +422,28 @@
     analytic capacity through an Agency Fellowship with the Strategy Data
     Project (SDP)
   Notes: ''
+- Name: Lasell College
+  Amount: '$88,000'
+  Description: >-
+    To further the work of the Lower Cost Models for Independent Colleges
+    Consortium through support of several virtual meetings and one in person
+    meeting
+  Notes: ''
+- Name: Leading Educators Inc
+  Amount: '$1,618,063'
+  Description: >-
+    To strengthen Leading Educators' human capital and organizational capacity
+    to support school districts in their efforts to leverage the power of
+    teacher leaders to develop systems of distributed leadership and
+    professional learning
+  Notes: ''
 - Name: LEAP Innovations
   Amount: '$1,000,000'
   Description: For general operating support
+  Notes: ''
+- Name: Learning Forward
+  Amount: '$149,899'
+  Description: To support annual conference
   Notes: ''
 - Name: 'Literacy Design Collaborative, Inc'
   Amount: '$2,500,000'
@@ -156,6 +451,39 @@
     To fund research and development of online tools and resources to build
     effective standards-driven educators in the classroom to improve student
     outcomes
+  Notes: ''
+- Name: Manhattan Institute for Policy Research Inc
+  Amount: '$599,631'
+  Description: >-
+    To support the development and amplification of higher education solutions
+    from beyond traditional policy circles which improve economic mobility
+  Notes: ''
+- Name: 'Mary Walker School District #207'
+  Amount: '$1,040,610'
+  Description: >-
+    To support the capacity of the Rural Alliance to ensure college and career
+    success through its P-16 network of rural school districts and partners
+  Notes: ''
+- Name: 'Massachusetts Business Alliance for Education, Inc.'
+  Amount: '$100,000'
+  Description: For general operating support
+  Notes: ''
+- Name: 'MDC, Inc.'
+  Amount: '$75,000'
+  Description: >-
+    To fund the strategic dissemination of MDC's Philanthropy as the South's
+    Passing Gear report
+  Notes: ''
+- Name: MDRC
+  Amount: '$469,750'
+  Description: >-
+    To determine - through an independent random assignment study - the impact
+    of a low-cost, scalable growth mindset intervention on the academic outcomes
+    of 9th grade students in a national sample of U.S. high schools
+  Notes: ''
+- Name: Military Child Education Coalition
+  Amount: '$10,000'
+  Description: To support a landscape analysis of aligned funders for programmatic work
   Notes: ''
 - Name: MindWires Consulting
   Amount: '$376,000'
@@ -188,6 +516,13 @@
   Amount: '$2,000,000'
   Description: To provide general operating support
   Notes: ''
+- Name: National Association of Student Financial Aid Administrators
+  Amount: '$524,606'
+  Description: >-
+    To elevate the voices of innovative institutional leaders in service of
+    improving policies to improve college access, success, data transparency,
+    and accountability
+  Notes: ''
 - Name: National Association of Student Personnel Administrators
   Amount: '$70,917'
   Description: >-
@@ -195,339 +530,21 @@
     conducting formative and summative assessment of the quality and scale of
     their implementation of emergency aid
   Notes: ''
-- Name: National Writing Project
-  Amount: '$500,000'
-  Description: >-
-    To assist the National Writing Project's work in scale-up and evaluation of
-    the program
-  Notes: ''
-- Name: New America
-  Amount: '$3,600,000'
-  Description: To provide general operating support
-  Notes: ''
-- Name: New Leaders Inc
-  Amount: '$3,000,001'
-  Description: >-
-    To identify, explore, and vet the optimal opportunities for online and
-    blended professional development in school leadership
-  Notes: ''
-- Name: New Profit Inc.
-  Amount: '$45,000'
-  Description: To support annual conference
-  Notes: ''
-- Name: New Schools Fund dba NewSchools Venture Fund
-  Amount: '$125,496'
-  Description: >-
-    To support NSVF 2017 Summit to provide participant scholarships for leaders
-    of color and build communities of practice among education innovation
-    leaders
-  Notes: ''
-- Name: New Venture Fund
-  Amount: '$200,000'
-  Description: >-
-    To support the work of Learning Heroes to inform and equip parents to be
-    'learning heroes' so that their child, and every child, can succeed
-  Notes: ''
-- Name: 'Policy Innovators In Education Network, Inc.'
-  Amount: '$1,500,000'
-  Description: >-
-    To provide general operating support to Policy Innovators In Education
-    Network, Inc
-  Notes: ''
-- Name: Puget Sound Educational Service District
-  Amount: '$160,000'
-  Description: >-
-    To provide support and build capacity to provide Special Education technical
-    services to Washington State public charter schools
-  Notes: ''
-- Name: RAND Corporation
-  Amount: '$1,156,670'
-  Description: >-
-    To study further understanding of the school level resources necessary to
-    lead to better outcomes for students
-  Notes: ''
-- Name: Raza Development Fund
-  Amount: '$6,000,000'
-  Description: >-
-    To be used to provide facilities support and solutions for charter public
-    schools in Washington State
-  Notes: ''
-- Name: Research Foundation of the City University of New York
-  Amount: '$477,584'
-  Description: To determine a set of standardized leading indicators of student success
-  Notes: ''
-- Name: Riverside County Office of Education
-  Amount: '$75,000'
-  Description: >-
-    To to increase BA attainment rates in Riverside and San Bernardino Counties
-    by focusing on math achievement and alignment with postsecondary
-    expectations. The focus will be on the development and implementation of a
-    fourth year high school math course designed in partnership with regional
-    postsecondary institutions and aligned with the Common Core Standards. They
-    seek to (1) increase mathematics achievement rates (one of the most
-    significant barriers to college completion faced by Inland Empire); (2)
-    decrease remediation rates in mathematics; and (3) increase college
-    completion rates
-  Notes: ''
-- Name: Schoolzilla
-  Amount: '$1,999,568'
-  Description: To support implementation
-  Notes: ''
-- Name: Seattle Public Schools
-  Amount: $225
-  Description: >-
-    To ensure the K-12 team's work in equity is grounded in the real experiences
-    of teachers, we must engage them directly in our learning
-  Notes: ''
-- Name: South Seattle Community College Foundation
-  Amount: '$15,000'
-  Description: >-
-    To support cross-discipline collaboration and engagement of faculty,
-    advisors, counselors, and students in the student success initiative known
-    as Guided Pathways
-  Notes: ''
-- Name: Stanford University
-  Amount: '$1,013,137'
-  Description: >-
-    To construct and disseminate comparable data on educational outcomes to help
-    scholars, policymakers, educators, and parents improve educational
-    opportunity for students
-  Notes: ''
-- Name: Stanford University
-  Amount: '$1,000,000'
-  Description: To provide support in developing resources for content and development
-  Notes: ''
-- Name: Stanford University
-  Amount: '$598,543'
-  Description: >-
-    To understand student and school data in the Washington State charter public
-    school sector
-  Notes: ''
-- Name: State Higher Education Executive Officers Association
-  Amount: '$10,000'
-  Description: To ponsor the 2017 SHEEO Higher Education Policy Conference
-  Notes: ''
-- Name: 'StriveTogether, INC.'
-  Amount: '$25,000'
-  Description: >-
-    To provide support for the October 2017 convening hosted by StriveTogether
-    Inc focused on supporting the success of every child from the cradle to
-    career
-  Notes: ''
-- Name: Summit Public Schools
-  Amount: '$10,000,000'
-  Description: >-
-    To support implementation of the Summit Learning program in targeted
-    geographies, with the goal to increase the number of low-income and minority
-    students achieving college ready outcomes
-  Notes: ''
-- Name: Tavis Smiley Foundation
-  Amount: '$300,000'
-  Description: To promote a national dialogue on addressing equity gaps in higher education
-  Notes: ''
-- Name: 'Teach for America, Inc.'
-  Amount: '$1,500,562'
-  Description: >-
-    To build capacity to recruit and train more high-quality teachers in Oakland
-    to meet the demand created by expanding high quality seats
-  Notes: ''
-- Name: Technology for Education Consortium
-  Amount: '$500,000'
-  Description: To support digital content and education technology
-  Notes: ''
-- Name: The Atlantic
-  Amount: '$750,000'
-  Description: >-
-    To raise awareness of innovative efforts to bridge postsecondary attainment
-    gaps among key stakeholder audiences
-  Notes: ''
-- Name: Third Way Institute
-  Amount: '$4,005,324'
-  Description: >-
-    To facilitate advocacy efforts to improve existing higher education
-    policies, support development of advocacy capacity across key partners, and
-    increase demand for better outcomes for students
-  Notes: ''
-- Name: Thomas B. Fordham Institute
-  Amount: '$1,100,000'
-  Description: To provide general operating support
-  Notes: ''
-- Name: 'Unbounded Learning, Inc.'
-  Amount: '$2,996,473'
-  Description: >-
-    To build a new program model that aims to develop a diverse cadre of middle
-    school math and ELA coaches who can provide high quality, standards-focused
-    professional development to the teachers they serve in Florida and
-    Massachusetts and will serve as a long-term model to accelerate
-    instructional improvement and better student outcomes in other states
-  Notes: ''
-- Name: University of Michigan
-  Amount: '$26,622'
-  Description: >-
-    To explore changes in instruction resulting from Common Core State
-    Standards, and their relationship to student learning
-  Notes: ''
-- Name: University of Southern California
-  Amount: '$450,000'
-  Description: >-
-    To support The Equity in Excellence project's Equity Scorecard - designed by
-    the Center for Urban Education (CUE) at the Rossier School of Education,
-    USC, which helps campuses address the structural problems that impede the
-    success of underserved population
-  Notes: ''
-- Name: VentureWell
-  Amount: '$4,986,444'
-  Description: >-
-    To operate a network of thirty diverse high-performing, high-potential
-    postsecondary institutions and organizational partners from across higher
-    education
-  Notes: ''
-- Name: 'Washington Charter School Development, Inc'
-  Amount: '$3,300,000'
-  Description: >-
-    To fund the development and construction for Washington State charter
-    schools
-  Notes: ''
-- Name: 'Washington Charter School Development, Inc'
-  Amount: '$2,846,860'
-  Description: >-
-    To support operating costs of Washington Charter School Development as well
-    as facilities solutions for charter public schools in Washington State
-  Notes: ''
-- Name: Washington State Charter Schools Association
-  Amount: '$3,500,000'
-  Description: >-
-    To provide general operating support to Washington State Charter Schools
-    Association
-  Notes: ''
-- Name: WestEd
-  Amount: '$477,078'
-  Description: >-
-    To support the efforts of the California State Board of Education and
-    California Department of Education to continue to learn about the statewide
-    implementation of the California Standards
-  Notes: ''
-- Name: Western Interstate Commission for Higher Education
-  Amount: '$4,519,078'
+- Name: National Association of Student Personnel Administrators
+  Amount: '$8,942,761'
   Description: >-
     To establish a key backbone and coordinating role for an emerging collective
     impact network focused on improving student success and outcomes for
     minority, low-income undergraduates via scaled and impactful implementation
-    of high quality digital learning
+    of high quality advising
   Notes: ''
-- Name: Young Invincibles
-  Amount: '$2,500,000'
+- Name: National Association of Student Personnel Administrators
+  Amount: '$396,568'
   Description: >-
-    To support the elevation and inclusion of student voices in improving state
-    and federal postsecondary policies
-  Notes: ''
-- Name: Achievement First Inc.
-  Amount: '$1,000,707'
-  Description: >-
-    To measure and increase trustee awareness of key higher education challenges
-    and options for addressing them
-  Notes: ''
-- Name: American Indian Graduate Center Inc
-  Amount: '$949,514'
-  Description: To enable financial independence for sustainable future growth
-  Notes: ''
-- Name: Asian & Pacific Islander American Scholarship Fund
-  Amount: '$1,197,131'
-  Description: >-
-    To accelerate and diversify funding sources for long term financial
-    stability in order to support a greater number of underserved minority
-    students nationwide
-  Notes: ''
-- Name: Association of Governing Boards
-  Amount: '$225,056'
-  Description: >-
-    To measure and increase trustee awareness of key higher education challenges
-    and options for addressing them
-  Notes: ''
-- Name: Carnegie Foundation for the Advancement of Teaching
-  Amount: '$350,000'
-  Description: >-
-    To provide transition funding to the Quantway and Statway math pathways
-    model for its long-term sustainability
-  Notes: ''
-- Name: 'Center for Teaching Quality, Inc.'
-  Amount: '$300,000'
-  Description: >-
-    To support the Center for Teaching Quality to continue to evolve its service
-    offerings and develop sustainable operations
-  Notes: ''
-- Name: Collaborative for Teaching and Learning
-  Amount: '$50,000'
-  Description: >-
-    To equip teachers with the leadership skills to seek out and implement
-    innovative strategies. Teachers who can build community in their classrooms
-    and schools find that they've built an environment in which those strategies
-    have an opportunity to take root and grow
-  Notes: ''
-- Name: 'Communities Foundation of Texas, Inc'
-  Amount: '$2,250,000'
-  Description: For general operating support
-  Notes: ''
-- Name: Complete Tennessee
-  Amount: '$600,000'
-  Description: For general operating purposes
-  Notes: ''
-- Name: CORE Districts
-  Amount: '$464,750'
-  Description: >-
-    Supplemental support for CORE to enable them to extend their index to build
-    predictors of college success
-  Notes: ''
-- Name: 'Education Development Center, Inc.'
-  Amount: '$650,000'
-  Description: >-
-    To support and identify the range of technological tools and products
-    available for supporting young Dual Language Learners
-  Notes: ''
-- Name: Florida Coalition on Black Civic Participation Inc
-  Amount: '$30,000'
-  Description: >-
-    To advance Real Talk's 2017-2018 goals of generating greater parent and
-    community involvement in helping to protect equitable policy solutions in
-    Florida's plan for the Every Student Succeeds Act (ESSA)
-  Notes: ''
-- Name: Georgetown University
-  Amount: '$949,810'
-  Description: >-
-    To support districts and states implement ESSA's financial transparency
-    reporting requirements
-  Notes: ''
-- Name: Grantmakers for Education
-  Amount: '$71,000'
-  Description: >-
-    To be a sponsor for the Grantmakers for Education Annual Conference "Equity
-    in Education: Empowering Community Voice" to be held in Washington DC on
-    October 15-18, 2017
-  Notes: ''
-- Name: Harvard University
-  Amount: '$250,000'
-  Description: >-
-    To enhance understanding among the American public about education policies
-    needed to drive improvement in student outcomes
-  Notes: ''
-- Name: Illustrative Mathematics
-  Amount: '$881,657'
-  Description: To support math curriculum
-  Notes: ''
-- Name: Instruction Partners
-  Amount: '$900,000'
-  Description: To support resource development
-  Notes: ''
-- Name: Lasell College
-  Amount: '$88,000'
-  Description: >-
-    To further the work of the Lower Cost Models for Independent Colleges
-    Consortium through support of several virtual meetings and one in person
-    meeting
-  Notes: ''
-- Name: Learning Forward
-  Amount: '$149,899'
-  Description: To support annual conference
+    To develop the taxonomy and identify effective practices and programs for
+    administering, communicating, and sustaining on-campus work opportunities
+    provided by colleges to students, including federal work study, internships,
+    co-ops, and other opportunities
   Notes: ''
 - Name: National Board for Professional Teaching Standards Inc
   Amount: '$1,000,000'
@@ -552,371 +569,6 @@
     To support the collection and use of data that will inform the connection
     between postsecondary education and the workforce
   Notes: ''
-- Name: National Student Clearinghouse Research Center
-  Amount: '$2,569,224'
-  Description: >-
-    To enhance the National Student Clearinghouse Research Center's data
-    collective to support the transparency and improvement efforts of
-    post-secondary education initiatives and institutions
-  Notes: ''
-- Name: New Venture Fund
-  Amount: '$247,252'
-  Description: >-
-    To support research that utilizes recently collected, large-scale datasets
-    to examine how learning environments in K-12 and higher education can foster
-    greater motivation for learning and expand educational opportunity
-  Notes: ''
-- Name: North American Council for Online Learning
-  Amount: '$850,000'
-  Description: >-
-    To educate school leaders and policy makers on how personalized,
-    competency-based education models can help all students, especially
-    under-served students, to be college and career-ready
-  Notes: ''
-- Name: Pivot Learning Partners
-  Amount: '$350,000'
-  Description: >-
-    To support district and school level innovation through strategic use of
-    resources
-  Notes: ''
-- Name: Postsecondary National Policy Institute
-  Amount: '$1,300,150'
-  Description: >-
-    To support continuing education and independent policy formation for
-    congressional staff working on postsecondary issues
-  Notes: ''
-- Name: Public Agenda
-  Amount: '$175,000'
-  Description: >-
-    To strengthen Public Agenda's capacity to facilitate conversations about
-    changing institutional policies and practices to increase student success
-  Notes: ''
-- Name: Research for Action Inc
-  Amount: '$700,000'
-  Description: >-
-    To better understand and improve equity of access and attainment as an
-    element of outcome-based funding policies
-  Notes: ''
-- Name: 'Social Finance, Inc.'
-  Amount: '$444,720'
-  Description: >-
-    To conduct a feasibility study exploring the potential of sustainable
-    financing models for scaling the ASAP program at Lorain County Community
-    College, and to understand broader opportunities for capital aggregation
-  Notes: ''
-- Name: Stanford University
-  Amount: '$996,578'
-  Description: >-
-    To generate an evidence base that stakeholders throughout California can use
-    to guide decision-making
-  Notes: ''
-- Name: State Higher Education Executive Officers Association
-  Amount: '$1,496,022'
-  Description: >-
-    To support communities of practice to assist states working to improve
-    common issues with their postsecondary data systems; implementing
-    improvements to an annual survey of state data systems
-  Notes: ''
-- Name: Texas Community College Education Initiative
-  Amount: '$901,888'
-  Description: >-
-    To scale Texas' Board of Trustees Institute training to all community
-    college trustees in the state
-  Notes: ''
-- Name: The Edcamp Foundation
-  Amount: '$1,850,000'
-  Description: To support EdCamp's Urban Initiative
-  Notes: ''
-- Name: 'The Fellowship-BMEC, Inc.'
-  Amount: '$30,000'
-  Description: >-
-    To support a national gathering of Black male educators with the goal of
-    encouraging building infrastructure, connections and support for the ongoing
-    recruitment and retention of African American males in school districts
-    across the country
-  Notes: ''
-- Name: 'The New Teacher Project, Inc.'
-  Amount: '$399,835'
-  Description: To support instructional material adoption
-  Notes: ''
-- Name: The Oregon Community Foundation
-  Amount: '$150,000'
-  Description: >-
-    To support the development of a pipeline of culturally-specific, culturally
-    relevant and rural-based trainers to provide all levels of training for
-    early childhood care and education providers for underserved families
-  Notes: ''
-- Name: United Way of New York City
-  Amount: '$350,000'
-  Description: >-
-    To support the United Way New York City in its role as an intermediary
-    technical assistance provider supporting NYC schools in improving student
-    outcomes
-  Notes: ''
-- Name: University of Washington Foundation
-  Amount: '$41,880'
-  Description: >-
-    To support a convening to define the barriers that need to be reduced and
-    the supports that need to be in place in order to accelerate faculty
-    adoption of our digital learning solutions
-  Notes: ''
-- Name: Young Invincibles
-  Amount: '$357,647'
-  Description: >-
-    To develop knowledge which better quantifies institutional commitment to and
-    investment in student engagement
-  Notes: ''
-- Name: Viridis Learning
-  Amount: '$620,400'
-  Description: >-
-    To improve student success by developing outcome tracking and reporting
-    through enhanced connections to a machine learning & predictive analytics
-    platform that facilitates career pathway exploration for community college
-    students
-  Notes: ''
-- Name: Upswing
-  Amount: '$540,134'
-  Description: >-
-    To improve student success outcomes through retention and advising
-    technology which scales on-campus resources by bringing them online,
-    facilitating advising and academic coaching for nontraditional students
-  Notes: ''
-- Name: New York University
-  Amount: '$2,000,000'
-  Description: >-
-    To explore higher education applications of artificial intelligence/machine
-    learning and virtual reality/mixed reality/augmented reality to solve
-    challenges in HigherEd for first generation, low income and underrepresented
-    minority students
-  Notes: ''
-- Name: ReUp Education
-  Amount: '$738,243'
-  Description: >-
-    To improve student success outcomes by funding the evaluation of low cost,
-    more accessible business models and their efficacy, and validation of
-    student success factors, to assist students with some college but no degree
-    to reenroll and graduate
-  Notes: ''
-- Name: Public Advocates Inc.
-  Amount: '$1,032,927'
-  Description: To support capacity building of Public Advocates' Education Equity Team
-  Notes: ''
-- Name: 'BetterWeekdays, Inc'
-  Amount: '$775,000'
-  Description: >-
-    To connect students, universities and employers via technology that develops
-    personalized career pathways and helps universities improve and measure job
-    placement outcomes of grads
-  Notes: ''
-- Name: Association of Public and Land-Grant Universities
-  Amount: '$1,199,313'
-  Description: >-
-    To build the capacity of national intermediaries to support the
-    distribution, implementation and refinement of comprehensive institution
-    change models
-  Notes: ''
-- Name: American Association of State Colleges and Universities
-  Amount: '$1,286,778'
-  Description: >-
-    To build the capacity of national intermediaries to support the
-    distribution, implementation and refinement of comprehensive institution
-    change models
-  Notes: ''
-- Name: University of South Florida
-  Amount: '$110,000'
-  Description: >-
-    To create and sustain early and ongoing awareness among policymakers, and
-    critical stakeholders, through evidence and best practices, of critical
-    higher education policies
-  Notes: ''
-- Name: National Association of Student Personnel Administrators
-  Amount: '$8,942,761'
-  Description: >-
-    To establish a key backbone and coordinating role for an emerging collective
-    impact network focused on improving student success and outcomes for
-    minority, low-income undergraduates via scaled and impactful implementation
-    of high quality advising
-  Notes: ''
-- Name: Philanthropy Ohio
-  Amount: '$200,000'
-  Description: >-
-    To bring together a core network of partners to advocate for increased
-    postsecondary attainment and equity in student outcomes
-  Notes: ''
-- Name: Campaign for College Opportunity
-  Amount: '$3,000,000'
-  Description: >-
-    To support the Campaign for College Opportunity in advancing postsecondary
-    education success and attainment in California
-  Notes: ''
-- Name: Education Trust Inc
-  Amount: '$1,731,490'
-  Description: >-
-    To support capacity building and the creation of the Ed Trust-West's Higher
-    Education Department
-  Notes: ''
-- Name: Community College League of California
-  Amount: '$900,000'
-  Description: >-
-    To support capacity building of the California EDGE Coalition to engage more
-    deeply and long-term in postsecondary education policy advocacy
-  Notes: ''
-- Name: Community Partners
-  Amount: '$700,000'
-  Description: >-
-    To support capacity building of California Competes to advance postsecondary
-    success advocacy priorities in California
-  Notes: ''
-- Name: The Institute for College Access and Success
-  Amount: '$1,400,000'
-  Description: >-
-    To support increased capacity for TICAS's California policy advocacy
-    efforts, including increasing their role as a technical assistance provider
-    to advocates and policy makers
-  Notes: ''
-- Name: American Institutes for Research in the Behavioral Sciences
-  Amount: '$1,499,648'
-  Description: >-
-    To provide a set of high performing and high potential postsecondary
-    education institutions with improved reporting capabilities
-  Notes: ''
-- Name: American Association of Community Colleges
-  Amount: '$483,446'
-  Description: >-
-    To build the capacity of national intermediaries to collaboratively support
-    the distribution, implementation and refinement of institution change models
-    that increase completions and equity through regional pathways workshops
-  Notes: ''
-- Name: American Institutes for Research in the Behavioral Sciences
-  Amount: '$247,994'
-  Description: >-
-    To advance understanding and practice of the role of state system offices in
-    supporting higher education institutions to close attainment gaps for
-    low-income students, first-generation students, and students of color
-  Notes: ''
-- Name: Research for Action Inc
-  Amount: '$1,050,000'
-  Description: To evaluate the efficacy of free community colleges programs
-  Notes: ''
-- Name: 'Teachers College, Columbia University'
-  Amount: '$1,500,000'
-  Description: >-
-    To grow the critical knowledge base for the maturing and rapidly growing
-    guided pathways movement, which provides an organizing framework for the
-    institutional change models that increase completions and equity
-  Notes: ''
-- Name: Higher Learning Advocates Inc
-  Amount: '$500,616'
-  Description: >-
-    To support strategic planning while assessing and responding to field gaps
-    on higher education quality issues
-  Notes: ''
-- Name: Kapor Center for Social Impact
-  Amount: '$1,388,730'
-  Description: >-
-    To encourage innovation and discover promising new technologies and
-    entrepreneurs in career advising in K12-Postsecondary spectrum to increase
-    student efficiency, enable more informed academic decisions--ultimately
-    improving student success
-  Notes: ''
-- Name: Southern Education Foundation Inc Institutional Department
-  Amount: '$550,000'
-  Description: >-
-    To support and manage a postsecondary success place-based CREO innovation
-    fund
-  Notes: ''
-- Name: Rice University
-  Amount: '$600,000'
-  Description: >-
-    To enable more affordable access to ever improving assessment items in a
-    repository managed by OpenStax and a network of core partners
-  Notes: ''
-- Name: National Association of Student Financial Aid Administrators
-  Amount: '$524,606'
-  Description: >-
-    To elevate the voices of innovative institutional leaders in service of
-    improving policies to improve college access, success, data transparency,
-    and accountability
-  Notes: ''
-- Name: National Association of Student Personnel Administrators
-  Amount: '$396,568'
-  Description: >-
-    To develop the taxonomy and identify effective practices and programs for
-    administering, communicating, and sustaining on-campus work opportunities
-    provided by colleges to students, including federal work study, internships,
-    co-ops, and other opportunities
-  Notes: ''
-- Name: 'Excelencia in Education, Inc'
-  Amount: '$800,044'
-  Description: >-
-    To fund organizational capacity-building in support of the forthcoming Seal
-    of Excelencia
-  Notes: ''
-- Name: University of Washington Foundation
-  Amount: '$250,004'
-  Description: >-
-    To analyze and explain data about postsecondary credentials to practitioners
-    and policymakers
-  Notes: ''
-- Name: University of North Carolina
-  Amount: '$500,000'
-  Description: >-
-    To support the development of North Carolina's statewide educational
-    attainment goal
-  Notes: ''
-- Name: Urban Institute
-  Amount: '$400,000'
-  Description: >-
-    To provide timely, rigorous, and independent analysis on higher education
-    policy issues
-  Notes: ''
-- Name: Tennessee Association of Business Foundation
-  Amount: '$400,001'
-  Description: >-
-    To grow the business community's support of and involvement in Tennessee's
-    credential attainment efforts
-  Notes: ''
-- Name: 'HCM Strategists, LLC'
-  Amount: '$850,021'
-  Description: To build a state advocacy organization network
-  Notes: ''
-- Name: Partnership for Learning
-  Amount: '$100,000'
-  Description: >-
-    To examine barriers to postsecondary attainment with the aim of raising
-    Washington's attainment rate to 70 percent by the year 2023
-  Notes: ''
-- Name: Yes We Must Coalition
-  Amount: '$990,545'
-  Description: >-
-    To support and strengthen a mission-aligned coalition of private independent
-    higher education institutions seeking to improve the retention and
-    completion of its members
-  Notes: ''
-- Name: Washington Student Achievement Council
-  Amount: '$180,000'
-  Description: >-
-    To advance postsecondary success opportunities in Washington's regional
-    economic centers
-  Notes: ''
-- Name: 'MDC, Inc.'
-  Amount: '$75,000'
-  Description: >-
-    To fund the strategic dissemination of MDC's Philanthropy as the South's
-    Passing Gear report
-  Notes: ''
-- Name: Manhattan Institute for Policy Research Inc
-  Amount: '$599,631'
-  Description: >-
-    To support the development and amplification of higher education solutions
-    from beyond traditional policy circles which improve economic mobility
-  Notes: ''
-- Name: Independent Colleges of Washington
-  Amount: '$234,465'
-  Description: >-
-    To create a unified student voice that engages and educates policymakers
-    about the importance of supporting higher education for all Washingtonians
-  Notes: ''
 - Name: National Skills Coalition
   Amount: '$500,000'
   Description: >-
@@ -924,134 +576,22 @@
     debate and align advocacy and communications efforts towards their
     improvement
   Notes: ''
-- Name: The Seattle Foundation
-  Amount: '$100,000'
+- Name: National Student Clearinghouse Research Center
+  Amount: '$2,569,224'
   Description: >-
-    To support stakeholder engagement to disseminate the research findings and
-    policy recommendations to legislative decision makers
+    To enhance the National Student Clearinghouse Research Center's data
+    collective to support the transparency and improvement efforts of
+    post-secondary education initiatives and institutions
   Notes: ''
-- Name: 'HCM Strategists, LLC'
-  Amount: '$2,234,339'
+- Name: National Writing Project
+  Amount: '$500,000'
   Description: >-
-    To build national thought-leader networks, build awareness and help advance
-    broader policy adoption to advance student outcomes
+    To assist the National Writing Project's work in scale-up and evaluation of
+    the program
   Notes: ''
-- Name: State Higher Education Executive Officers Association
-  Amount: '$750,009'
-  Description: To build the capacity of a multi state postsecondary organization
-  Notes: ''
-- Name: Brown University
-  Amount: '$66,440'
-  Description: >-
-    To support a national conference on higher education and upward mobility in
-    America
-  Notes: ''
-- Name: 'Achieve, Inc.'
-  Amount: '$350,801'
-  Description: To support Achieve's EQuIP and assessment inventory initiatives
-  Notes: ''
-- Name: Alder Graduate School of Education
-  Amount: '$2,000,000'
-  Description: >-
-    To help seed and scale a new type of graduate school of education that will
-    be able to operate without significant, on-going philanthropy and to create
-    opportunity and cultivate success for K12 students by recruiting and
-    educating excellent teachers and leaders who reflect our school communities
-  Notes: ''
-- Name: 'Always Be Learning, Inc.'
-  Amount: '$2,200,000'
-  Description: To create school operating models
-  Notes: ''
-- Name: Carnegie Foundation for the Advancement of Teaching
-  Amount: '$12,000'
-  Description: To provide conference support for the Carnegie Foundation's annual summit
-  Notes: ''
-- Name: Chattanooga-Hamilton County Public Education Fund
-  Amount: '$498,914'
-  Description: >-
-    To accelerate college and career readiness rates in four highly challenged
-    high schools and to understand the root causes of low college and career
-    readiness of Black, Latino, and low-income students in Hamilton County
-  Notes: ''
-- Name: Code.org
-  Amount: '$4,000,000'
-  Description: To support programmatic and evaluation efforts
-  Notes: ''
-- Name: Common Sense Media
-  Amount: '$500,087'
-  Description: >-
-    To expand our coverage and provide meaningful training to key student
-    privacy stakeholders (districts, teachers, and vendors) to ensure privacy is
-    a core component of all decision making when selecting and implementing
-    technology for kids in schools
-  Notes: ''
-- Name: Community Center for Education Results
-  Amount: '$125,000'
-  Description: >-
-    To develop a new Road Map Parent Leadership Capacity Building and Advocacy
-    Plan
-  Notes: ''
-- Name: Equity in Education Coalition
-  Amount: '$5,000'
-  Description: To sponsor the fifth anniversary of the Equity in Education Coalition event
-  Notes: ''
-- Name: Foundation for Excellence in Education Inc.
-  Amount: '$2,600,000'
-  Description: For general operating purposes
-  Notes: ''
-- Name: Future of Privacy Forum Education and Innovation Foundation
-  Amount: '$400,000'
-  Description: >-
-    To support FPF's work in creating and supporting both effective use of
-    student data and privacy protections.
-  Notes: ''
-- Name: 'FSG, Inc.'
-  Amount: '$220,834'
-  Description: >-
-    To design and launch a learning and evaluation process for a statewide
-    network of community philanthropists focused on collective action toward
-    equity, especially in education
-  Notes: ''
-- Name: Jacksonville Public Education Fund Inc.
-  Amount: '$30,000'
-  Description: >-
-    To support district superintendent transition research and support
-    activities
-  Notes: ''
-- Name: 'Kent School District #415'
-  Amount: '$25,000'
-  Description: >-
-    To fund Tableau training for research/analytic staff in Road Map school
-    districts
-  Notes: ''
-- Name: Leading Educators Inc
-  Amount: '$1,618,063'
-  Description: >-
-    To strengthen Leading Educators' human capital and organizational capacity
-    to support school districts in their efforts to leverage the power of
-    teacher leaders to develop systems of distributed leadership and
-    professional learning
-  Notes: ''
-- Name: 'Mary Walker School District #207'
-  Amount: '$1,040,610'
-  Description: >-
-    To support the capacity of the Rural Alliance to ensure college and career
-    success through its P-16 network of rural school districts and partners
-  Notes: ''
-- Name: 'Massachusetts Business Alliance for Education, Inc.'
-  Amount: '$100,000'
-  Description: For general operating support
-  Notes: ''
-- Name: MDRC
-  Amount: '$469,750'
-  Description: >-
-    To determine - through an independent random assignment study - the impact
-    of a low-cost, scalable growth mindset intervention on the academic outcomes
-    of 9th grade students in a national sample of U.S. high schools
-  Notes: ''
-- Name: Military Child Education Coalition
-  Amount: '$10,000'
-  Description: To support a landscape analysis of aligned funders for programmatic work
+- Name: New America
+  Amount: '$3,600,000'
+  Description: To provide general operating support
   Notes: ''
 - Name: 'New Classrooms Innovation Partners, Inc.'
   Amount: '$9,000,000'
@@ -1059,6 +599,12 @@
     To unlock the ability to demonstrate a step increase in student outcomes and
     leverage New Classrooms' unique data set and R&D efforts to help to support
     the dawn of a new era in K-12 education research
+  Notes: ''
+- Name: New Leaders Inc
+  Amount: '$3,000,001'
+  Description: >-
+    To identify, explore, and vet the optimal opportunities for online and
+    blended professional development in school leadership
   Notes: ''
 - Name: New Leaders Inc
   Amount: '$1,000,000'
@@ -1076,10 +622,21 @@
     College and Careers (PARCC)
   Notes: ''
 - Name: New Profit Inc.
+  Amount: '$45,000'
+  Description: To support annual conference
+  Notes: ''
+- Name: New Profit Inc.
   Amount: '$350,000'
   Description: >-
     To build demand and show value for postsecondary enrollment data, highlight
     schools/districts that are "beating the odds" for targeted students
+  Notes: ''
+- Name: New Schools Fund dba NewSchools Venture Fund
+  Amount: '$125,496'
+  Description: >-
+    To support NSVF 2017 Summit to provide participant scholarships for leaders
+    of color and build communities of practice among education innovation
+    leaders
   Notes: ''
 - Name: New Teacher Center
   Amount: '$2,000,000'
@@ -1090,6 +647,19 @@
     leadership development through networks of practice focused on teacher
     development, distributed leadership, and overall school and system
     transformation
+  Notes: ''
+- Name: New Venture Fund
+  Amount: '$200,000'
+  Description: >-
+    To support the work of Learning Heroes to inform and equip parents to be
+    'learning heroes' so that their child, and every child, can succeed
+  Notes: ''
+- Name: New Venture Fund
+  Amount: '$247,252'
+  Description: >-
+    To support research that utilizes recently collected, large-scale datasets
+    to examine how learning environments in K-12 and higher education can foster
+    greater motivation for learning and expand educational opportunity
   Notes: ''
 - Name: New Venture Fund
   Amount: '$600,000'
@@ -1114,6 +684,21 @@
 - Name: New York City Charter School Center
   Amount: '$100,000'
   Description: To support general operations
+  Notes: ''
+- Name: New York University
+  Amount: '$2,000,000'
+  Description: >-
+    To explore higher education applications of artificial intelligence/machine
+    learning and virtual reality/mixed reality/augmented reality to solve
+    challenges in HigherEd for first generation, low income and underrepresented
+    minority students
+  Notes: ''
+- Name: North American Council for Online Learning
+  Amount: '$850,000'
+  Description: >-
+    To educate school leaders and policy makers on how personalized,
+    competency-based education models can help all students, especially
+    under-served students, to be college and career-ready
   Notes: ''
 - Name: Northwestern University
   Amount: '$649,946'
@@ -1141,6 +726,52 @@
     To support the Pahara Institute's Fellows and Next Gen leaders programming
     to ensure the development of diverse leadership across the education sector
   Notes: ''
+- Name: Partnership for Learning
+  Amount: '$100,000'
+  Description: >-
+    To examine barriers to postsecondary attainment with the aim of raising
+    Washington's attainment rate to 70 percent by the year 2023
+  Notes: ''
+- Name: Philanthropy Ohio
+  Amount: '$200,000'
+  Description: >-
+    To bring together a core network of partners to advocate for increased
+    postsecondary attainment and equity in student outcomes
+  Notes: ''
+- Name: Pivot Learning Partners
+  Amount: '$350,000'
+  Description: >-
+    To support district and school level innovation through strategic use of
+    resources
+  Notes: ''
+- Name: 'Policy Innovators In Education Network, Inc.'
+  Amount: '$1,500,000'
+  Description: >-
+    To provide general operating support to Policy Innovators In Education
+    Network, Inc
+  Notes: ''
+- Name: Postsecondary National Policy Institute
+  Amount: '$1,300,150'
+  Description: >-
+    To support continuing education and independent policy formation for
+    congressional staff working on postsecondary issues
+  Notes: ''
+- Name: Public Advocates Inc.
+  Amount: '$1,032,927'
+  Description: To support capacity building of Public Advocates' Education Equity Team
+  Notes: ''
+- Name: Public Agenda
+  Amount: '$175,000'
+  Description: >-
+    To strengthen Public Agenda's capacity to facilitate conversations about
+    changing institutional policies and practices to increase student success
+  Notes: ''
+- Name: Puget Sound Educational Service District
+  Amount: '$160,000'
+  Description: >-
+    To provide support and build capacity to provide Special Education technical
+    services to Washington State public charter schools
+  Notes: ''
 - Name: Puget Sound Educational Service District
   Amount: '$240,000'
   Description: >-
@@ -1154,6 +785,18 @@
     change work and create networks of regional math and early learning leaders
     to build on and sustain P-2 math efforts
   Notes: ''
+- Name: RAND Corporation
+  Amount: '$1,156,670'
+  Description: >-
+    To study further understanding of the school level resources necessary to
+    lead to better outcomes for students
+  Notes: ''
+- Name: Raza Development Fund
+  Amount: '$6,000,000'
+  Description: >-
+    To be used to provide facilities support and solutions for charter public
+    schools in Washington State
+  Notes: ''
 - Name: Relay Graduate School of Education
   Amount: '$1,470,167'
   Description: >-
@@ -1161,6 +804,47 @@
     data for the purpose of continuous improvement and will serve as a model for
     implementing a data standard and integrated data system that can be shared
     with other teacher preparation programs
+  Notes: ''
+- Name: Research for Action Inc
+  Amount: '$700,000'
+  Description: >-
+    To better understand and improve equity of access and attainment as an
+    element of outcome-based funding policies
+  Notes: ''
+- Name: Research for Action Inc
+  Amount: '$1,050,000'
+  Description: To evaluate the efficacy of free community colleges programs
+  Notes: ''
+- Name: Research Foundation of the City University of New York
+  Amount: '$477,584'
+  Description: To determine a set of standardized leading indicators of student success
+  Notes: ''
+- Name: ReUp Education
+  Amount: '$738,243'
+  Description: >-
+    To improve student success outcomes by funding the evaluation of low cost,
+    more accessible business models and their efficacy, and validation of
+    student success factors, to assist students with some college but no degree
+    to reenroll and graduate
+  Notes: ''
+- Name: Rice University
+  Amount: '$600,000'
+  Description: >-
+    To enable more affordable access to ever improving assessment items in a
+    repository managed by OpenStax and a network of core partners
+  Notes: ''
+- Name: Riverside County Office of Education
+  Amount: '$75,000'
+  Description: >-
+    To to increase BA attainment rates in Riverside and San Bernardino Counties
+    by focusing on math achievement and alignment with postsecondary
+    expectations. The focus will be on the development and implementation of a
+    fourth year high school math course designed in partnership with regional
+    postsecondary institutions and aligned with the Common Core Standards. They
+    seek to (1) increase mathematics achievement rates (one of the most
+    significant barriers to college completion faced by Inland Empire); (2)
+    decrease remediation rates in mathematics; and (3) increase college
+    completion rates
   Notes: ''
 - Name: 'Rockefeller Philanthropy Advisors, Inc.'
   Amount: '$100,000'
@@ -1182,6 +866,16 @@
     around Social Emotional Learning (SEL) supports during the school day and in
     expanded learning environments
   Notes: ''
+- Name: Schoolzilla
+  Amount: '$1,999,568'
+  Description: To support implementation
+  Notes: ''
+- Name: Seattle Public Schools
+  Amount: $225
+  Description: >-
+    To ensure the K-12 team's work in equity is grounded in the real experiences
+    of teachers, we must engage them directly in our learning
+  Notes: ''
 - Name: Seattle Public Schools
   Amount: '$300,000'
   Description: >-
@@ -1190,15 +884,104 @@
     eliminating opportunity gaps for all students but with a specific focus on
     young African-American males and other students of color
   Notes: ''
+- Name: 'Social Finance, Inc.'
+  Amount: '$444,720'
+  Description: >-
+    To conduct a feasibility study exploring the potential of sustainable
+    financing models for scaling the ASAP program at Lorain County Community
+    College, and to understand broader opportunities for capital aggregation
+  Notes: ''
 - Name: Sound Discipline
   Amount: '$737,963'
   Description: >-
     To support South King County elementary schools in implementing
     social-emotional learning models
   Notes: ''
+- Name: South Seattle Community College Foundation
+  Amount: '$15,000'
+  Description: >-
+    To support cross-discipline collaboration and engagement of faculty,
+    advisors, counselors, and students in the student success initiative known
+    as Guided Pathways
+  Notes: ''
+- Name: Southern Education Foundation Inc Institutional Department
+  Amount: '$550,000'
+  Description: >-
+    To support and manage a postsecondary success place-based CREO innovation
+    fund
+  Notes: ''
+- Name: Stanford University
+  Amount: '$1,013,137'
+  Description: >-
+    To construct and disseminate comparable data on educational outcomes to help
+    scholars, policymakers, educators, and parents improve educational
+    opportunity for students
+  Notes: ''
+- Name: Stanford University
+  Amount: '$1,000,000'
+  Description: To provide support in developing resources for content and development
+  Notes: ''
+- Name: Stanford University
+  Amount: '$598,543'
+  Description: >-
+    To understand student and school data in the Washington State charter public
+    school sector
+  Notes: ''
+- Name: Stanford University
+  Amount: '$996,578'
+  Description: >-
+    To generate an evidence base that stakeholders throughout California can use
+    to guide decision-making
+  Notes: ''
+- Name: State Higher Education Executive Officers Association
+  Amount: '$10,000'
+  Description: To ponsor the 2017 SHEEO Higher Education Policy Conference
+  Notes: ''
+- Name: State Higher Education Executive Officers Association
+  Amount: '$1,496,022'
+  Description: >-
+    To support communities of practice to assist states working to improve
+    common issues with their postsecondary data systems; implementing
+    improvements to an annual survey of state data systems
+  Notes: ''
+- Name: State Higher Education Executive Officers Association
+  Amount: '$750,009'
+  Description: To build the capacity of a multi state postsecondary organization
+  Notes: ''
+- Name: 'StriveTogether, INC.'
+  Amount: '$25,000'
+  Description: >-
+    To provide support for the October 2017 convening hosted by StriveTogether
+    Inc focused on supporting the success of every child from the cradle to
+    career
+  Notes: ''
+- Name: Summit Public Schools
+  Amount: '$10,000,000'
+  Description: >-
+    To support implementation of the Summit Learning program in targeted
+    geographies, with the goal to increase the number of low-income and minority
+    students achieving college ready outcomes
+  Notes: ''
+- Name: Tavis Smiley Foundation
+  Amount: '$300,000'
+  Description: To promote a national dialogue on addressing equity gaps in higher education
+  Notes: ''
+- Name: 'Teach for America, Inc.'
+  Amount: '$1,500,562'
+  Description: >-
+    To build capacity to recruit and train more high-quality teachers in Oakland
+    to meet the demand created by expanding high quality seats
+  Notes: ''
 - Name: 'Teach Plus, Incorporated'
   Amount: '$2,000,000'
   Description: For general operating support
+  Notes: ''
+- Name: 'Teachers College, Columbia University'
+  Amount: '$1,500,000'
+  Description: >-
+    To grow the critical knowledge base for the maturing and rapidly growing
+    guided pathways movement, which provides an organizing framework for the
+    institutional change models that increase completions and equity
   Notes: ''
 - Name: 'Teachers College, Columbia University'
   Amount: '$151,258'
@@ -1215,6 +998,22 @@
     To build grassroots capacity for both advocacy and solution building to
     address disproportionate exclusionary discipline in the Road Map region
   Notes: ''
+- Name: Technology for Education Consortium
+  Amount: '$500,000'
+  Description: To support digital content and education technology
+  Notes: ''
+- Name: Tennessee Association of Business Foundation
+  Amount: '$400,001'
+  Description: >-
+    To grow the business community's support of and involvement in Tennessee's
+    credential attainment efforts
+  Notes: ''
+- Name: Texas Community College Education Initiative
+  Amount: '$901,888'
+  Description: >-
+    To scale Texas' Board of Trustees Institute training to all community
+    college trustees in the state
+  Notes: ''
 - Name: Texas Tech University
   Amount: '$1,464,882'
   Description: >-
@@ -1230,6 +1029,59 @@
     and publications, and partnerships with education leaders across policy and
     practice
   Notes: ''
+- Name: The Atlantic
+  Amount: '$750,000'
+  Description: >-
+    To raise awareness of innovative efforts to bridge postsecondary attainment
+    gaps among key stakeholder audiences
+  Notes: ''
+- Name: The Edcamp Foundation
+  Amount: '$1,850,000'
+  Description: To support EdCamp's Urban Initiative
+  Notes: ''
+- Name: 'The Fellowship-BMEC, Inc.'
+  Amount: '$30,000'
+  Description: >-
+    To support a national gathering of Black male educators with the goal of
+    encouraging building infrastructure, connections and support for the ongoing
+    recruitment and retention of African American males in school districts
+    across the country
+  Notes: ''
+- Name: The Institute for College Access and Success
+  Amount: '$1,400,000'
+  Description: >-
+    To support increased capacity for TICAS's California policy advocacy
+    efforts, including increasing their role as a technical assistance provider
+    to advocates and policy makers
+  Notes: ''
+- Name: 'The New Teacher Project, Inc.'
+  Amount: '$399,835'
+  Description: To support instructional material adoption
+  Notes: ''
+- Name: The Oregon Community Foundation
+  Amount: '$150,000'
+  Description: >-
+    To support the development of a pipeline of culturally-specific, culturally
+    relevant and rural-based trainers to provide all levels of training for
+    early childhood care and education providers for underserved families
+  Notes: ''
+- Name: The Seattle Foundation
+  Amount: '$100,000'
+  Description: >-
+    To support stakeholder engagement to disseminate the research findings and
+    policy recommendations to legislative decision makers
+  Notes: ''
+- Name: Third Way Institute
+  Amount: '$4,005,324'
+  Description: >-
+    To facilitate advocacy efforts to improve existing higher education
+    policies, support development of advocacy capacity across key partners, and
+    increase demand for better outcomes for students
+  Notes: ''
+- Name: Thomas B. Fordham Institute
+  Amount: '$1,100,000'
+  Description: To provide general operating support
+  Notes: ''
 - Name: Tides Center
   Amount: '$529,960'
   Description: >-
@@ -1243,15 +1095,71 @@
     mobilize their federation of more than 2,500 state and local business
     chambers in support of education advocacy
   Notes: ''
+- Name: 'Unbounded Learning, Inc.'
+  Amount: '$2,996,473'
+  Description: >-
+    To build a new program model that aims to develop a diverse cadre of middle
+    school math and ELA coaches who can provide high quality, standards-focused
+    professional development to the teachers they serve in Florida and
+    Massachusetts and will serve as a long-term model to accelerate
+    instructional improvement and better student outcomes in other states
+  Notes: ''
+- Name: United Way of New York City
+  Amount: '$350,000'
+  Description: >-
+    To support the United Way New York City in its role as an intermediary
+    technical assistance provider supporting NYC schools in improving student
+    outcomes
+  Notes: ''
 - Name: 'University of California, Los Angeles'
   Amount: '$1,500,000'
   Description: To support student engagement
+  Notes: ''
+- Name: University of Michigan
+  Amount: '$26,622'
+  Description: >-
+    To explore changes in instruction resulting from Common Core State
+    Standards, and their relationship to student learning
+  Notes: ''
+- Name: University of North Carolina
+  Amount: '$500,000'
+  Description: >-
+    To support the development of North Carolina's statewide educational
+    attainment goal
+  Notes: ''
+- Name: University of South Florida
+  Amount: '$110,000'
+  Description: >-
+    To create and sustain early and ongoing awareness among policymakers, and
+    critical stakeholders, through evidence and best practices, of critical
+    higher education policies
+  Notes: ''
+- Name: University of Southern California
+  Amount: '$450,000'
+  Description: >-
+    To support The Equity in Excellence project's Equity Scorecard - designed by
+    the Center for Urban Education (CUE) at the Rossier School of Education,
+    USC, which helps campuses address the structural problems that impede the
+    success of underserved population
   Notes: ''
 - Name: University of Washington
   Amount: '$100,000'
   Description: >-
     To support a professional development conference for K-12 educators in
     Washington state
+  Notes: ''
+- Name: University of Washington Foundation
+  Amount: '$41,880'
+  Description: >-
+    To support a convening to define the barriers that need to be reduced and
+    the supports that need to be in place in order to accelerate faculty
+    adoption of our digital learning solutions
+  Notes: ''
+- Name: University of Washington Foundation
+  Amount: '$250,004'
+  Description: >-
+    To analyze and explain data about postsecondary credentials to practitioners
+    and policymakers
   Notes: ''
 - Name: University of Washington Foundation
   Amount: '$162,131'
@@ -1294,4 +1202,109 @@
     Data Model, producing a cost-effective, open-source solution for teacher
     prep programs to provide their stakeholders access to data that they can
     utilize for continuous improvement decisions
+  Notes: ''
+- Name: Upswing
+  Amount: '$540,134'
+  Description: >-
+    To improve student success outcomes through retention and advising
+    technology which scales on-campus resources by bringing them online,
+    facilitating advising and academic coaching for nontraditional students
+  Notes: ''
+- Name: Urban Institute
+  Amount: '$400,000'
+  Description: >-
+    To provide timely, rigorous, and independent analysis on higher education
+    policy issues
+  Notes: ''
+- Name: VentureWell
+  Amount: '$4,986,444'
+  Description: >-
+    To operate a network of thirty diverse high-performing, high-potential
+    postsecondary institutions and organizational partners from across higher
+    education
+  Notes: ''
+- Name: Viridis Learning
+  Amount: '$620,400'
+  Description: >-
+    To improve student success by developing outcome tracking and reporting
+    through enhanced connections to a machine learning & predictive analytics
+    platform that facilitates career pathway exploration for community college
+    students
+  Notes: ''
+- Name: 'Washington Charter School Development, Inc'
+  Amount: '$3,300,000'
+  Description: >-
+    To fund the development and construction for Washington State charter
+    schools
+  Notes: ''
+- Name: 'Washington Charter School Development, Inc'
+  Amount: '$2,846,860'
+  Description: >-
+    To support operating costs of Washington Charter School Development as well
+    as facilities solutions for charter public schools in Washington State
+  Notes: ''
+- Name: Washington State Charter Schools Association
+  Amount: '$3,500,000'
+  Description: >-
+    To provide general operating support to Washington State Charter Schools
+    Association
+  Notes: ''
+- Name: Washington Student Achievement Council
+  Amount: '$180,000'
+  Description: >-
+    To advance postsecondary success opportunities in Washington's regional
+    economic centers
+  Notes: ''
+- Name: WestEd
+  Amount: '$477,078'
+  Description: >-
+    To support the efforts of the California State Board of Education and
+    California Department of Education to continue to learn about the statewide
+    implementation of the California Standards
+  Notes: ''
+- Name: Western Interstate Commission for Higher Education
+  Amount: '$4,519,078'
+  Description: >-
+    To establish a key backbone and coordinating role for an emerging collective
+    impact network focused on improving student success and outcomes for
+    minority, low-income undergraduates via scaled and impactful implementation
+    of high quality digital learning
+  Notes: ''
+- Name: Yes We Must Coalition
+  Amount: '$990,545'
+  Description: >-
+    To support and strengthen a mission-aligned coalition of private independent
+    higher education institutions seeking to improve the retention and
+    completion of its members
+  Notes: ''
+- Name: Young Invincibles
+  Amount: '$2,500,000'
+  Description: >-
+    To support the elevation and inclusion of student voices in improving state
+    and federal postsecondary policies
+  Notes: ''
+- Name: Young Invincibles
+  Amount: '$357,647'
+  Description: >-
+    To develop knowledge which better quantifies institutional commitment to and
+    investment in student engagement
+  Notes: ''
+- Name: University of Texas Austin
+  Amount: '$85,000'
+  Description: >-
+    To provide an honorarium as part of an ROI analysis for better decision
+    making to scale solution efforts in a shared services model, especially
+    those that are most beneficial to outcomes for low-income and minority
+    students
+  Notes: ''
+- Name: Achieving the Dream
+  Amount: '$1,345,258'
+  Description: >-
+    To build the capacity of national intermediaries to collaboratively support
+    the distribution, implementation and refinement of institution change models
+    that increase completions and equity through coach training
+  Notes: ''
+- Name: Hope Street Group
+  Amount: '$972,000'
+  Description: For general operating purposes
   Notes: ''
