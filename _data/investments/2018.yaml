@@ -281,3 +281,275 @@
   Type: B to C
   Country: China
   Notes: ''
+- Month: February
+  Name: AdmitHub
+  Amount: '$100,000'
+  Series: Venture
+  URL: >-
+    https://www.edsurge.com/news/2018-02-05-college-chatbot-startup-admithub-raises-100k-from-michelson-20mm-foundation
+  Investors: Michelson 20MM Foundation
+  Total: '$3,800,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/admithub'
+  Keyword: chat bot advisor
+  Level: Post-sec
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: February
+  Name: Edovo
+  Amount: '$250,000'
+  Series: Venture
+  URL: >-
+    https://techcrunch.com/2018/02/01/edovo-a-startup-that-provides-tablet-based-education-to-incarcerated-people-snags-some-funding/
+  Investors: Twilio
+  Total: '$250,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/jail-education-solutions'
+  Keyword: prison education
+  Level: Prison
+  Type: B to B
+  Country: USA
+  Notes: ''
+- Month: February
+  Name: Emmersion Learning
+  Amount: '$600,000'
+  Series: Seed
+  URL: >-
+    https://marketbrief.edweek.org/marketplace-k-12/k-12-dealmaking-quizlet-raises-20-million-emc-school-acquires-zulama/
+  Investors: Zylun Global and Access to Education
+  Total: '$600,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/emmersion-learning'
+  Keyword: assessment
+  Level: Corporate
+  Type: B to B
+  Country: USA
+  Notes: ''
+- Month: February
+  Name: The Graide Network
+  Amount: '$1,000,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2018-02-22-company-that-wants-to-improve-k-12-students-writing-skills-raises-over-1-million
+  Investors: Network Ventures
+  Total: '$1,040,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/the-graide-network'
+  Keyword: temporary teachers
+  Level: K-12
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: February
+  Name: Kaleidoscope Group
+  Amount: '$1,300,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2018-02-12-scholarship-platform-kaleidoscope-group-raises-1-3m-seed-round
+  Investors: 'Gopher Angels, Yonoventures, and gener8tor'
+  Total: '$1,700,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/kaleidoscope-group-pbc'
+  Keyword: financial aid management
+  Level: Post-sec
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: February
+  Name: CollegeDekho
+  Amount: '$2,000,000'
+  Series: Venture
+  URL: >-
+    https://marketbrief.edweek.org/marketplace-k-12/k-12-dealmaking-quizlet-raises-20-million-emc-school-acquires-zulama/
+  Investors: Man Capital and GirnarSoft
+  Total: '$5,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/collegedekho#section-funding-rounds'
+  Keyword: college marketing
+  Level: Post-sec
+  Type: B to S
+  Country: India
+  Notes: ''
+- Month: February
+  Name: AstrumU
+  Amount: '$3,000,000'
+  Series: Seed
+  URL: >-
+    https://www.geekwire.com/2018/seattle-startup-vet-raises-cash-stealthy-astrumu-looks-bring-efficiency-higher-education-machine-learning/
+  Investors: Ignition Partners and Correlation Ventures
+  Total: '$3,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/astrumu-inc'
+  Keyword: career recommendation
+  Level: Post-sec
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: February
+  Name: Sofatutor
+  Amount: '$3,600,000'
+  Series: D
+  URL: >-
+    https://marketbrief.edweek.org/marketplace-k-12/k-12-dealmaking-varsity-tutors-raises-50-million-turnitin-acquires-vericite/
+  Investors: 'Frog Capital, Acton Capital, and JCMB'
+  Total: '$8,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/sofatutor'
+  Keyword: test prep
+  Level: K-12
+  Type: B to S
+  Country: Germany
+  Notes: ''
+- Month: February
+  Name: Strive Talent
+  Amount: '$3,800,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2018-02-28-strive-talent-raises-3-8m-to-bring-the-bootcamp-model-to-sales-jobs
+  Investors: >-
+    Upfront Ventures, Kapor Capital, Webb Investment Network, NextView Ventures,
+    University Ventures, Graph Ventures
+  Total: '$3,800,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/strive-talent'
+  Keyword: hiring
+  Level: Corporate
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: February
+  Name: Niche.com
+  Amount: '$6,600,000'
+  Series: B
+  URL: >-
+    https://www.geekwire.com/2018/niche-raises-6-6m-aims-one-pittsburghs-game-changing-startups-school-neighborhood-reviews/
+  Investors: Grit Capital Partners and Allen & Company
+  Total: '$6,600,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/niche-com'
+  Keyword: school recommendation
+  Level: K-12
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: February
+  Name: Meritize
+  Amount: '$6,800,000'
+  Series: Seed
+  URL: >-
+    https://marketbrief.edweek.org/marketplace-k-12/k-12-dealmaking-agile-investment-acquires-lightsail-meritize-graide-network-raise-funds/
+  Investors: >-
+    Colchis Capital, Chicago Ventures, Cube Financial Holdings, ECMC, College
+    Loan Corporation, University Ventures, City Light Capital, PC Squared
+  Total: '$6,800,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/meritize'
+  Keyword: student loans
+  Level: Post-sec
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: February
+  Name: Smart Sparrow
+  Amount: '$7,500,000'
+  Series: Venture
+  URL: >-
+    https://www.edsurge.com/news/2018-02-05-act-bets-big-on-analytics-adaptive-learning-with-7-5m-investment-in-smart-sparrow
+  Investors: ACT
+  Total: '$23,500,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/smart-sparrow'
+  Keyword: adaptive learning
+  Level: Post-sec
+  Type: B to S
+  Country: Australia
+  Notes: ''
+- Month: February
+  Name: Kuali
+  Amount: '$10,000,000'
+  Series: Venture
+  URL: >-
+    https://www.edsurge.com/news/2018-02-13-almost-four-years-after-creating-a-for-profit-kuali-raises-10m-from-owl-ventures
+  Investors: Owl Ventures
+  Total: '$10,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/kuali'
+  Keyword: learning management system
+  Level: Post-sec
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: February
+  Name: IMAX Corporation
+  Amount: '$13,500,000'
+  Series: Unknown
+  URL: >-
+    https://www.edsurge.com/news/2018-02-20-dell-foundation-leads-13-5-investment-in-indian-edtech-startup
+  Investors: 'Michael & Susan Dell Foundation, LGT Impact, and Aspada'
+  Total: Unknown
+  Crunchbase: 'https://www.crunchbase.com/organization/imax-program'
+  Keyword: textbook
+  Level: K-12
+  Type: B to S
+  Country: India
+  Notes: ''
+- Month: February
+  Name: Kidaptive
+  Amount: '$19,100,000'
+  Series: C
+  URL: >-
+    https://techcrunch.com/2018/02/20/edtech-company-kidaptive-raises-19-1-million-for-its-adaptive-learning-platform/
+  Investors: Formation 8 and Woongjin Thinkbig
+  Total: '$38,700,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/kidaptive'
+  Keyword: adaptive learning
+  Level: K-12
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: February
+  Name: Quizlet
+  Amount: '$20,000,000'
+  Series: B
+  URL: >-
+    https://techcrunch.com/2018/02/06/quizlet-raises-20-million-for-virtual-flash-cards/
+  Investors: >-
+    Union Square Ventures, Icon Ventures, Altos Ventures, Costanoa Ventures, and
+    Owl Ventures
+  Total: '$32,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/quizlet'
+  Keyword: flashcards
+  Level: 'K-12, Post-sec'
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: February
+  Name: Singularity University
+  Amount: '$32,000,000'
+  Series: B
+  URL: 'https://techcrunch.com/2018/02/15/singularity-university/'
+  Investors: >-
+    Silicon Valley Bank, PeopleFund, TAL Education Group, WestRiver Capital, and
+    Boeing Ventures
+  Total: '$54,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/singularity-university'
+  Keyword: for-profit higher ed
+  Level: Post-sec
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: February
+  Name: Varsity Tutors
+  Amount: '$50,000,000'
+  Series: C
+  URL: >-
+    https://techcrunch.com/2018/02/14/varsity-tutors-lands-50-million-in-series-c-funding/
+  Investors: 'Learn Capital, the Chan Zuckerberg Initiative, and TCV'
+  Total: '$107,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/varsity-tutors'
+  Keyword: tutoring
+  Level: K-12
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: February
+  Name: Seesaw
+  Amount: Undisclosed
+  Series: A
+  URL: 'https://techcrunch.com/2018/02/07/seesaw-for-schools/'
+  Investors: 'Jeff Weiner, Wayee Chu, and Bubba Murarka'
+  Total: Unknown
+  Crunchbase: 'https://www.crunchbase.com/organization/seesaw-2'
+  Keyword: digital portfolios
+  Level: K-12
+  Type: B to S
+  Country: USA
+  Notes: ''
