@@ -12,33 +12,36 @@ title: Gates Foundation Grants
 
 <p><table style="width:100%">
   <tr>
+    <td><a href="#2018">2018</a></td>
     <td><a href="#2017">2017</a></td>
     <td><a href="#2016">2016</a></td>
     <td><a href="#2015">2015</a></td>
-    <td><a href="#2014">2014</a></td>
   </tr>
   <tr>  
+    <td><a href="#2014">2014</a></td>
     <td><a href="#2013">2013</a></td>
     <td><a href="#2012">2012</a></td>
     <td><a href="#2011">2011</a></td>
-    <td><a href="#2010">2010</a></td>
   </tr> 
   <tr>
+    <td><a href="#2010">2010</a></td>
     <td><a href="#2009">2009</a></td>
     <td><a href="#2008">2008</a></td>
     <td><a href="#2007">2007</a></td>
-    <td><a href="#2006">2006</a></td>
   </tr>
-  <tr>  
+  <tr> 
+    <td><a href="#2006">2006</a></td> 
     <td><a href="#2005">2005</a></td>
     <td><a href="#2004">2004</a></td>
     <td><a href="#2003">2003</a></td>
-    <td><a href="#2002">2002</a></td>
   </tr>
-  <tr>  
+  <tr> 
+    <td><a href="#2002">2002</a></td> 
     <td><a href="#2001">2001</a></td>
     <td><a href="#2000">2000</a></td>
     <td><a href="#1999">1999</a></td>
+  </tr>
+  <tr>  
     <td><a href="#1998">1998</a></td>
   </tr>
 </table></p> 
@@ -60,6 +63,32 @@ title: Gates Foundation Grants
      }
     }
 </script>
+
+<h3 onclick="showhide('funding-2018'); return false;"><a name="2018"></a>2018</h3>
+<div style="display: none;" id="funding-2018">
+<br />
+
+<!-- Grants -->
+{% assign grants = site.data.gates.2018 %}
+{% assign grants = grants | sort:"Name" %}
+
+<!-- Document -->
+
+{% for grant in grants %}
+
+<p><strong>{{ grant.Name }}</strong></p>
+
+<p>Amount: {{ grant.Amount }}</p>
+
+<p>{{ grant. Description }}</p>
+
+<hr>
+
+{% endfor %}
+
+</div>
+
+<p style="font-size:12px"><a href="#top"><em>Back to Top</em></a></p>
 
 <h3 onclick="showhide('funding-2017'); return false;"><a name="2017"></a>2017</h3>
 <div style="display: none;" id="funding-2017">
@@ -591,5 +620,5 @@ title: Gates Foundation Grants
 
 <p style="font-size:12px"><a href="#top"><em>Back to Top</em></a></p>
 
-<p style="text-align: right; font-size:12px"><em>This data is powered by a GitHub repository: <a href="https://Hack-Education-Data.github.io/gates-foundation">Hack-Education-Data/gates-foundation</a>. Last updated: 1 February 2018</em></p>
+<p style="text-align: right; font-size:12px"><em>This data is powered by a GitHub repository: <a href="https://Hack-Education-Data.github.io/gates-foundation">Hack-Education-Data/gates-foundation</a>. Last updated: 28 February 2018</em></p>
 
