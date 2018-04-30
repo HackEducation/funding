@@ -822,3 +822,257 @@
   Type: B to S
   Country: USA
   Notes: ''
+- Month: April
+  Name: Edmobile
+  Amount: '$826,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/news/2018-04-27-edmobile-raises-approximately-826-00-usd
+  Investors: Unitus Seed Fund
+  Total: '$1,500,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/sling-app'
+  Keyword: language learning
+  Level: K-12
+  Type: B to C
+  Country: India
+  Notes: ''
+- Month: April
+  Name: QuizRR
+  Amount: '$1,300,000'
+  Series: Unknown
+  URL: >-
+    https://www.edsurge.com/news/2018-04-27-swedish-edtech-company-quizrr-raises-1-3-million
+  Investors: Norrsken Founders Fun and Working Capital
+  Total: Unknown
+  Crunchbase: 'https://www.crunchbase.com/organization/quizrr'
+  Keyword: skills training
+  Level: Corporate
+  Type: B to C
+  Country: Sweden
+  Notes: ''
+- Month: April
+  Name: 3DBear
+  Amount: '$1,500,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2018-04-03-finnish-3dbear-raises-1-5m-to-bring-ar-3d-printing-experiences-to-learners
+  Investors: LearnStart (Learn Capital) and Rethink Education
+  Total: '$2,800,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/3dbear'
+  Keyword: 3D modeling
+  Level: K-12
+  Type: B to S
+  Country: Finland
+  Notes: ''
+- Month: April
+  Name: Lingumi
+  Amount: '$1,700,000'
+  Series: Seed
+  URL: 'https://techcrunch.com/2018/04/17/lingumi/'
+  Investors: ADV
+  Total: '$1,700,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/lingumi'
+  Keyword: language learning
+  Level: K-12
+  Type: B to C
+  Country: UK
+  Notes: ''
+- Month: April
+  Name: BookNook
+  Amount: '$2,000,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2018-04-11-booknook-books-another-2m-to-expand-digital-group-reading-platform
+  Investors: >-
+    Better Ventures, the Urban Innovation Fund, Reach Capital, Impact Engine,
+    Kapor Capital, Redhouse Education, and Edovate Capital
+  Total: '$3,200,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/booknook'
+  Keyword: reading software
+  Level: K-12
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: April
+  Name: Allovue
+  Amount: '$2,000,000'
+  Series: A
+  URL: >-
+    https://www.edsurge.com/news/2018-04-25-finance-software-developer-allovue-rasies-2m-to-help-districts-navigate-essa
+  Investors: 'Kapor Capital, Rethink Education, and Serious Change'
+  Total: '$8,900,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/allovue#section-locked-marketplace'
+  Keyword: financial management
+  Level: K-12
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: April
+  Name: Techtonic Group
+  Amount: '$2,000,000'
+  Series: A
+  URL: >-
+    https://www.edsurge.com/news/2018-04-25-in-first-round-of-funding-techtonic-group-raises-2-million
+  Investors: University Ventures and Zoma Capital
+  Total: '$2,700,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/techtonic-group-inc'
+  Keyword: software training
+  Level: Post-sec
+  Type: B to B
+  Country: USA
+  Notes: ''
+- Month: April
+  Name: Enuma
+  Amount: '$4,000,000'
+  Series: B
+  URL: >-
+    https://www.edsurge.com/news/2018-04-25-game-based-software-company-enuma-raises-4-million
+  Investors: 'YellowDog, HG Initiative, C Program, NX Venture Partners, and DSC Investment'
+  Total: '$8,600,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/locomotive-labs'
+  Keyword: educational gaming
+  Level: K-12
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: April
+  Name: Teachable
+  Amount: '$4,000,000'
+  Series: A
+  URL: >-
+    https://www.edsurge.com/news/2018-04-17-teachable-raises-4m-to-help-online-instructors-grow-their-own-business
+  Investors: Accomplice Ventures and Naval Ravikant
+  Total: '$12,500,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/fedora'
+  Keyword: online educaiton marketplace
+  Level: Post-sec
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: April
+  Name: Aula
+  Amount: '$4,200,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2018-04-18-communication-platform-aula-raises-4-2-million
+  Investors: 'Project A, Brighteye Ventures, Sunstone, and Nordic Makers'
+  Total: '$4,200,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/aulaeducation'
+  Keyword: communication
+  Level: K-12
+  Type: B to S
+  Country: UK
+  Notes: ''
+- Month: April
+  Name: Holberton School
+  Amount: '$8,000,000'
+  Series: A
+  URL: >-
+    https://techcrunch.com/2018/04/09/holberton-raises-8m-for-its-full-stack-engineering-school/
+  Investors: 'daphni, Trinity Ventures, and the Omidyar Network'
+  Total: '$12,500,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/holberton-school'
+  Keyword: coding bootcamp
+  Level: Post-sec
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: April
+  Name: Edovo
+  Amount: '$9,800,000'
+  Series: A
+  URL: >-
+    https://techcrunch.com/2018/04/08/edovo-raises-9-million-to-provide-incarcerated-people-with-tablet-based-education/
+  Investors: >-
+    Kapor Capital, Ekistic Ventures, Lumina Foundation, SustainVC, Impact
+    Engine, Evolve Foundation, IDP Foundation, and Series Change Investment
+  Total: '$12,300,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/jail-education-solutions'
+  Keyword: prison education
+  Level: Prison
+  Type: B to B
+  Country: USA
+  Notes: ''
+- Month: April
+  Name: Edmentum
+  Amount: '$25,000,000'
+  Series: Debt financing
+  URL: >-
+    https://www.edsurge.com/news/2018-04-13-to-fuel-turnaround-edmentum-secures-25-million-in-debt-financing
+  Investors: New Mountain Finance Corporation and Tennenbaum Capital Partners
+  Total: Unknown
+  Crunchbase: 'https://www.crunchbase.com/organization/edmentum'
+  Keyword: online learning
+  Level: K-12
+  Type: B to C
+  Country: USA
+  Notes: Edmentum is owned by Thomas Bravo
+- Month: April
+  Name: CampusLogic
+  Amount: '$55,000,000'
+  Series: Private Equity
+  URL: >-
+    https://www.edsurge.com/news/2018-04-25-financial-aid-startup-campuslogic-raises-55m-to-fund-future-edtech-acquisitions
+  Investors: JMI Equity
+  Total: '$72,800,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/campuslogic'
+  Keyword: financial aid management
+  Level: Post-sec
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: April
+  Name: Knowbox
+  Amount: '$100,000,000'
+  Series: C
+  URL: ''
+  Investors: YF Capital and TAL Education Group
+  Total: '$155,800,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/knowbox-2'
+  Keyword: tutoring
+  Level: K-12
+  Type: B to C
+  Country: China
+  Notes: ''
+- Month: April
+  Name: Connexeo
+  Amount: '$110,000,000'
+  Series: Private Equity
+  URL: >-
+    https://www.edsurge.com/news/2018-04-09-education-administration-and-payment-company-connexeo-raises-110-million
+  Investors: Great Hill Partners
+  Total: Unknown
+  Crunchbase: 'https://www.crunchbase.com/organization/connexeo'
+  Keyword: school admin software
+  Level: K-12
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: April
+  Name: New Mountain Learning
+  Amount: Undisclosed
+  Series: Unknown
+  URL: >-
+    https://marketbrief.edweek.org/marketplace-k-12/k-12-dealmaking-new-mountain-learning-raises-funds-really-good-stuff-acquires-steve-spangler-science/
+  Investors: CIP Capital
+  Total: Unknown
+  Crunchbase: 'https://www.crunchbase.com/organization/new-mountain-learning'
+  Keyword: digital materials
+  Level: K-12
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: April
+  Name: Skillup Tutors
+  Amount: Undisclosed
+  Series: A
+  URL: >-
+    https://marketbrief.edweek.org/marketplace-k-12/k-12-dealmaking-ebix-buys-stake-smartclass-newschools-unveils-latest-cohort/
+  Investors: Knife Capital
+  Total: Unknown
+  Crunchbase: ''
+  Keyword: tutoring
+  Level: K-12
+  Type: B to C
+  Country: South Africa
+  Notes: ''
