@@ -609,6 +609,19 @@
   Country: UK
   Notes: ''
 - Month: March
+  Name: Edwin
+  Amount: '$1,500,000'
+  Series: Seed
+  URL: ''
+  Investors: ' Y Combinator, General Catalyst, Maxfield Capital, GWC Innovator Fund, VentureSouq, One Way Ventures'
+  Total: '$1,500,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/edwin-ai'
+  Keyword: tutoring
+  Level: K-12
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: March
   Name: Buddy4Study.com
   Amount: '$3,000,000'
   Series: A
@@ -1075,4 +1088,218 @@
   Level: K-12
   Type: B to C
   Country: South Africa
+  Notes: ''
+- Month: May
+  Name: Shearwater
+  Amount: '$600,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2018-05-04-shearwater-raises-600-000-in-seed-funding-to-connect-students-with-mentors
+  Investors: Rethink Education
+  Total: '$1,200,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/shearwater-international'
+  Keyword: mentoring
+  Level: 'K-12, Post-sec'
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: May
+  Name: Yellowdig
+  Amount: '$800,000'
+  Series: Venture
+  URL: >-
+    https://www.edsurge.com/news/2018-05-21-online-class-discussion-facilitator-yellowdig-adds-800k-in-funding
+  Investors: >-
+    Musketeer Capital, SRI Capital, QB1 Ventures, Rosecliff Capital, and Bob
+    Ciaruffoli
+  Total: '$2,400,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/yellowdig'
+  Keyword: discussion forum software
+  Level: Post-sec
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: May
+  Name: Selected
+  Amount: '$1,200,000'
+  Series: Seed
+  URL: ''
+  Investors: Propel Capital and Kapor Capital
+  Total: '$1,200,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/selected'
+  Keyword: teacher hiring
+  Level: K-12
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: May
+  Name: ClassWallet
+  Amount: '$2,300,000'
+  Series: Seed
+  URL: >-
+    https://marketbrief.edweek.org/marketplace-k-12/k-12-dealmaking-classwallet-raises-2-3-million-achieve3000-partners-icivics/
+  Investors: >-
+    Sinovation Ventures, NewSchools Venture Fund, Florida Funders, Brentwood
+    Associates, and Rainfall Capital
+  Total: '$6,300,000'
+  Crunchbase: >-
+    https://marketbrief.edweek.org/marketplace-k-12/k-12-dealmaking-classwallet-raises-2-3-million-achieve3000-partners-icivics/
+  Keyword: financial management
+  Level: K-12
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: May
+  Name: Learning Machine
+  Amount: '$3,000,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2018-05-07-learning-machine-raises-3m-seed-round-to-expand-its-team
+  Investors: 'PTB Ventures, Omidyar Network, and Learn Capital'
+  Total: '$3,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/learning-machine'
+  Keyword: blockchain transcripts
+  Level: Post-sec
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: May
+  Name: SelfStudy
+  Amount: '$3,000,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2018-05-30-selfstudy-raises-3m-to-bring-adaptive-learning-to-professional-societies-and-publishers
+  Investors: International Anesthesiology Research Society
+  Total: ''
+  Crunchbase: ''
+  Keyword: adaptive learning
+  Level: Post-sec
+  Type: B to B
+  Country: USA
+  Notes: ''
+- Month: May
+  Name: Real Time Cases
+  Amount: '$3,500,000'
+  Series: Venture
+  URL: >-
+    https://www.edsurge.com/news/2018-05-24-real-time-cases-raises-3-5-million-to-expand-digital-case-study-library
+  Investors: SWaN Ed LLC
+  Total: '$4,200,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/real-time-cases'
+  Keyword: digital curriculum
+  Level: Post-sec
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: May
+  Name: Coding
+  Amount: '$15,000,000'
+  Series: B
+  URL: ''
+  Investors: Tencent Holdings
+  Total: '$27,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/coding-2'
+  Keyword: learn-to-code
+  Level: Post-sec
+  Type: B to C
+  Country: China
+  Notes: ''
+- Month: May
+  Name: Learnosity
+  Amount: '$18,800,000'
+  Series: Venture
+  URL: >-
+    https://www.edsurge.com/news/2018-05-29-battery-ventures-takes-major-stake-in-online-assessment-platform-learnosity-for-at-least-18m
+  Investors: Battery Ventures
+  Total: '$52,400,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/learnosity'
+  Keyword: assessment
+  Level: Post-sec
+  Type: B to B
+  Country: Ireland
+  Notes: ''
+- Month: May
+  Name: Fuse Universal
+  Amount: '$20,000,000'
+  Series: B
+  URL: >-
+    https://www.edsurge.com/news/2018-05-10-fuse-universal-raises-20-million-to-expand-training-platform
+  Investors: Eight Roads Ventures
+  Total: '$30,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/fuse-universal'
+  Keyword: learning management system
+  Level: Corporate
+  Type: B to B
+  Country: UK
+  Notes: ''
+- Month: May
+  Name: Trilogy Education
+  Amount: '$50,000,000'
+  Series: B
+  URL: >-
+    https://techcrunch.com/2018/05/31/trilogy-education-gets-50m-to-build-a-market-driven-bootcamp-program-for-universities/
+  Investors: 'Highland Capital Partners, Macquarie Capital, and Exceed Capital'
+  Total: '$80,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/trilogy-education-services'
+  Keyword: learn-to-code
+  Level: Post-sec
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: May
+  Name: OpenClassrooms
+  Amount: '$60,000,000'
+  Series: B
+  URL: 'https://techcrunch.com/2018/05/16/openclassrooms-raises-another-60-million/'
+  Investors: 'Bpifrance, General Atlantic, Alven Capital, and Citizen Capital'
+  Total: '$69,700,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/openclassrooms'
+  Keyword: online education
+  Level: Post-sec
+  Type: B to C
+  Country: France
+  Notes: ''
+- Month: May
+  Name: New Markets Venture Partners
+  Amount: '$68,000,000'
+  Series: Venture
+  URL: >-
+    https://www.edsurge.com/news/2018-05-16-new-markets-venture-partner-s-not-so-new-edtech-fund-finally-closes-at-68-million
+  Investors: >-
+    ACT, Lumina Foundation, Strada Education Network, ECMC Group, and Prudential
+    Financial
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/new-markets-venture-partners'
+  Keyword: venture capital
+  Level: Corporate
+  Type: B to B
+  Country: USA
+  Notes: ''
+- Month: May
+  Name: Edwin
+  Amount: Undisclosed
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2018-05-03-google-assistant-and-edwin-want-to-be-your-next-english-tutor
+  Investors: Google and Google Assistant Investments
+  Total: '$1,500,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/edwin-a'
+  Keyword: tutoring
+  Level: K-12
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: May
+  Name: GoGuardian
+  Amount: Undisclosed
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/news/2018-05-29-sumeru-equity-partners-invests-in-goguardian-developer-of-k-12-device-and-web-management-tools
+  Investors: Sumeru Equity Partners
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/goguardian'
+  Keyword: device management
+  Level: K-12
+  Type: B to S
+  Country: USA
   Notes: ''
