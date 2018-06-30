@@ -1303,3 +1303,196 @@
   Type: B to S
   Country: USA
   Notes: ''
+- Month: June
+  Name: Squiggle Park
+  Amount: '$800,000'
+  Series: Seed
+  URL: >-
+    https://marketbrief.edweek.org/marketplace-k-12/k-12-dealmaking-lincoln-learning-acquires-evan-moor-ets-learnlaunch-fund-startups/
+  Investors: Heather Reisman and John Montalbano
+  Total: '$800,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/squiggle-park'
+  Keyword: reading software
+  Level: K-12
+  Type: B to C
+  Country: Canada
+  Notes: ''
+- Month: June
+  Name: FaceMetrics
+  Amount: '$2,000,000'
+  Series: Seed
+  URL: >-
+    https://venturebeat.com/2018/06/13/facemetrics-lands-2-million-to-gamify-kids-screen-time-and-track-immersion-with-ai/
+  Investors: Larnabel Ventures and VP Capital
+  Total: '$2,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/facemetrics'
+  Keyword: parental control
+  Level: K-12
+  Type: B to C
+  Country: Poland
+  Notes: ''
+- Month: June
+  Name: Gradescope
+  Amount: '$2,750,000'
+  Series: Venture
+  URL: >-
+    https://www.edsurge.com/news/2018-06-12-gradescope-raises-3-75m-to-speed-up-grading-in-higher-ed
+  Investors: >-
+    Reach Capital, K9 Ventures, Ironfire Ventures, GSV Acceleration, Freestyle
+    Capital, and Bloomberg Beta
+  Total: '$5,300,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/gradescope'
+  Keyword: automated assessment
+  Level: K-12
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: June
+  Name: Intersective
+  Amount: '$3,750,000'
+  Series: A
+  URL: >-
+    https://www.edsurge.com/news/2018-06-11-experiential-learning-platform-intersective-raises-3-75-million
+  Investors: Main Sequence Ventures
+  Total: '$3,800,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/intersective'
+  Keyword: internships
+  Level: Post-sec
+  Type: B to S
+  Country: Australia
+  Notes: ''
+- Month: June
+  Name: Winnie
+  Amount: '$4,000,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2018-06-27-family-friendly-parenting-app-winnie-raises-4-million
+  Investors: >-
+    Reach Capital, Rethink Impact, Homebrew, Ludlow Ventures, Afore Capital, BBG
+    Ventures, and Kairos
+  Total: '$6,500,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/winnie'
+  Keyword: parenting media
+  Level: K-12
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: June
+  Name: Bibliotech
+  Amount: '$5,000,000'
+  Series: Seed
+  URL: >-
+    https://www.afr.com/technology/bibliotech-a-spotify-of-textbooks-raises-5m-20180611-h11858
+  Investors: Undisclosed
+  Total: '$6,800,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/bibliotech'
+  Keyword: digital textbooks
+  Level: Post-sec
+  Type: B to S
+  Country: UK
+  Notes: ''
+- Month: June
+  Name: TinyTap
+  Amount: '$5,000,000'
+  Series: A
+  URL: >-
+    https://www.edsurge.com/news/2018-06-19-tinytap-raises-5-million-to-help-teachers-and-parents-make-find-and-sell-learning-games
+  Investors: 'Reinvent VC, Radiant Venture Capital, Aleph, and Inimiti'
+  Total: '$9,100,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/tinytap'
+  Keyword: educational apps
+  Level: K-12
+  Type: B to C
+  Country: Israel
+  Notes: ''
+- Month: June
+  Name: Open Learning
+  Amount: '$8,500,000'
+  Series: A
+  URL: >-
+    https://www.edsurge.com/news/2018-06-11-australian-startup-raises-8-5-million-to-expand-platform-for-hosting-moocs
+  Investors: >-
+    muru-D, Prestariang, Paramount Corporation Berhad, ICS Global, and Clive
+    Mayhew
+  Total: '$10,200,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/open-learning'
+  Keyword: online learning platform
+  Level: Post-sec
+  Type: B to C
+  Country: Australia
+  Notes: ''
+- Month: June
+  Name: JoyTunes
+  Amount: '$10,000,000'
+  Series: B
+  URL: ''
+  Investors: 'Jeremy Stoppelman, Insight Venture Partners, and Genesis Partners'
+  Total: '$17,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/joytunes'
+  Keyword: music education
+  Level: All
+  Type: B to C
+  Country: Israel
+  Notes: ''
+- Month: June
+  Name: Sphero
+  Amount: '$12,100,000'
+  Series: Venture
+  URL: >-
+    https://techcrunch.com/2018/06/13/sphero-raises-12m-as-it-focuses-on-education/
+  Investors: Walt Disney Company and Mercato Partners
+  Total: '$119,500,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/orbotix'
+  Keyword: toy-maker
+  Level: K-12
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: June
+  Name: Memrise
+  Amount: '$15,000,000'
+  Series: B
+  URL: >-
+    https://techcrunch.com/2018/06/11/memrise-raises-15-5m-as-its-ai-based-language-learning-app-passes-35m-users/
+  Investors: 'Octopus Ventures, Korelya Capital, Balderton Capital, Avalon Ventures'
+  Total: '$21,800,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/memrise'
+  Keyword: language learning
+  Level: All
+  Type: B to C
+  Country: UK
+  Notes: ''
+- Month: June
+  Name: PlayVS
+  Amount: '$15,500,000'
+  Series: A
+  URL: >-
+    https://techcrunch.com/2018/06/04/playvs-bringing-esports-infrastructure-to-high-schools-picks-up-15-million/
+  Investors: >-
+    New Enterprise Associates, Science, CrossCut Ventures, Coatue Management,
+    Cross Culture Ventures, the San Francisco 49ers, Nas, Michael Dubin, and
+    Kevin Lin
+  Total: '$15,500,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/playvs'
+  Keyword: e-sports
+  Level: K-12
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: June
+  Name: VIPKID
+  Amount: '$500,000,000'
+  Series: D
+  URL: >-
+    https://techcrunch.com/2018/06/21/chinas-vipkid-which-links-native-english-speakers-with-online-learners-raises-another-500m-reportedly-at-3b-valuation/
+  Investors: >-
+    Sequoia Capital, Matrix Partners, Tencent Holdings, Sinovation Ventures,
+    Northern Light Venture Capital, Learn Capital, YF Capital, Coatue
+    Management, and Bryant Stibel Investments
+  Total: '$825,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/vipkid'
+  Keyword: tutoring
+  Level: K-12
+  Type: B to C
+  Country: China
+  Notes: ''
