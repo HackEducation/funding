@@ -1496,3 +1496,266 @@
   Type: B to C
   Country: China
   Notes: ''
+- Month: July
+  Name: Move This World
+  Amount: '$1,000,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2018-07-10-sel-curriculum-startup-move-this-world-raises-1-million-in-seed-round
+  Investors: 'AT&T, The Global Good Fund, Prairie Capital, and New Media Investment Group'
+  Total: '$1,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/move-this-world'
+  Keyword: social emotional learning
+  Level: K-12
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: July
+  Name: Alma Campus
+  Amount: '$1,000,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2018-07-13-alma-campus-a-network-for-college-students-to-connect-with-each-other-raises-1-million
+  Investors: 'Norwest Venture Partners, Felicis Ventures, and Marissa Mayer'
+  Total: '$1,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/alma-campus'
+  Keyword: social network
+  Level: Post-sec
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: July
+  Name: Cell-ed
+  Amount: '$1,500,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2018-07-10-cell-ed-raises-1-5-million-to-help-low-skilled-workers-develop
+  Investors: >-
+    Lumina Impact Ventures. Strada Education Innovation Fund, Partners Group
+    Impact and Twilio.org Impact Fund
+  Total: '$1,500,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/cell-ed'
+  Keyword: mobile learning
+  Level: Corporate
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: July
+  Name: Preply
+  Amount: '$4,000,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2018-07-25-language-focused-online-tutoring-platform-raises-4-million
+  Investors: >-
+    Point Nine Capital, RTAventures VC, Diligent Capital Partners, SMRK, Mariusz
+    Gralewski, Arthur Kosten, and Przemyslaw Gacek
+  Total: '$5,600,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/findguru-me'
+  Keyword: tutoring
+  Level: K-12
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: July
+  Name: Kenzie Academy
+  Amount: '$4,200,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2018-07-18-tech-training-and-apprenticeship-startup-kenzie-academy-raises-4-2m
+  Investors: >-
+    Rethink Education, Learn Capital, Kelly Services, Gratitude Railroad, and
+    Butler University
+  Total: '$5,800,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/kenzie-academy'
+  Keyword: coding bootcamp
+  Level: Post-sec
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: July
+  Name: Goodwall
+  Amount: '$10,800,000'
+  Series: A
+  URL: >-
+    https://techcrunch.com/2018/07/12/goodwall-gets-10-8m-to-expand-its-linkedin-for-students/
+  Investors: >-
+    investiere, Zurcher Kantonal Bank, Randstad Innovation Fund, and Verve
+    Capital
+  Total: '$14,100,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/goodwall'
+  Keyword: professional social network (for students)
+  Level: Post-sec
+  Type: B to S
+  Country: Switzerland
+  Notes: ''
+- Month: July
+  Name: ApplyBoard
+  Amount: '$13,000,000'
+  Series: A
+  URL: >-
+    https://marketbrief.edweek.org/marketplace-k-12/k-12-dealmaking-boxlight-education-networks-america-make-acquisitions/
+  Investors: >-
+    Shahin Hedayat, Plug and Play, Green Century Investment, Artiman Ventures,
+    Akhil Saklech, and 500 Startups
+  Total: '$13,500,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/applyboard'
+  Keyword: college applications
+  Level: Post-sec
+  Type: B to C
+  Country: Canada
+  Notes: ''
+- Month: July
+  Name: Swing Education
+  Amount: '$15,000,000'
+  Series: B
+  URL: >-
+    https://www.edsurge.com/news/2018-07-11-swing-education-raises-15-million-to-connect-more-schools-with-substitute-teachers
+  Investors: >-
+    GV (Google Ventures), Kapor Capital, Ulu Ventures, Moment Ventures, Edovate
+    Capital, Red House Education, Owl Ventures, and Social Capital
+  Total: '$22,800,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/swing-education'
+  Keyword: hiring (substitute teachers)
+  Level: K-12
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: July
+  Name: RaiseMe
+  Amount: '$15,000,000'
+  Series: B
+  URL: >-
+    https://www.edsurge.com/news/2018-07-26-raiseme-gets-15m-to-help-students-cut-college-costs-if-they-do-well-in-school
+  Investors: >-
+    Teamworthy Ventures, the Chan Zuckerberg Initiative, Salesforce Ventures,
+    and Strada Education Network
+  Total: '$31,500,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/raise-labs-inc'
+  Keyword: financial aid management
+  Level: Post-sec
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: July
+  Name: Pi-top
+  Amount: '$16,000,000'
+  Series: B
+  URL: >-
+    https://www.edsurge.com/news/2018-07-03-chegg-nabs-online-flashcard-tool-studyblue-in-20-8-million-all-cash-acquisition
+  Investors: Hambro Perks and Committed Capital
+  Total: '$20,400,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/pi-top'
+  Keyword: learn-to-code (hardware)
+  Level: K-12
+  Type: B to C
+  Country: UK
+  Notes: ''
+- Month: July
+  Name: Unacademy
+  Amount: '$21,000,000'
+  Series: C
+  URL: >-
+    https://techcrunch.com/2018/07/16/online-learning-platform-unacademy-gets-21m-series-c-from-sequoia-india-saif-and-nexus/
+  Investors: 'Sequoia Capital, SAIF Partners, Blume Ventures, and Nexus Ventures'
+  Total: '$38,500,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/unacademy'
+  Keyword: online education
+  Level: Post-sec
+  Type: B to C
+  Country: India
+  Notes: ''
+- Month: July
+  Name: Galvanize
+  Amount: '$25,000,000'
+  Series: C
+  URL: >-
+    https://www.edsurge.com/news/2018-07-19-with-32m-in-new-funding-galvanize-acquires-coding-bootcamp-hack-reactor
+  Investors: >-
+    ABS Capital Partners, University Ventures, New Markets Venture Partners,
+    Catalyst Investors, and The Colorado Impact Fund
+  Total: '$117,200,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/galvanizeu'
+  Keyword: coding bootcamp
+  Level: Post-sec
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: July
+  Name: Skillshare
+  Amount: '$28,000,000'
+  Series: C
+  URL: >-
+    https://www.edsurge.com/news/2018-07-23-can-a-subscription-model-work-for-online-learners-and-teachers-skillshare-just-raised-28m-to-find-out
+  Investors: >-
+    Union Square Ventures, Burda Principal Investments, Amasia, and Spero
+    Ventures
+  Total: '$50,800,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/skillshare'
+  Keyword: online education
+  Level: Post-sec
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: July
+  Name: Guild Education
+  Amount: '$40,000,000'
+  Series: C
+  URL: >-
+    https://techcrunch.com/2018/07/25/guild-education-raises-40m-to-offer-employees-education-as-a-company-perk/
+  Investors: >-
+    Bessemer Venture Partners, Redpoint, Silicon Valley Bank, Felicis Ventures,
+    Salesforce Ventures, Harrison Metal, Cowboy Ventures, Rethink Education, and
+    Workday Ventures
+  Total: '$71,500,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/guild-education'
+  Keyword: employee education benefits
+  Level: Corporate
+  Type: B to B
+  Country: USA
+  Notes: ''
+- Month: July
+  Name: Zuoyebang
+  Amount: '$350,000,000'
+  Series: D
+  URL: ''
+  Investors: >-
+    New Enterprise Associates, Goldman Sachs, GGV Capital, Sequoia Capital
+    China, Coatue Management, Tiantu Capital, Primavera Capital Group, and Taihe
+    Capital
+  Total: '$585,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/zuoyebang'
+  Keyword: tutoring
+  Level: K-12
+  Type: B to C
+  Country: China
+  Notes: ''
+- Month: July
+  Name: Volley
+  Amount: Undisclosed
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/news/2018-07-17-ai-enterprise-learning-startup-volley-raises-strategic-funding-from-jpmorgan-chase
+  Investors: JP Morgan Chase
+  Total: '$7,300,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/volley-labs'
+  Keyword: '"personalized" textbooks'
+  Level: Post-sec
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: July
+  Name: Reach Capital
+  Amount: '$82,000,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/news/2018-07-30-reach-capital-s-newest-education-technology-investment-fund-closes-at-82-million
+  Investors: >-
+    TAL Education, Sesame Workshop, the Los Angeles Police and Fire Pensions
+    fund, Hill Capital Partners
+  Total: '$135,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/reach-capital'
+  Keyword: venture capital
+  Level: Corporate
+  Type: B to B
+  Country: USA
+  Notes: ''

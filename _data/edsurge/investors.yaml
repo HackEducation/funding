@@ -126,3 +126,23 @@
   Date: unknown
   Type: unknown
   Notes: ''
+- Name: Salesforce
+  Date: '2018'
+  Type: unknown
+  Notes: 'Grant amount: unknown. Sponsored content'
+- Name: AT&T Aspire
+  Date: '2016'
+  Type: grant
+  Notes: 'Grant amount: unknown. Sponsored content'
+- Name: Chan Zuckerberg Initiative
+  Date: '2018'
+  Type: grant
+  Notes: >-
+    Grant amount: $700,000. Sponsored content;
+    https://www.edsurge.com/news/2018-07-27-edsurge-receives-support-from-the-gates-foundation-czi
+- Name: Gates Foundation
+  Date: '2018'
+  Type: grant
+  Notes: >-
+    Grant amount: $750,000. Sponsored content;
+    https://www.edsurge.com/news/2018-07-27-edsurge-receives-support-from-the-gates-foundation-czi
