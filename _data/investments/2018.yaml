@@ -1714,6 +1714,36 @@
   Country: USA
   Notes: ''
 - Month: July
+  Name: Reach Capital
+  Amount: '$82,000,000'
+  Series: ''
+  URL: >-
+    https://www.edsurge.com/news/2018-07-30-reach-capital-s-newest-education-technology-investment-fund-closes-at-82-million
+  Investors: >-
+    TAL Education, Sesame Workshop, the Los Angeles Police and Fire Pensions
+    fund, Hill Capital Partners
+  Total: '$135,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/reach-capital'
+  Keyword: venture capital
+  Level: Corporate
+  Type: B to B
+  Country: USA
+  Notes: ''
+- Month: July
+  Name: Dreambox Learning
+  Amount: '$130,000,000'
+  Series: C
+  URL: >-
+    https://www.edsurge.com/news/2018-07-31-k-8-math-program-dreambox-raises-130-million-from-the-rise-fund-adds-arne-duncan-to-board
+  Investors: The Rise Fund
+  Total: '$175,600,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/dreambox-learning'
+  Keyword: adaptive learning
+  Level: K-12
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: July
   Name: Zuoyebang
   Amount: '$350,000,000'
   Series: D
@@ -1743,19 +1773,208 @@
   Type: B to S
   Country: USA
   Notes: ''
-- Month: July
-  Name: Reach Capital
-  Amount: '$82,000,000'
-  Series: ''
+- Month: August
+  Name: Pathrise
+  Amount: '$1,200,000'
+  Series: Seed
   URL: >-
-    https://www.edsurge.com/news/2018-07-30-reach-capital-s-newest-education-technology-investment-fund-closes-at-82-million
+    https://www.edsurge.com/news/2018-08-08-pathrise-a-career-accelerator-by-students-for-students-raises-1-2-million
   Investors: >-
-    TAL Education, Sesame Workshop, the Los Angeles Police and Fire Pensions
-    fund, Hill Capital Partners
-  Total: '$135,000,000'
-  Crunchbase: 'https://www.crunchbase.com/organization/reach-capital'
-  Keyword: venture capital
-  Level: Corporate
-  Type: B to B
+    Western Technology Investment, Quero Education, Long Venture Partners,
+    LetsVenture, Kutlu Kazanci, and GoAhead Ventures
+  Total: '$1,200,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/pathrise'
+  Keyword: career counseling
+  Level: Post-sec
+  Type: B to C
   Country: USA
+  Notes: ''
+- Month: August
+  Name: Nuada
+  Amount: '$1,200,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2018-08-13-adaptive-practice-app-nuadu-raises-1-2-million-in-seed-funding
+  Investors: Luna Ventures
+  Total: Unknown
+  Crunchbase: ''
+  Keyword: adaptive learning
+  Level: K-12
+  Type: B to S
+  Country: Poland
+  Notes: ''
+- Month: August
+  Name: Edmit
+  Amount: '$1,400,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2018-08-06-college-finder-and-planner-edmit-raises-2-3-million-in-seed-funding
+  Investors: Founder Collective
+  Total: '$2,300,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/edmit'
+  Keyword: college search engine
+  Level: Post-sec
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: August
+  Name: Concourse Global
+  Amount: '$2,000,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2018-08-16-company-that-uses-ai-and-college-counselors-raises-2-million
+  Investors: >-
+    Third Kind Venture Capital, LearnStart, Colle Capital Partners,
+    A-Star-Education Holdings, and Jay Varkey
+  Total: '$2,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/concourse-global'
+  Keyword: college counseling
+  Level: K-12
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: August
+  Name: Quizizz
+  Amount: '$3,000,000'
+  Series: Venture
+  URL: >-
+    https://www.edsurge.com/news/2018-08-10-quizizz-raises-3-million-to-bring-gamelike-quizzes-to-schools
+  Investors: 'Prime Venture Partners, Nexus Venture Partners, and GSF'
+  Total: '$3,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/quizizz'
+  Keyword: assessments
+  Level: K-12
+  Type: B to C
+  Country: India
+  Notes: ''
+- Month: August
+  Name: Writable
+  Amount: '$3,200,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2018-08-22-investors-write-3-2-million-check-for-writing-startup-that-s-all-about-peer-feedback
+  Investors: Omidyar Technology Ventures and Houghton Mifflin Harcourt
+  Total: '$3,200,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/writable-6a84'
+  Keyword: writing assessment
+  Level: K-12
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: August
+  Name: WeeCare
+  Amount: '$4,200,000'
+  Series: Seed
+  URL: >-
+    https://news.crunchbase.com/news/weecare-raises-4-2m-to-help-parents-balance-career-and-family/
+  Investors: >-
+    Wavemaker Partners, Social Capital, Amplify.LA, Fuel Capital, and Fika
+    Ventures
+  Total: '$4,200,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/weecare'
+  Keyword: preschool management and teacher training
+  Level: Pre-K
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: August
+  Name: HQ Education
+  Amount: '$7,300,000'
+  Series: A
+  URL: ''
+  Investors: Zero2IPO-Chenguang Education Fund and Shunwei Capital
+  Total: '$7,300,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/hq-education#section-overview'
+  Keyword: online education
+  Level: Unknown
+  Type: Unknown
+  Country: China
+  Notes: ''
+- Month: August
+  Name: Codeverse
+  Amount: '$10,000,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2018-08-24-codeverse-an-immersive-coding-studio-for-kids-raises-10-million-in-seed-funding
+  Investors: Listen Ventures
+  Total: '$10,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/codeverse'
+  Keyword: learn-to-code
+  Level: K-12
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: August
+  Name: Wonderschool
+  Amount: '$20,000,000'
+  Series: A
+  URL: >-
+    https://techcrunch.com/2018/08/10/wonderschool-raises-20m-to-help-people-start-in-home-preschools/
+  Investors: >-
+    Omidyar Network, Gary Community Investments, Round Capital, Andreessen
+    Horowitz, Jeff Jordan, and Abstract Ventures
+  Total: '$24,100,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/wonderschool'
+  Keyword: preschool management
+  Level: Pre-K
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: August
+  Name: Knewton
+  Amount: '$25,000,000'
+  Series: Venture
+  URL: >-
+    https://www.edsurge.com/news/2018-08-21-knewton-s-new-business-attracts-new-25m-in-funding-but-some-things-don-t-change
+  Investors: >-
+    Triple Point Capital, Accel, Atomico, Bessemer Venture Partners, FirstMark
+    Capital, First Round Capital, Founders Fund, and Sofina
+  Total: '$182,300,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/knewton'
+  Keyword: adaptive learning
+  Level: 'K-12, Post-sec'
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: August
+  Name: Makeblock
+  Amount: '$44,000,000'
+  Series: C
+  URL: >-
+    https://www.edsurge.com/news/2018-08-31-makeblock-raises-44-million-to-bring-steam-robots-and-kits-across-the-globe
+  Investors: >-
+    CICC ALPHA, Yuexiu Industrial Investment Fund, GX Capital, and Everest
+    Capital
+  Total: '$79,900,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/makeblock'
+  Keyword: robotics
+  Level: K-12
+  Type: B to C
+  Country: China
+  Notes: ''
+- Month: August
+  Name: Procare Software
+  Amount: Undisclosed
+  Series: Unknown
+  URL: 'https://marketbrief.edweek.org/marketplace-k-12/54360/'
+  Investors: Warburg Pincus
+  Total: Unknown
+  Crunchbase: 'https://www.crunchbase.com/organization/procare-software'
+  Keyword: preschool and childcare management
+  Level: Pre-K
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: August
+  Name: Tutorduck
+  Amount: Undisclosed
+  Series: Seed
+  URL: ''
+  Investors: CTO100
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/tutorduck'
+  Keyword: tutoring
+  Level: K-12
+  Type: B to C
+  Country: Hong Kong
   Notes: ''

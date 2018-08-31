@@ -111,15 +111,11 @@
   Type: venture capital
   Notes: ''
 - Name: Gates Foundation
-  Date: '2011, 2012, 2015, 2016'
+  Date: '2011, 2012, 2015, 2016, 2018'
   Type: grant
-  Notes: 'Total Gates Foundation grants received: $5,272,353'
+  Notes: 'Total Gates Foundation grants received: approx $6 million'
 - Name: 'Joyce Foundation '
   Date: '2014'
-  Type: grant
-  Notes: 'Grant amount: unknown'
-- Name: Chan Zuckerberg Initiative
-  Date: Unknown
   Type: grant
   Notes: 'Grant amount: unknown'
 - Name: Emerson Collective
@@ -139,10 +135,4 @@
   Type: grant
   Notes: >-
     Grant amount: $700,000. Sponsored content;
-    https://www.edsurge.com/news/2018-07-27-edsurge-receives-support-from-the-gates-foundation-czi
-- Name: Gates Foundation
-  Date: '2018'
-  Type: grant
-  Notes: >-
-    Grant amount: $750,000. Sponsored content;
     https://www.edsurge.com/news/2018-07-27-edsurge-receives-support-from-the-gates-foundation-czi
