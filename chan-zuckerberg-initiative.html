@@ -1,0 +1,30 @@
+---
+layout: default
+title: Chan Zuckerberg Initiative Investments
+---
+<h2><a name="top"></a>The Chan Zuckerberg Initiative's Education Investments <img src="https://s3.amazonaws.com/hackedu/icon_vc.png" height="42" width="42" align="right" style="margin:10px"></h2>
+
+<br />
+
+<p>How will the Chan Zuckerberg Initiative shape education policy? One way to answer that question is to look at the projects that the company (it is not a foundation) has backed since its inception. That is easier said than done, however, as it does not disclose where its money goes. To the best of my knowledge, these are the recipients of CZI grant and investment dollars:</p>
+
+<!-- Organizations -->
+{% assign investments = site.data.czi.investments %}
+{% assign investments = investments | sort:"Name" %}
+
+<!-- Document -->
+
+{% for investment in investments %}
+
+<ul>
+<li><strong>{{ investment.Name }}</strong> (Date: {{ investment.Date }}, Notes: {{ investment.Notes }})</li>
+</ul>
+
+{% endfor %}
+
+
+
+<p style="font-size:12px"><a href="#top"><em>Back to Top</em></a></p>
+
+<p style="text-align: right; font-size:12px"><em>This data is powered by a GitHub repository: <a href="https://Hack-Education-Data.github.io/chan-zuckerberg-initiative">Hack-Education-Data/chan-zuckerberg-initiative</a>. Last updated: 30 September 2018</em></p>
+

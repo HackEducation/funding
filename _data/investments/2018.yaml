@@ -1978,3 +1978,101 @@
   Type: B to C
   Country: Hong Kong
   Notes: ''
+- Month: September
+  Name: Amira Learning
+  Amount: '$3,000,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2018-09-20-ai-reading-startup-led-by-former-renaissance-learning-execs-raises-3-million
+  Investors: Vertical Venture Partners
+  Total: '$3,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/amira-learning'
+  Keyword: reading software
+  Level: K-12
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: September
+  Name: Perlego
+  Amount: '$4,800,000'
+  Series: Seed
+  URL: 'https://techcrunch.com/2018/09/10/perlego/'
+  Investors: 'Alex Chesterman, ADV, Simon Franks, and Peter Hinssen'
+  Total: '$6,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/perlego'
+  Keyword: textbooks
+  Level: Post-sec
+  Type: B to C
+  Country: UK
+  Notes: ''
+- Month: September
+  Name: SoloLearn
+  Amount: '$5,600,000'
+  Series: A
+  URL: >-
+    https://www.edsurge.com/news/2018-09-27-sololearn-raises-5-6-million-to-bring-bite-sized-coding-lessons-to-mobile-learners
+  Investors: Naspers and Learn Capital
+  Total: '$6,900,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/sololearn'
+  Keyword: learn-to-code
+  Level: K-12
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: September
+  Name: Masterclass
+  Amount: '$80,000,000'
+  Series: D
+  URL: >-
+    https://techcrunch.com/2018/09/06/masterclass-raises-80m-after-doubling-sales-last-year/
+  Investors: 'IVP, Javelin Ventures, NEA, Advancit Capital, Atomico, and Evolution Media'
+  Total: '$136,400,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/masterclass'
+  Keyword: online education from celebrities
+  Level: Post-sec
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: September
+  Name: Open Assessment Technologies
+  Amount: Undisclosed
+  Series: Corporate
+  URL: >-
+    https://www.edsurge.com/news/2018-09-05-act-s-latest-act-investing-in-an-open-source-assessment-startup
+  Investors: ACT
+  Total: Unknown
+  Crunchbase: >-
+    https://www.crunchbase.com/organization/open-assessment-technologies#section-overview
+  Keyword: assessment
+  Level: K-12
+  Type: B to S
+  Country: Luxembourg
+  Notes: ''
+- Month: September
+  Name: Carnegie Learning
+  Amount: Undisclosed
+  Series: Private Equity
+  URL: >-
+    https://www.edsurge.com/news/2018-09-06-carnegie-learning-gets-a-makeover-after-private-equity-investment
+  Investors: CIP Capital
+  Total: Unknown
+  Crunchbase: 'https://www.crunchbase.com/organization/carnegie-learning'
+  Keyword: curriculum
+  Level: K-12
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: September
+  Name: Bamboo Learning
+  Amount: Undisclosed
+  Series: ''
+  URL: >-
+    https://www.geekwire.com/2018/amazon-alexa-fund-invests-bamboo-learning-startup-introduces-screen-friendly-alexa-math-skill/
+  Investors: Amazon's Alexa Fund
+  Total: Unknown
+  Crunchbase: 'https://www.crunchbase.com/organization/bamboo-learning-inc'
+  Keyword: voice-activated IOT instruction
+  Level: K-12
+  Type: B to C
+  Country: USA
+  Notes: ''
