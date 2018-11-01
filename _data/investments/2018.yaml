@@ -2076,3 +2076,182 @@
   Type: B to C
   Country: USA
   Notes: ''
+- Month: October
+  Name: Juni Learning
+  Amount: '$790,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2018-10-21-juni-learning-raises-790k-to-bring-private-online-coding-tutoring-to-children
+  Investors: 'Arielle Zuckerberg, Jessica Livingston, Adora Cheung, and Deborah Quazzo'
+  Total: '$790,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/juni-learning'
+  Keyword: tutoring
+  Level: K-12
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: October
+  Name: Caribu
+  Amount: '$1,300,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2018-10-03-interactive-remote-reading-startup-caribu-raises-1-3-million
+  Investors: >-
+    Be Curious Partners, John Cooper, Revolution's Rise of the Rest Seed Fund,
+    and AT&T
+  Total: '$1,500,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/caribu'
+  Keyword: video-calling
+  Level: K-12
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: October
+  Name: Classting
+  Amount: '$4,000,000'
+  Series: Venture
+  URL: >-
+    https://www.edsurge.com/news/2018-10-23-class-communication-platform-classting-raises-4m
+  Investors: Mistletoe
+  Total: '$12,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/classting-inc#section-overview'
+  Keyword: messaging
+  Level: K-12
+  Type: B to S
+  Country: South Korea
+  Notes: ''
+- Month: October
+  Name: Repl.it
+  Amount: '$4,500,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2018-10-23-coding-platform-repl-it-raises-4-5m-in-seed-round-sees-user-growth
+  Investors: >-
+    Marc Andreessen, Andrew Chen, Bloomberg Beta, Reach Capital, and Y
+    Combinator
+  Total: '$4,600,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/replit'
+  Keyword: learn-to-code
+  Level: K-12
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: October
+  Name: Lingokids
+  Amount: '$6,000,000'
+  Series: A
+  URL: >-
+    https://www.edsurge.com/news/2018-10-02-lingokids-raises-6-million-series-a-round-to-help-children-learn-english
+  Investors: >-
+    HV Holtzbrinck Ventures, JME Venture Capital, Sabadell Ventures, BigSur,
+    Gwynne Shotwell, Reach Capital, Athos Capital, and All Iron Ventures
+  Total: '$12,500,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/lingokids'
+  Keyword: language learning
+  Level: K-12
+  Type: B to C
+  Country: Spain
+  Notes: ''
+- Month: October
+  Name: Mrs. Wordsworth
+  Amount: '$11,000,000'
+  Series: A
+  URL: >-
+    https://www.edsurge.com/news/2018-10-17-what-s-in-a-word-mrs-wordsmith-raises-11-million-to-become-the-pixar-of-literacy
+  Investors: 'Trustbridge Partners, Reach Capital, and Kindred Venture Capital'
+  Total: '$13,500,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/mrs-wordsmith'
+  Keyword: literacy
+  Level: K-12
+  Type: B to C
+  Country: UK
+  Notes: ''
+- Month: October
+  Name: Lambda School
+  Amount: '$14,000,000'
+  Series: A
+  URL: >-
+    https://www.edsurge.com/news/2018-10-08-lambda-school-raises-14m-to-grow-coding-school-offerings
+  Investors: Google Ventures and Stripe
+  Total: '$18,100,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/lambda-school'
+  Keyword: coding bootcamp
+  Level: Post-sec
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: October
+  Name: Kahoot
+  Amount: '$15,000,000'
+  Series: B
+  URL: >-
+    https://techcrunch.com/2018/10/10/kahoot-the-educational-gaming-startup-has-raised-another-15m-now-at-a-300m-valuation/
+  Investors: 'Northzone, Microsoft, and Datum AS'
+  Total: '$58,900,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/kahoot-'
+  Keyword: mobile quiz
+  Level: 'K-12, Post-sec'
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: October
+  Name: Brightwheel
+  Amount: '$21,000,000'
+  Series: B
+  URL: >-
+    https://www.edsurge.com/news/2018-10-03-brightwheel-bags-21-million-series-b-round-to-support-childcare-providers
+  Investors: >-
+    Bessemer Venture Partners, Omidyar Network, Chan Zuckerberg Initiative,
+    Eniac Ventures, GGV Capital, Golden Venture Partners, and Lowercase Capital
+  Total: '$33,800,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/brightwheel'
+  Keyword: preschool management software
+  Level: Pre-K
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: October
+  Name: Redshelf
+  Amount: '$25,000,000'
+  Series: C
+  URL: >-
+    https://www.edsurge.com/news/2018-10-10-redshelf-nabs-25-million-in-series-c-round
+  Investors: 'DNS Capital LLC, Tao Huang, and Rick Lane'
+  Total: '$33,100,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/redshelf'
+  Keyword: digital textbooks
+  Level: Post-sec
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: October
+  Name: Handshake
+  Amount: '$40,000,000'
+  Series: C
+  URL: >-
+    https://techcrunch.com/2018/10/31/handshake-a-linkedin-for-university-students-and-diversity-raises-40m-on-a-275m-valuation/
+  Investors: >-
+    True Ventures, Spark Capital, Reach Capital, Omidyar Network, Lightspeed
+    Venture Partners, Kleiner Perkins, KPCB Edge, EQT Ventures, Chan Zuckerberg
+    Initiative
+  Total: '$74,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/handshake-2'
+  Keyword: career placement
+  Level: Post-sec
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: October
+  Name: BYJUs
+  Amount: '$100,000,000'
+  Series: Private Equity
+  URL: >-
+    https://www.edsurge.com/news/2018-10-02-india-s-byju-s-reaches-unicorn-status-after-100-million-funding-round
+  Investors: General Atlantic India
+  Total: '$344,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/byju-s'
+  Keyword: test prep
+  Level: K-12
+  Type: B to C
+  Country: India
+  Notes: ''
