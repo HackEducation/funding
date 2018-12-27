@@ -50,16 +50,7 @@
           {{content}}
         </section>
         <footer class="post-footer">
-          <section class="share">
-            {% for social in site.social %}
-              {% if social.share_url != null %}
-                <a class="icon-{{ social.icon }}" href="{{ social.share_url }}{{ social.share_title }}{{page.title | cgi_escape}}{{ social.share_link }}{{post.sourceurl}}"
-                  onclick="window.open(this.href, '{{ social.icon }}-share', 'width=550,height=255');return false;">
-                <i class="fab fa-{{ social.icon }}"></i><span class="hidden">{{ social.icon }}</span>
-                </a>
-              {% endif %}
-            {% endfor %}
-          </section>
+
         </footer>
         <div class="bottom-teaser cf">
           <div class="isLeft">
@@ -75,7 +66,7 @@
           <div class="isRight">
             <h5 class="index-headline featured"><span>Credits</span></h5>
             <footer class="site-footer">
-                <section class="copyright"><i class="far fa-copyright"></i> 2018&nbsp;&nbsp;·&nbsp;&nbsp; <a href="http://audreywatters.com">About the author</a></section>
+                <section class="copyright"><i class="far fa-copyright"></i> 2010-2019&nbsp;&nbsp;·&nbsp;&nbsp; <a href="http://audreywatters.com">About the author</a></section>
                 <hr>
                 {% if page.imagecredits != null %}<a href="{{ page.imagecredits }}">Header image credits</a>{% else %}<a href="{{ site.covercredits }}">Image credits</a>{% endif %}
               </div>
