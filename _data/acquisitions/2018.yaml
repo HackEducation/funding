@@ -672,7 +672,7 @@
   Notes: ''
 - Date: November
   Name: Interfolio
-  Amount: '$110,000,000'
+  Amount: $110 million
   URL: >-
     https://www.edsurge.com/news/2018-11-27-faculty-information-system-developer-interfolio-acquired-for-110m
   Acquirer: Insight Venture Partners
@@ -697,4 +697,57 @@
   URL: >-
     https://marketbrief.edweek.org/marketplace-k-12/k-12-dealmaking-online-tutoring-startup-vedantu-raises-11-million-sandbox-co-makes-acquisition/
   Acquirer: Sandbox
+  Notes: ''
+- Date: December
+  Name: Workbench
+  Amount: Unknown
+  URL: >-
+    https://www.edsurge.com/news/2018-11-30-google-makes-a-rare-education-technology-acquisition-workbench
+  Acquirer: Google
+  Notes: ''
+- Date: December
+  Name: Codemonkey
+  Amount: Unknown
+  URL: >-
+    https://www.edsurge.com/news/2018-12-05-codemonkey-acquired-by-tal-education-group
+  Acquirer: TAL Education
+  Notes: ''
+- Date: December
+  Name: Lifeshare USA
+  Amount: Unknown
+  URL: >-
+    https://www.edsurge.com/news/2018-12-04-catapult-learning-acquires-lifeshare-usa-provider-of-private-special-ed-services
+  Acquirer: Catapult Learning
+  Notes: ''
+- Date: December
+  Name: NextTier Education
+  Amount: Unknown
+  URL: >-
+    https://www.edsurge.com/news/2018-12-14-follett-acquires-college-readiness-platform-nexttier
+  Acquirer: Follett
+  Notes: ''
+- Date: December
+  Name: Campus Vacations
+  Amount: '$7,000,000'
+  URL: 'https://techcrunch.com/2018/12/10/verve-campus-vacations/'
+  Acquirer: Verve
+  Notes: ''
+- Date: December
+  Name: School Loop
+  Amount: Unknown
+  URL: >-
+    https://www.edsurge.com/news/2018-12-10-private-equity-fund-think3-scoops-up-school-loop
+  Acquirer: Think3
+  Notes: ''
+- Date: December
+  Name: Knovation
+  Amount: Unknown
+  URL: 'https://www.edsurge.com/news/2018-12-20-act-acquires-oer-curator-knovation'
+  Acquirer: ACT
+  Notes: ''
+- Date: December
+  Name: Orbis
+  Amount: $362.5 million
+  URL: 'https://mfeldstein.com/grand-canyon-acquires-orbis-opm-market/'
+  Acquirer: Grand Canyon Education
   Notes: ''
