@@ -1,6 +1,6 @@
 ## CONTENT
 
-Copyright (c) 2010-2019 Audrey Watters
+Copyright (c) 2010-2020 Audrey Watters
 
 ## CODE
 
